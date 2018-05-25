@@ -17,6 +17,9 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png)
 
 
+#### 下图是一个基于监督学习的深度学习例子：</br>
+![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png)
+
 ## 术语解释
 
 ### A
