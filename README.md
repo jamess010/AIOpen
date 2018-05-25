@@ -10,7 +10,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### 模型（model）：包括了模型（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）；
 
-#### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernate）、Openstack等；
+#### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernetes）、Openstack等；
 
 #### AI开源全栈图：</br>
 ![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png)
@@ -22,19 +22,64 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 AI：Artificial Intelligence，人工智能</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
+Auto Encoder：自动编码器，一种无监督学习方法</br>
 
 ### C
 
+Caffe：Convolutional Architecture for Fast Feature Embedding，是一种常用的深度学习框架，在视频、图像处理方面应用较多</br>
 CNN：Convolutional Neural Networks，卷积神经网络</br>
 
 ### D
 
 DBN：Deep Belief Networks，深度置信网络</br>
 DNN：Deep Neural Networks，深度神经网络</br>
+Docker：容器</br>
+
+### F
+
+FPGA：Field-Programmable Gate Array，现场可编程门阵列</br>
+
+### G
+
+GAN：Generative Adversarial Networks，生成式对抗网络，一种最具前景的无监督学习方法</br>
+GPU：Graphics Processing Unit，图形处理器</br>
+
+### H
+
+Hadoop：是一个山寨google的分布式文件系统</br>
+HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
+Hive：基于Hadoop的一个数据仓库工具</br>
+
+### K
+
+Kafka：A Distributed Streaming Platform，是一种高吞吐量的分布式发布-订阅消息系统</br>
+K8S：Kubernetes</br>
+Keras：是一款基于Tensorflow或Theano的深度学习高级框架</br>
+Kubernetes：容器集群</br>
 
 ### L
 
 LSTM：Long Short-Term Memory，长短期记忆网络</br>
+
+### M
+
+MangoDB：NoSQL数据库</br>
+Matlib：基于Python的数据可视化工具</br>
+
+### N
+
+Numpy：基于Python的基础数据工具</br>
+
+### O
+
+OpenStack：一个开源的云计算管理平台项目</br>
+
+### P
+
+Pandas：Python Data Analysis Library，一个基于Python的数据处理工具</br>
+PySpark：一种基于Python的Spark编程接口</br>
+Python：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
+PyTorch：一个基于Python的深度学习框架</br>
 
 ### R
 
@@ -42,6 +87,25 @@ RBM：Restricted Boltzmann Machines，受限玻尔兹曼机</br>
 RL: Reinforcement Learning，强化学习</br>
 RNN：Recurrent Neural Networks，循环神经网络</br>
 
+### S
 
+Scala：一种Spark编程语言</br>
+Slim：Tensorflow的一个辅助工具</br>
+Spark：基于内存的分布式计算引擎</br>
+Storm：基于流的分布式计算引擎</br>
 
+### T
+
+TF-Slim：Tensorflow的一个辅助工具</br>
+Theano：用于深度学习的框架，基于Python</br>
+Tensorflow：Google的一款用于深度学习的框架，基于Python</br>
+TPU：Tensor Processing Unit，向量处理器，是google的一款高性能处理器</br>
+
+### Y
+
+Yann：集群管理工具</br>
+
+### Z
+
+zookeeper：集群管理工具</br>
 
