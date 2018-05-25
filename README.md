@@ -68,8 +68,8 @@ LSTM：Long Short-Term Memory，长短期记忆网络</br>
 
 ### M
 
-MangoDB：NoSQL数据库</br>
-Matlib：基于Python的数据可视化工具</br>
+MongoDB：NoSQL数据库</br>
+Matplotlib：基于Python的数据可视化工具</br>
 ML：Machine Learning，机器学习</br>
 
 ### N
