@@ -12,7 +12,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernetes）、Openstack等；
 
-#### AI开源全栈图：</br>
+#### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
 ![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png)
 
 
