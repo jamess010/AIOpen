@@ -32,6 +32,7 @@ CNN：Convolutional Neural Networks，卷积神经网络</br>
 ### D
 
 DBN：Deep Belief Networks，深度置信网络</br>
+DL：Deep Learnging，深度学习</br>
 DNN：Deep Neural Networks，深度神经网络</br>
 Docker：容器</br>
 
@@ -65,6 +66,7 @@ LSTM：Long Short-Term Memory，长短期记忆网络</br>
 
 MangoDB：NoSQL数据库</br>
 Matlib：基于Python的数据可视化工具</br>
+ML：Machine Learning，机器学习</br>
 
 ### N
 
