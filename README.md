@@ -6,7 +6,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 人工智能的三要素：数据（data）、模型（model）和算力（computing power）；AIOopen项目将按此进行分类汇总。
 
-#### 数据（data）：包括了数据集、数据工具（数据抓取、数据区块链等）、数据存储、数据集群等；
+#### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；
 
 #### 模型（model）：包括了模型（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）；
 
@@ -14,6 +14,33 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### AI开源全栈图：</br>
 ![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png)
+
+
+## 术语解释
+
+### A
+
+AI：Artificial Intelligence，人工智能</br>
+ANN：Artificial Neural Networks，人工神经网络</br>
+
+### C
+
+CNN：Convolutional Neural Networks，卷积神经网络</br>
+
+### D
+
+DBN：Deep Belief Networks，深度置信网络</br>
+DNN：Deep Neural Networks，深度神经网络</br>
+
+### L
+
+LSTM：Long Short-Term Memory，长短期记忆网络</br>
+
+### R
+
+RBM：Restricted Boltzmann Machines，受限玻尔兹曼机</br>
+RL: Reinforcement Learning，强化学习</br>
+RNN：Recurrent Neural Networks，循环神经网络</br>
 
 
 
