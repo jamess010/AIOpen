@@ -29,9 +29,6 @@
  
 计算机视觉
  
- 
- 
- 
 【学术、经典、陈旧】MNIST：最常用的完整性检查数据集，图像大小为25x25的B＆W手写数字，但在 MNIST 上性能良好，并不意味着模型本身很好。
  
 地址：http://pjreddie.com/projects/mnist-in-csv/
