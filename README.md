@@ -74,6 +74,7 @@ ML：Machine Learning，机器学习</br>
 
 ### N
 
+NLP： Natural Language Processing，自然语言处理，是人工智能(AI)的一个子领域。</br>
 Numpy：基于Python的基础数据工具</br>
 
 ### O
