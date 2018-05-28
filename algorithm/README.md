@@ -60,3 +60,28 @@ NLTK，是提到的最广泛的NLP库。</br>
 
 TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。</br>
 地址：https://github.com/EpistasisLab/tpot
+
+CaffeOnSpark：该项目最初在雅虎开发而成，将Caffe深度学习框架引入到Hadoop和Spark集群。它用于图像搜索和内容分类以及其他使用场合。</br>
+地址：https://github.com/yahoo/CaffeOnSpark
+
+ConvNetJS：这个JavaScript库让用户可以从浏览器来训练深度学习模型。它承诺“无软件要求、无需编译器、无需安装、无需GPU、无需流汗水。</br>
+地址：https://cs.stanford.edu/people/karpathy/convnetjs/
+
+DeepDetect：被空中客车和微软之类的企业组织所使用，它是基于Caffe、TensorFlow和XGBoost的开源深度学习服务器系统。它为图像分类、对象检测、文本及数字数据分析提供了一套易于使用的API。</br>
+地址：https://deepdetect.com
+
+Dlib：提供了一套可快速执行的C ++机器学习库。它包括诸多算法，可用于二进制分类、多类分类、回归、结构预测、深度学习、聚类、非监督学习、半监督/度量学习、强化学习和特征选择。</br>
+地址：http://dlib.net/ml.html
+
+GoLearn：自诩为面向Go编程语言的“一应俱全的”机器学习库。它力求简单性和可定制性。</br>
+地址；https://github.com/sjwhitworth/golearn
+
+Pattern：基于Python，提供了众多工具，可用于数据挖掘、自然语言处理、机器学习、网络分析和可视化。它尤其适用于Web挖掘这个应用场合。</br>
+地址：https://www.clips.uantwerpen.be/pages/pattern
+
+MLlib：作为Apache Spark项目的一部分，MLlib是一个机器学习库，承诺性能比MapReduce高100倍。它包括众多算法，用于分类、回归、决策树、推荐、聚类、主题建模、模式挖掘等。</br>
+地址：https://spark.apache.org/mllib/
+
+
+
+
