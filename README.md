@@ -3,10 +3,11 @@
 AIOpen（AI开源）项目致力于跟踪目前人工智能（AI）的深度学习（DL）开源项目，并尽可能地罗列目前的开源项目，同时加入了一些曾经做过的代码用于理解深度学习的奥秘。
 
 AI（人工智能）包括目前比较热门的深度学习、机器学习和与机器智能相关的技术。总体来说，人工智能包含了机器学习，机器学习包含了（神经网络）深度学习。它们之间的关系如下图：</br>
-![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl.png)
+
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl.png" width="600" height="200" /></div>
 
 人工智能的三要素：数据（data）、算法（algorithm）和算力（computing power）；三者之间的关系如下图：</br>
-![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png)
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="600" height="200" /></div>
 
 * #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；数据从来源可以分为三种：
   * 来自政府、大公司（google、BAT等）自上而下的公共数据集，如：MNIST，ImageNet，Kaggle等。
@@ -18,7 +19,8 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 * #### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernetes）、Openstack等；
 
 #### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
-![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png)
+
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="400" height="420" /></div>
 
 
 #### 下图是一个基于监督学习的深度学习例子：</br>
