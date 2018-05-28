@@ -1,5 +1,4 @@
 # AIOpen
----
 
 AIOpen（AI开源）项目致力于跟踪目前人工智能（AI）的深度学习（DL）开源项目，并尽可能地罗列目前的开源项目，同时加入了一些曾经做过的代码用于理解深度学习的奥秘。
 
@@ -30,10 +29,9 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 #### 下图是一个基于监督学习的深度学习例子：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
-</br>
+---
 
 # 术语解释
----
 
 ### A
 
@@ -131,9 +129,9 @@ Yann：集群管理工具</br>
 
 zookeeper：集群管理工具</br>
 
+---
 
 # 联系我们
----
 
 ### 欢迎任何反馈、建议和贡献
 - #### Website：http://www.aiopens.net
