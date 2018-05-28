@@ -136,5 +136,4 @@ zookeeper：集群管理工具</br>
 * #### Website：http://www.aiopens.net
 * #### E-mail：jamess@126.com
 * #### 微信扫描下方二维码，关注“AIOpens”公众号
-
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/aiopens_weixin.jpg" /></div>
