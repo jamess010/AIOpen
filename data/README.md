@@ -16,3 +16,6 @@
 
 知乎数据，各领域公开数据集下载。</br>
 地址：https://zhuanlan.zhihu.com/p/25138563
+
+Curve:开源异常检测辅助标注工具，百度、清华联合出品。</br>
+地址：https://github.com/baidu/Curve

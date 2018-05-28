@@ -33,7 +33,8 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ### A
 
-AI：Artificial Intelligence，人工智能</br>
+AGI：Artificial General Intelligence，通用人工智能。</br>
+AI：Artificial Intelligence，人工智能。</br>
 Algorithm：人工智能算法,目前最主流的是深度学习。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
 Auto Encoder：自动编码器，一种无监督学习方法</br>
