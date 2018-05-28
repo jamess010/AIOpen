@@ -30,6 +30,18 @@ Sawtooth Lake：目前是用于建造、部署和运行分布式账本的高度�
 Neblio 是给企业或者机构提供区块链解决方案的技术平台。</br>
 地址：https://nebl.io/
 
+Zilliqa：是一个新的区块链平台，每秒可处理数千个交易，并且内置分片。通过分片，Zilliqa 可以匹配传统支付方式（如VISA和MasterCard）设置的吞吐量基准。更重要的是，Zilliqa 的交易吞吐量随其网络规模（大致）线性增加。</br>
+地址：https://github.com/Zilliqa/Zilliqa
+
+Storj：是基于 blockchain 技术和点对点协议来提供最安全，私有和加密的云存储。 </br>
+地址：https://github.com/storj
+
+RChain：是一个去中心化的、经济的、抵制审查的公共计算基础设施和区块链。它将主持并执行通常被称为“智能合约”的计划。这将是可信的、可扩展的、并行的，具有POS共识和内容交付。</br>
+地址：https://github.com/rchain/rchain
+
+BCOS：BlockChainOpenSource，是一个完全开源的区块链底层技术平台，由深圳前海微众银行股份有限公司、上海万向区块链股份公司、矩阵元技术（深圳）有限公司三方共同研发。</br>
+地址：https://github.com/bcosorg/bcos
+
 一个非常简单，不大安全，不太完整的用Python编写的加密货币区块链实现。</br>
 地址：https://github.com/cosme12/SimpleCoin
 
