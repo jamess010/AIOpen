@@ -7,6 +7,10 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl.png" width="600" height="200" /></div>
 </br>
 
+----
+
+# AI三要素
+
 人工智能的三要素：数据（data）、算法（algorithm）和算力（computing power）；三者之间的关系如下图：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="460" height="230"/></div>
 
@@ -20,11 +24,19 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 - #### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernetes）、Openstack等；
 
+---
+
+# AI全栈图
+
 #### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
 
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="600" height="620" /></div>
 
 </br>
+
+---
+
+# 深度学习流程
 
 #### 下图是一个基于监督学习的深度学习例子：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
