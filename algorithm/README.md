@@ -1,5 +1,5 @@
 # algorithm（模型，人工智能三要素之一）
------------------------------
+
 ### 本分支主要汇总AI开源模型，包括模型方法、模型训练架构等。
 
 * methods：深度学习方法。
@@ -38,7 +38,7 @@ Mask R-CNN：对象检测和分割的Keras和TensorFlow代码。</br>
 地址：https://github.com/matterport/Mask_RCNN
 
 Becca：开源AGI项目。</br>
-地址：https://github.com/alito/becca
+地址：https://github.com/brohrer/becca
 
 一个AGI项目。</br>
 地址：http://tieba.baidu.com/p/4904018512
