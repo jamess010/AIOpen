@@ -57,3 +57,6 @@ SpaCy，为性能而建的一个工业强度的NLP库。</br>
 
 NLTK，是提到的最广泛的NLP库。</br>
 地址：https://github.com/nltk/nltk
+
+TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。</br>
+地址：https://github.com/EpistasisLab/tpot
