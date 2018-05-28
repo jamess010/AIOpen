@@ -132,6 +132,6 @@ zookeeper：集群管理工具</br>
 
 # 联系我们
 ------------
-### 扫下方二维码进AIOpens官方用户群，请注明"AIOpens进群"
+### 请扫描下方二维码进AIOpens官方用户群，请注明"AIOpens进群"
 
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/aiopens_weixin.jpg" /></div>
