@@ -1,15 +1,16 @@
 # AIOpen
 
-AIOpen（AI开源）项目致力于跟踪目前人工智能（AI）的开源项目，并尽可能地罗列目前的开源项目，同时加入了一些曾经做过的代码用于理解深度学习的奥秘。
+AIOpen（AI开源）项目致力于跟踪目前人工智能（AI）的深度学习（DL）开源项目，并尽可能地罗列目前的开源项目，同时加入了一些曾经做过的代码用于理解深度学习的奥秘。
 
 AI（人工智能）包括目前比较热门的深度学习、机器学习和与机器智能相关的技术。总体来说，人工智能包含了机器学习，机器学习包含了（神经网络）深度学习。它们之间的关系如下图：</br>
 ![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl.png)
 
-人工智能的三要素：数据（data）、模型（model）和算力（computing power）；AIOpen项目将按此进行分类汇总。
+人工智能的三要素：数据（data）、算法（algorithm）和算力（computing power）；三者之间的关系如下图：</br>
+![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png)
 
 #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；
 
-#### 模型（model）：包括了模型（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）；
+#### 算法（algorithm）：包括了模型（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）；
 
 #### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernetes）、Openstack等；
 
@@ -25,6 +26,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ### A
 
 AI：Artificial Intelligence，人工智能</br>
+Algorithm：人工智能算法,目前最主流的是深度学习。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
 Auto Encoder：自动编码器，一种无监督学习方法</br>
 
