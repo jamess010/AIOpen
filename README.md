@@ -7,7 +7,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl.png" width="600" height="200" /></div>
 
 人工智能的三要素：数据（data）、算法（algorithm）和算力（computing power）；三者之间的关系如下图：</br>
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="600" height="200" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="600" height="350" /></div>
 
 * #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；数据从来源可以分为三种：
   * 来自政府、大公司（google、BAT等）自上而下的公共数据集，如：MNIST，ImageNet，Kaggle等。
@@ -20,11 +20,11 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
 
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="400" height="420" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="600" height="620" /></div>
 
 
 #### 下图是一个基于监督学习的深度学习例子：</br>
-![](https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png)
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
 ## 术语解释
 
