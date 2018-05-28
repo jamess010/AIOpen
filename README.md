@@ -5,9 +5,11 @@ AIOpen（AI开源）项目致力于跟踪目前人工智能（AI）的深度学�
 AI（人工智能）包括目前比较热门的深度学习、机器学习和与机器智能相关的技术。总体来说，人工智能包含了机器学习，机器学习包含了（神经网络）深度学习。它们之间的关系如下图：</br>
 
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl.png" width="600" height="200" /></div>
+</br>
 
 人工智能的三要素：数据（data）、算法（algorithm）和算力（computing power）；三者之间的关系如下图：</br>
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="600" height="350" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="460" height="230"/></div>
+
 
 * #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；数据从来源可以分为三种：
   * 来自政府、大公司（google、BAT等）自上而下的公共数据集，如：MNIST，ImageNet，Kaggle等。
@@ -22,10 +24,11 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="600" height="620" /></div>
 
-
+</br>
 #### 下图是一个基于监督学习的深度学习例子：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
+</br>
 ## 术语解释
 
 ### A
