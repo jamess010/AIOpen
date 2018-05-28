@@ -1,6 +1,8 @@
 # applications
-
+------------------------------
 ### 本分支主要汇总AI开源应用项目。
+
+### 其它资源列表
 
 ApolloAuto，是百度的开源自动驾驶平台。</br>
 地址：https://github.com/apolloauto
