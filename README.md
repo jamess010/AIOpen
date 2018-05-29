@@ -83,6 +83,7 @@ FPGA：Field-Programmable Gate Array，现场可编程门阵列</br>
 ### G
 
 GAN：Generative Adversarial Networks，生成式对抗网络，一种最具前景的无监督学习方法</br>
+GMM：混合高斯模型</br>
 GPU：Graphics Processing Unit，图形处理器</br>
 
 ### H
@@ -90,6 +91,7 @@ GPU：Graphics Processing Unit，图形处理器</br>
 Hadoop：是一个山寨google的分布式文件系统</br>
 HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
+HMM：隐马尔可夫模型</br>
 
 ### K
 
@@ -104,9 +106,12 @@ LSTM：Long Short-Term Memory，长短期记忆网络</br>
 
 ### M
 
-MongoDB：NoSQL数据库</br>
 Matplotlib：基于Python的数据可视化工具</br>
+MFCC：梅尔倒谱系数</br>
 ML：Machine Learning，机器学习</br>
+MLP：多层感知器</br>
+MongoDB：NoSQL数据库</br>
+MSE：均方误差</br>
 
 ### N
 
@@ -119,6 +124,7 @@ OpenStack：一个开源的云计算管理平台项目</br>
 
 ### P
 
+PCA 主成分分析</br>
 Pandas：Python Data Analysis Library，一个基于Python的数据处理工具</br>
 PySpark：一种基于Python的Spark编程接口</br>
 Python：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
