@@ -42,6 +42,17 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
 ---
+# 目录说明
+- #### data：数据
+
+- #### algorithm：算法
+
+- #### power：算力
+
+- #### applications：AI应用
+
+- #### others：一些未分类的资源
+---
 
 # 术语解释
 
