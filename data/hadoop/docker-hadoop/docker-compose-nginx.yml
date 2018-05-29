@@ -1,0 +1,71 @@
+nginx:
+  build: ./nginx
+  hostname: nginx
+  net: hadoop
+  container_name: nginx
+  ports:
+    - "8080:80"
+
+namenode:
+  image: bde2020/hadoop-namenode:1.0.0
+  hostname: namenode
+  container_name: namenode
+  domainname: hadoop
+  net: hadoop
+  volumes:
+    - ./data/namenode:/hadoop/dfs/name
+  environment:
+    - CLUSTER_NAME=test
+  env_file:
+    - ./hadoop.env
+
+resourcemanager:
+  image: bde2020/hadoop-resourcemanager:1.0.0
+  hostname: resourcemanager
+  container_name: resourcemanager
+  domainname: hadoop
+  net: hadoop
+  env_file:
+    - ./hadoop.env
+
+historyserver:
+  image: bde2020/hadoop-historyserver:1.0.0
+  hostname: historyserver
+  container_name: historyserver
+  domainname: hadoop
+  net: hadoop
+  volumes:
+    - ./data/historyserver:/hadoop/yarn/timeline
+  env_file:
+    - ./hadoop.env
+
+nodemanager1:
+  image: bde2020/hadoop-nodemanager:1.0.0
+  hostname: nodemanager1
+  container_name: nodemanager1
+  domainname: hadoop
+  net: hadoop
+  env_file:
+    - ./hadoop.env
+
+datanode1:
+  image: bde2020/hadoop-datanode:1.0.0
+  hostname: datanode1
+  container_name: datanode1
+  domainname: hadoop
+  net: hadoop
+  volumes:
+    - ./data/datanode1:/hadoop/dfs/data
+  env_file:
+    - ./hadoop.env
+
+datanode2:
+  image: bde2020/hadoop-datanode:1.0.0
+  hostname: datanode2
+  container_name: datanode2
+  domainname: hadoop
+  net: hadoop
+  volumes:
+    - ./data/datanode2:/hadoop/dfs/data
+  env_file:
+    - ./hadoop.env

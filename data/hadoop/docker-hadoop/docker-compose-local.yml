@@ -1,0 +1,95 @@
+version: "2"
+
+services:
+  namenode:
+    build: ./namenode
+    hostname: namenode
+    container_name: namenode
+    volumes:
+      - ./data/namenode:/hadoop/dfs/name
+    environment:
+      - CLUSTER_NAME=test
+    env_file:
+      - ./hadoop.env
+
+  resourcemanager:
+    build: ./resourcemanager
+    hostname: resourcemanager
+    container_name: resourcemanager
+    depends_on:
+      - "namenode"
+    links:
+      - "namenode"
+    ports:
+      - "58088:8088"
+    env_file:
+      - ./hadoop.env
+
+  historyserver:
+    build: ./historyserver
+    hostname: historyserver
+    container_name: historyserver
+    volumes:
+      - ./data/historyserver:/hadoop/yarn/timeline
+    depends_on:
+      - "namenode"
+    links:
+      - "namenode"
+    ports:
+      - "58188:8188"
+    env_file:
+      - ./hadoop.env
+
+  nodemanager1:
+    build: ./nodemanager
+    hostname: nodemanager1
+    container_name: nodemanager1
+    depends_on:
+      - "namenode"
+      - "resourcemanager"
+    links:
+      - "namenode"
+      - "resourcemanager"
+    ports:
+      - "58042:8042"
+    env_file:
+      - ./hadoop.env
+
+  datanode1:
+    build: ./datanode
+    hostname: datanode1
+    container_name: datanode1
+    depends_on:
+      - "namenode"
+    links:
+      - "namenode"
+    volumes:
+      - ./data/datanode1:/hadoop/dfs/data
+    env_file:
+      - ./hadoop.env
+
+  datanode2:
+    build: ./datanode
+    hostname: datanode2
+    container_name: datanode2
+    depends_on:
+      - "namenode"
+    links:
+      - "namenode"
+    volumes:
+      - ./data/datanode2:/hadoop/dfs/data
+    env_file:
+      - ./hadoop.env
+
+  datanode3:
+    build: ./datanode
+    hostname: datanode3
+    container_name: datanode3
+    depends_on:
+      - "namenode"
+    links:
+      - "namenode"
+    volumes:
+      - ./data/datanode3:/hadoop/dfs/data
+    env_file:
+      - ./hadoop.env
