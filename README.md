@@ -159,6 +159,10 @@ Yann：集群管理工具</br>
 zookeeper：集群管理工具</br>
 
 ---
+# 参考资料
+
+[Guide to Open Source AI: Projects, Insights, and Trends](https://pan.baidu.com/s/19vu8pzbop9C9ORjkismE5A)
+---
 
 # 联系我们
 
