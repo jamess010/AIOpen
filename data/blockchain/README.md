@@ -63,3 +63,9 @@ AI+区块链写码全过程。</br>
 #### 几大主流开源技术的比较：
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bc-compare.png" width="700" height="350" /></div>
 </br>
+
+---
+#### 区块链思维导图
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bc-2.png" width="700" height="350" /></div>
+</br>
+
