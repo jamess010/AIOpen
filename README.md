@@ -179,6 +179,8 @@ zookeeper：集群管理工具</br>
 
 [2018中国区块链产业白皮书](https://pan.baidu.com/s/17jGDJVDty0MNS-9o9s6ovA)
 
+[《企业以太坊客户端规范1.0》](https://pan.baidu.com/s/1HVmeyml6VRHnGdzxQJUcag)
+
 [大数据标准化白皮书（2018）](https://pan.baidu.com/s/1i5EGSjifQDScvWOOv6UfrA)
 
 [国密算法规范-SM2/SM3/SM4/SM9](https://pan.baidu.com/s/1kL2uAUdOfnDWuSD-JBeJDw)
