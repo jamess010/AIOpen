@@ -1,3 +1,5 @@
+# 区块链资源列表
+
 BitCoin：比特币区块链的核心技术框架采用C++语言开发，共识算法采用POW算法，工作量（挖矿）证明获得记账权，容错50%，实现全网记账，公网性能TPS<7。</br>
 地址：https://github.com/bitcoin/bitcoin
 
@@ -53,6 +55,9 @@ python编写的区块链解析器Blockchain parser。</br>
 
 AI+区块链写码全过程。</br>
 地址：https://github.com/llSourcell/blockchain_consensus
+
+基于区块链的积分系统。</br>
+地址：https://github.com/echplus/bc_pointsplatform
 
 ----
 #### 几大主流开源技术的比较：
