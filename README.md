@@ -162,6 +162,13 @@ zookeeper：集群管理工具</br>
 # 参考资料
 
 [Guide to Open Source AI: Projects, Insights, and Trends](https://pan.baidu.com/s/19vu8pzbop9C9ORjkismE5A)
+
+[人工智能标准化白皮书（2018）](https://pan.baidu.com/s/1_MzUDIJcX3b2_slsW5PdzQ)
+
+[大数据标准化白皮书（2018）](https://pan.baidu.com/s/1i5EGSjifQDScvWOOv6UfrA)
+
+
+
 ---
 
 # 联系我们
