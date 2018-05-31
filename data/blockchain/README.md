@@ -74,7 +74,7 @@ AI+区块链写码全过程。</br>
 以太坊python实现。</br>
 地址：https://github.com/ethereum/pyethapp
 
-超块链。 </br>
+超块链：是一种区块链技术，支持多币多账本，无基础币，不依赖特定账本，对跨链交易、非金融业务有更好的支持。 </br>
 地址：https://github.com/HyperBlockChain
 
 ----
