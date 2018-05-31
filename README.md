@@ -80,6 +80,7 @@ Auto Encoder：自动编码器，一种无监督学习方法</br>
 
 Caffe：Convolutional Architecture for Fast Feature Embedding，是一种常用的深度学习框架，在视频、图像处理方面应用较多</br>
 CNN：Convolutional Neural Networks，卷积神经网络</br>
+CNTK：Computational Network Toolkit，微软开发的深度学习商业工具包。
 
 ### D
 
@@ -109,7 +110,7 @@ HMM：隐马尔可夫模型</br>
 
 Kafka：A Distributed Streaming Platform，是一种高吞吐量的分布式发布-订阅消息系统</br>
 K8S：Kubernetes</br>
-Keras：是一款基于Tensorflow或Theano的深度学习高级框架</br>
+Keras：是一款基于Tensorflow、Theano、CNTK为后端的深度学习高级框架</br>
 Kubernetes：容器集群</br>
 
 ### L
