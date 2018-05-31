@@ -68,7 +68,7 @@ AI+区块链写码全过程。</br>
 </br>
 
 #### 共识机制比较：
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bc_compare2.png" width="700" height="350" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bt_compare2.png" width="700" height="350" /></div>
 </br>
 
 ---
