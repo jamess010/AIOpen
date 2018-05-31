@@ -74,6 +74,9 @@ AI+区块链写码全过程。</br>
 以太坊python实现。</br>
 地址：https://github.com/ethereum/pyethapp
 
+超块链。 </br>
+地址：https://github.com/HyperBlockChain
+
 ----
 #### 几大主流开源技术的比较：
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bc-compare.png" width="700" height="350" /></div>
