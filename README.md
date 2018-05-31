@@ -76,11 +76,15 @@ Algorithm：人工智能算法,目前最主流的是深度学习。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
 Auto Encoder：自动编码器，一种无监督学习方法</br>
 
+### B
+
+BC：Block Chain，区块链，是一种在多方无需互信的环境下，通过密码学技术让系统所有参与方协作，共同记录和维护一个可靠的、不可撤销的分布式记账的技术。</br>
+
 ### C
 
 Caffe：Convolutional Architecture for Fast Feature Embedding，是一种常用的深度学习框架，在视频、图像处理方面应用较多</br>
 CNN：Convolutional Neural Networks，卷积神经网络</br>
-CNTK：Computational Network Toolkit，微软开发的深度学习商业工具包。
+CNTK：Computational Network Toolkit，微软开发的深度学习商业工具包。</br>
 
 ### D
 
