@@ -55,15 +55,15 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ---
 # 目录说明
-- #### data：数据
+- #### data：数据：数据集、数据区块链、Hadoop、Spark等。
 
-- #### algorithm：算法
+- #### algorithm：算法：深度学习算法、训练框架、模型等。
 
-- #### power：算力
+- #### power：算力：GPU、TPU、OpenStack、K8S等。
 
-- #### applications：AI应用
+- #### applications：AI应用：各行业应用。
 
-- #### others：一些未分类的资源
+- #### others：一些未分类的资源：其它资源。
 ---
 
 # 术语解释
