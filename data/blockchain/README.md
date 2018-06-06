@@ -1,6 +1,7 @@
 # 本地文件说明
 
-bc_ex2.ipynb：6步使用python玩转区块链
+bc_ex2.ipynb：6步使用python玩转区块链</br>
+
 ---
 
 # 区块链资源列表
