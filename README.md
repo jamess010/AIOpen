@@ -188,6 +188,8 @@ zookeeper：集群管理工具</br>
 
 [大数据标准化白皮书（2018）](https://pan.baidu.com/s/1i5EGSjifQDScvWOOv6UfrA)
 
+[2018年中国大数据发展调查报告](https://pan.baidu.com/s/1gW4WrgmFqjCkebaZdIYLGw)
+
 [国密算法规范-SM2/SM3/SM4/SM9](https://pan.baidu.com/s/1kL2uAUdOfnDWuSD-JBeJDw)
 
 [以太坊（Ethereum）白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
