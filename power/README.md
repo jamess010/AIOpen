@@ -5,6 +5,9 @@
 
 ### 其它资源列表
 
+Nvvl：一个通过硬件加速加载视频帧序列来加速机器学习训练的库。</br>
+地址：https://github.com/NVIDIA/nvvl
+
 AMD宣布GPUOpen，主推开源软件。</br>
 地址：https://gpuopen.com
 
