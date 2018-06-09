@@ -74,11 +74,13 @@ AGI：Artificial General Intelligence，通用人工智能。</br>
 AI：Artificial Intelligence，人工智能。</br>
 Algorithm：人工智能算法,目前最主流的是深度学习。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
+APU：Accelerated Processing Unit，加速处理器，是把CPU和GPU做到一块硅芯上。</br>
 Auto Encoder：自动编码器，一种无监督学习方法</br>
 
 ### B
 
 BC：Block Chain，区块链，是一种在多方无需互信的环境下，通过密码学技术让系统所有参与方协作，共同记录和维护一个可靠的、不可撤销的分布式数据块链的技术。</br>
+BPU：Brain Processing Unit, 大脑处理器。</br>
 
 ### C
 
@@ -92,6 +94,7 @@ DBN：Deep Belief Networks，深度置信网络</br>
 DL：Deep Learnging，深度学习</br>
 DNN：Deep Neural Networks，深度神经网络</br>
 Docker：容器</br>
+DPU：Deep learning Processing Unit, 深度学习处理器。</br>
 
 ### F
 
@@ -133,6 +136,7 @@ MSE：均方误差</br>
 ### N
 
 NLP： Natural Language Processing，自然语言处理，是人工智能(AI)的一个子领域。</br>
+NPU：Neural network Processing Unit，神经网络处理器。</br>
 Numpy：基于Python的基础数据工具</br>
 
 ### O
