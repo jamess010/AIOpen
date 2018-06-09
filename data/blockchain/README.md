@@ -6,6 +6,9 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 
 # 区块链资源列表
 
+blockchain：一个比较全的区块链资源列表。</br>
+地址：https://github.com/LiuBoyu/blockchain
+
 ## 主流
 
 #### 区块链1.0
