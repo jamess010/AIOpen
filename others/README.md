@@ -8,3 +8,6 @@ awesome-speech：语音相关资源，包括开源库、数据、代码文章、
 
 python学习简图（numpy、pandas、matplotlib、pyspark，tensorflow，keras）。</br>
 地址：https://github.com/kailashahirwar/cheatsheets-ai
+
+Python 资源大全中文版：</br>
+地址：https://github.com/jobbole/awesome-python-cn
