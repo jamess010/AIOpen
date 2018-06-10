@@ -42,7 +42,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
 
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="900" height="620" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="600" height="620" /></div>
 
 </br>
 
