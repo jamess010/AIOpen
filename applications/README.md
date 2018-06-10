@@ -20,3 +20,6 @@ Mycroft:号称是“世界上第一个开源助理。”它可回答问题、播
 DFSMN：阿里巴巴开源的语音识别模型。</br>
 地址：https://github.com/alibaba/Alibaba-MIT-Speech
 
+
+dejavu：Audio fingerprinting and recognition in Python，音频指纹（声纹）提取和识别。</br>
+地址：https://github.com/worldveil/dejavu
