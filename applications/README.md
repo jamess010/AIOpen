@@ -23,3 +23,6 @@ DFSMN：阿里巴巴开源的语音识别模型。</br>
 
 dejavu：Audio fingerprinting and recognition in Python，音频指纹（声纹）提取和识别。</br>
 地址：https://github.com/worldveil/dejavu
+
+face_recognition：简单易用的 python 人脸识别库。</br>
+地址：https://github.com/ageitgey/face_recognition
