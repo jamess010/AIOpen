@@ -182,23 +182,31 @@ zookeeper：集群管理工具</br>
 ---
 # 参考资料
 
+#### 人工智能
+
 [Guide to Open Source AI: Projects, Insights, and Trends](https://pan.baidu.com/s/19vu8pzbop9C9ORjkismE5A)
 
 [人工智能标准化白皮书（2018）](https://pan.baidu.com/s/1_MzUDIJcX3b2_slsW5PdzQ)
+
+#### 区块链
 
 [2018中国区块链产业白皮书](https://pan.baidu.com/s/17jGDJVDty0MNS-9o9s6ovA)
 
 [企业以太坊客户端规范1.0](https://pan.baidu.com/s/1HVmeyml6VRHnGdzxQJUcag)
 
+[以太坊（Ethereum）白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
+
+[超级账本Hyperledger白皮书](https://pan.baidu.com/s/1aHKtra7O-0FgywsCh5AbkQ)
+
+#### 大数据
+
 [大数据标准化白皮书（2018）](https://pan.baidu.com/s/1i5EGSjifQDScvWOOv6UfrA)
 
 [2018年中国大数据发展调查报告](https://pan.baidu.com/s/1gW4WrgmFqjCkebaZdIYLGw)
 
+#### 其它
+
 [国密算法规范-SM2/SM3/SM4/SM9](https://pan.baidu.com/s/1kL2uAUdOfnDWuSD-JBeJDw)
-
-[以太坊（Ethereum）白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
-
-[超级账本Hyperledger白皮书](https://pan.baidu.com/s/1aHKtra7O-0FgywsCh5AbkQ)
 
 
 ---
