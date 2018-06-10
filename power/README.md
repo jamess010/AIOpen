@@ -25,3 +25,7 @@ Kubeflow：是一个使Kubernetes上的机器学习变得简单，便携和可�
 
 PaddlePaddle EDL：PaddlePaddle Elastic Deep Learning(EDL)，百度开源产品，对标的是Google KubeFlow。Paddle EDL通过与Kubernetes合作来实现弹性作业调度，是全球首个支持弹性作业调度的开源AI云解决方案，只支持PaddlePaddle。</br>
 地址：https://github.com/PaddlePaddle/Paddle
+
+
+SparkFlow：是一个基于Spark平台的TensorFlow实现，让用户更方便在Spark上部署TensorFlow程序，更好地利用分布式平台进行深度学习模型的训练。</br>
+地址：https://github.com/lifeomic/sparkflow
