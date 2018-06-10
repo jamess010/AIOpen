@@ -19,3 +19,10 @@ Python 资源大全中文版：</br>
 把区块链技术，智能合约和机器学习结合在一起的代码。</br>
 地址：https://github.com/thoschm/START-Summit-2017-Blockchain-Machine-Learning-Workshop
 
+TextDistance：是一个包含 30+ 种算法的 Python 库，用于计算两个或多个序列之间的距离。</br>
+地址：https://github.com/orsinium/textdistance
+
+
+
+
+
