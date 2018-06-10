@@ -6,6 +6,9 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 
 # 区块链资源列表
 
+把区块链技术，智能合约和机器学习结合在一起的代码。</br>
+地址：https://github.com/thoschm/START-Summit-2017-Blockchain-Machine-Learning-Workshop
+
 danku：是Algorithmia公司推出基于区块链的机器学习合约。是一个可以评估被提交模型的神经网络，以太币奖励获胜者。</br>
 地址：https://github.com/algorithmiaio/danku
 
