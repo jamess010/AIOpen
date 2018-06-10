@@ -6,6 +6,9 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 
 # 区块链资源列表
 
+收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料。</br>
+地址：https://github.com/chaozh/awesome-blockchain-cn
+
 blockchain：一个比较全的区块链资源列表。</br>
 地址：https://github.com/LiuBoyu/blockchain
 
