@@ -19,3 +19,6 @@
 
 Curve:开源异常检测辅助标注工具，百度、清华联合出品。</br>
 地址：https://github.com/baidu/Curve
+
+Augmentor：是一个 Python 图像增强库，减少了使用图像库自己编写代码的繁杂工序，能够批量完成图像的旋转，放大，缩小，添加噪音以扩充数据量。</br>
+地址；https://github.com/mdbloice/Augmentor
