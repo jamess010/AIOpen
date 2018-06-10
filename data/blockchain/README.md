@@ -9,6 +9,12 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 blockchain：一个比较全的区块链资源列表。</br>
 地址：https://github.com/LiuBoyu/blockchain
 
+区块链指南：</br>
+地址：https://github.com/yeasy/blockchain_guide
+
+Hyperledger 源码分析之 Fabric。</br>
+地址：https://github.com/yeasy/hyperledger_code_fabric
+
 ## 主流
 
 #### 区块链1.0
