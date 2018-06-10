@@ -8,7 +8,7 @@
 ApolloAuto，是百度的开源自动驾驶平台。</br>
 地址：https://github.com/apolloauto
 
-python开源人脸识别库。</br> 
+face_recognition：简单易用的python人脸开源识别库。</br>
 地址：https://github.com/ageitgey/face_recognition
 
 Open Assistant：提供Siri、Cortana和Google Now之外的一种开源选择。目的是创建一种能够进行交谈的完全可定制的AI。</br>
@@ -24,5 +24,3 @@ DFSMN：阿里巴巴开源的语音识别模型。</br>
 dejavu：Audio fingerprinting and recognition in Python，音频指纹（声纹）提取和识别。</br>
 地址：https://github.com/worldveil/dejavu
 
-face_recognition：简单易用的 python 人脸识别库。</br>
-地址：https://github.com/ageitgey/face_recognition
