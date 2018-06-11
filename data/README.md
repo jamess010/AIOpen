@@ -26,3 +26,6 @@ Augmentor：是一个 Python 图像增强库，减少了使用图像库自己编
 
 STAIR Actions：用于动作识别的大规模视频数据集。包含100类诸如吃饭、喝水、洗手、扔垃圾等人类日常行为，每一类动作有1000个左右的视频。作者保留了 10% 的数据用于后续比赛。</br>
 地址：https://github.com/STAIR-Lab-CIT/STAIR-actions
+
+SLTK：Sequence Labeling Toolkit，序列化标注工具，实现了 Bi-LSTM-CRF 模型，并利用 PyTorch 实现了高效的数据加载模块，可以完成：1）预处理：包括构建词表、label 表，从预训练文件构建 word embedding；2）训练：训练序列化标注模型，并保存在开发集上性能最好的一次模型；3）测试：对新的实例进行标注。</br>
+地址：https://github.com/liu-nlper/SLTK
