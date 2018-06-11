@@ -186,6 +186,8 @@ zookeeper：集群管理工具</br>
 
 [Guide to Open Source AI: Projects, Insights, and Trends](https://pan.baidu.com/s/19vu8pzbop9C9ORjkismE5A)
 
+[迁移学习简明手册](https://pan.baidu.com/s/16x7n834vEmL5swsZcgzpUw)
+
 [人工智能标准化白皮书（2018）](https://pan.baidu.com/s/1_MzUDIJcX3b2_slsW5PdzQ)
 
 [深度学习教程【李宏毅】](https://pan.baidu.com/s/1NpjdimyUYX93pZiPm6Y2oA)
