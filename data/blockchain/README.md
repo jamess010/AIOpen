@@ -15,11 +15,10 @@ danku：是Algorithmia公司推出基于区块链的机器学习合约。是一�
 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料。</br>
 地址：https://github.com/chaozh/awesome-blockchain-cn
 
-blockchain：一个比较全的区块链资源列表。</br>
+blockchain：一个比较全的区块链中文资源列表。</br>
 地址：https://github.com/LiuBoyu/blockchain
 
-区块链指南：</br>
-地址：https://github.com/yeasy/blockchain_guide
+区块链指南：https://github.com/yeasy/blockchain_guide
 
 Hyperledger 源码分析之 Fabric。</br>
 地址：https://github.com/yeasy/hyperledger_code_fabric
