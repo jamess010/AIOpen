@@ -192,6 +192,8 @@ zookeeper：集群管理工具</br>
 
 [深度学习教程【李宏毅】](https://pan.baidu.com/s/1NpjdimyUYX93pZiPm6Y2oA)
 
+[Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+
 #### 区块链
 
 [2018中国区块链产业白皮书](https://pan.baidu.com/s/17jGDJVDty0MNS-9o9s6ovA)
