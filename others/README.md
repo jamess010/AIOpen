@@ -38,9 +38,15 @@ TextDistance：是一个包含 30+ 种算法的 Python 库，用于计算两个�
 
 Node.js区块链开发：https://github.com/imfly/bitcoin-on-nodejs
 
+Go 语言学习资料索引：https://github.com/Unknwon/go-study-index
+
+Go 语言中文网 | Golang中文社区 | Go语言学习园地：https://github.com/studygolang/studygolang
+
 ### 编程语言
 
 一起学Node.js：https://github.com/nswbmw/N-blog
+
+pandas学习笔记（根据《利用Python进行数据分析》一书）：https://github.com/blueliberty/pandas#pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0
 
 
 
