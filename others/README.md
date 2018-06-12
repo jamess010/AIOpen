@@ -23,6 +23,22 @@ TextDistance：是一个包含 30+ 种算法的 Python 库，用于计算两个�
 地址：https://github.com/orsinium/textdistance
 
 
+---
+
+# 学习资源
+### 人工智能
+
+### 区块链
+
+区块链知识体系总结。</br>
+地址：https://github.com/guanchao/blockchain_learn
+
+### 编程语言
+
+《一起学 Node.js》。</br>
+地址：https://github.com/nswbmw/N-blog
+
+
 
 
 
