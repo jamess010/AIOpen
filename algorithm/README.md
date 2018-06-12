@@ -16,7 +16,7 @@ Intel推出NLP开源库：NLP Architect </br>
 Lucid，一个建立在DeepDream之上的神经网络可视化库。</br>
 地址：https://github.com/tensorflow/lucid
 
-MMdnn，这是一套能让用户在不同深度学习框架间做相互操作的工具。</br>
+MMdnn，这是一套能让用户在不同深度学习框架间做相互操作的工具。由微软开源，可将不同框架训练的深度神经网络模型进行转换，使之适配其他框架。该工具包目前已支持 Caffe、Keras、MXNet、Tensorflow、CNTK、PyTorch 和 CoreML。</br>
 地址：https://github.com/Microsoft/MMdnn
 
 Detectron，业内最佳水平的目标检测平台。</br>
