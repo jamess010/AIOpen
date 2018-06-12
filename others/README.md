@@ -47,6 +47,9 @@ Go 语言学习资料索引：https://github.com/Unknwon/go-study-index
 
 Go 语言中文网 | Golang中文社区 | Go语言学习园地：https://github.com/studygolang/studygolang
 
+
+以撸代码的形式学习Python：https://github.com/xianhu/LearnPython
+
 pandas学习笔记（利用Python进行数据分析）：https://github.com/blueliberty/pandas#pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0
 
 
