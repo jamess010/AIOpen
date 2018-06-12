@@ -36,6 +36,8 @@ TextDistance：是一个包含 30+ 种算法的 Python 库，用于计算两个�
 
 区块链视频教程：https://github.com/itheima1/BlockChain
 
+Node.js区块链开发：https://github.com/imfly/bitcoin-on-nodejs
+
 ### 编程语言
 
 一起学Node.js：https://github.com/nswbmw/N-blog
