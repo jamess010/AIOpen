@@ -32,7 +32,7 @@ TextDistance：是一个包含 30+ 种算法的 Python 库，用于计算两个�
 
 ### 区块链
 
-区块链知识体系总结。https://github.com/guanchao/blockchain_learn
+区块链知识体系总结：https://github.com/guanchao/blockchain_learn
 
 区块链视频教程：https://github.com/itheima1/BlockChain
 
