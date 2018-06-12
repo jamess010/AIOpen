@@ -49,3 +49,5 @@ PyHanLP：是汉语言处理包HanLP的Python接口，支持自动下载与升�
 Moonlight Optical Music Recognition：基于TensorFlow的光学乐谱识别工具。</br>
 地址：https://github.com/tensorflow/moonlight
 
+Screenshot-to-code-in-Keras：在这个项目中，基于深度学习，人工智能神经网络可以自动把设计稿变成HTML和CSS代码。</br>
+地址：https://github.com/emilwallner/Screenshot-to-code-in-Keras
