@@ -10,6 +10,6 @@
 
 3) 安装python其它包
 
-   在Dockerfile中，使用RUN pip install xxx 来安装其它python包
+   编辑Dockerfile，使用RUN pip install xxx 来安装其它python包
    
     
