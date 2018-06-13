@@ -207,6 +207,8 @@ zookeeper：集群管理工具</br>
 
 [超级账本Hyperledger白皮书](https://pan.baidu.com/s/1aHKtra7O-0FgywsCh5AbkQ)
 
+[区块链行业词典](https://pan.baidu.com/s/1iYS28E49T2ts7kX3tzn1gA)
+
 [区块链教程【黑马程序员120天全栈区块链开发开源教程】](https://github.com/itheima1/BlockChain)
 
 #### 大数据
