@@ -39,6 +39,9 @@ Voice Activity Detection Toolkit：语音端点检测工具包。是论文 Voice
 Personae：是基于TensorFlow和PyTorch对深度强化学习、监督学习算法和论文进行实现，并尝试将其应用于金融市场（股市）。该项目已实现的算法包含 DDPG，Policy Gradient 和 DualAttnRNN。</br>
 地址：https://github.com/ceruleanacg/Personae
 
+叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。 </br>
+地址：http://dingdang.hahack.com
+
 Knowledge Graph Representation：用PyTorch实现知识图谱表示，该项目整理了知识图谱表示常用的四个数据集，提供了数据清洗整理的代码，用 PyTorch 实现了四种基于平移的算法。在评估阶段，使用了多进程加速，将 MeanRank 和 Hits@10 的评估时间压缩到小于 1 分钟。</br>
 地址：https://github.com/jimmywangheng/knowledge_representation_pytorch
 
