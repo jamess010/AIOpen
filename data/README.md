@@ -29,3 +29,7 @@ STAIR Actions：用于动作识别的大规模视频数据集。包含100类诸�
 
 SLTK：Sequence Labeling Toolkit，序列化标注工具，实现了 Bi-LSTM-CRF 模型，并利用 PyTorch 实现了高效的数据加载模块，可以完成：1）预处理：包括构建词表、label 表，从预训练文件构建 word embedding；2）训练：训练序列化标注模型，并保存在开发集上性能最好的一次模型；3）测试：对新的实例进行标注。</br>
 地址：https://github.com/liu-nlper/SLTK
+
+
+Fashion-MNIST：是一个替代MNIST手写数字集的图像数据集。 它是由Zalando（一家德国的时尚科技公司）旗下的研究部门提供。其涵盖了来自10种类别的共7万个不同商品的正面图片。Fashion-MNIST的大小、格式和训练集/测试集划分与原始的MNIST完全一致。60000/10000的训练测试数据划分，28x28的灰度图片。你可以直接用它来测试你的机器学习和深度学习算法性能，且不需要改动任何的代码。</br>
+地址：https://github.com/zalandoresearch/fashion-mnist
