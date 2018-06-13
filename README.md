@@ -194,7 +194,7 @@ zookeeper：集群管理工具</br>
 
 [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 
-[“世界模型”代码实现，无监督方式快速训练](https://github.com/hardmaru/WorldModelsExperiments)
+[“世界模型”代码，实现无监督方式快速训练](https://github.com/hardmaru/WorldModelsExperiments)
 
 #### 区块链
 
