@@ -6,6 +6,9 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 
 # 区块链资源列表
 
+ipfs的可用于所有软件的带版本的包管理器。</br>
+地址：https://github.com/whyrusleeping/gx
+
 把区块链技术，智能合约和机器学习结合在一起的代码。</br>
 地址：https://github.com/thoschm/START-Summit-2017-Blockchain-Machine-Learning-Workshop
 
