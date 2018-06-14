@@ -9,6 +9,9 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 ipfs的可用于所有软件的带版本的包管理器。</br>
 地址：https://github.com/whyrusleeping/gx
 
+Sia：是一个去中心化的云存储平台，文件被切成小块，加密存储到分布式的网络里面。</br>
+地址：https://github.com/NebulousLabs/Sia
+
 把区块链技术，智能合约和机器学习结合在一起的代码。</br>
 地址：https://github.com/thoschm/START-Summit-2017-Blockchain-Machine-Learning-Workshop
 
