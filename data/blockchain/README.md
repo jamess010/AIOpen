@@ -6,7 +6,10 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 
 # 区块链资源列表
 
-ipfs的可用于所有软件的带版本的包管理器。</br>
+ipfs：A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.</br>
+地址：https://github.com/ipfs/ipfs
+
+gx：ipfs的可用于所有软件的带版本的包管理器。</br>
 地址：https://github.com/whyrusleeping/gx
 
 Sia：是一个去中心化的云存储平台，文件被切成小块，加密存储到分布式的网络里面。</br>
