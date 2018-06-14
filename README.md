@@ -114,6 +114,10 @@ HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
 HMM：隐马尔可夫模型</br>
 
+### I
+
+IPFS：InterPlanetary File System，星际文件系统，是永久的、去中心化保存和共享文件的方法，这是一种内容可寻址、版本化、点对点超媒体的分布式协议。</br>
+
 ### K
 
 Kafka：A Distributed Streaming Platform，是一种高吞吐量的分布式发布-订阅消息系统</br>
