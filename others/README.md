@@ -22,6 +22,9 @@ Python 资源大全中文版：</br>
 TextDistance：是一个包含 30+ 种算法的 Python 库，用于计算两个或多个序列之间的距离。</br>
 地址：https://github.com/orsinium/textdistance
 
+Sonar：是一个用于调试 iOS 和 Android 移动应用的平台，通过一个简单的界面，开发者可以可视化地审查和控制其 APP。</br>
+地址：https://github.com/facebook/Sonar
+
 
 ---
 
