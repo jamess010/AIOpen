@@ -84,5 +84,8 @@ MLlib：作为Apache Spark项目的一部分，MLlib是一个机器学习库，�
 地址：https://spark.apache.org/mllib/
 
 
+StarGAN：是一种可以在同一个模型中进行多个图像领域之间风格转换的对抗生成方法。</br>
+地址：https://github.com/yunjey/StarGAN
+
 
 
