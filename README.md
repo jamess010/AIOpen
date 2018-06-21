@@ -126,6 +126,7 @@ IPNS：InterPlanetary Name S，是一个分布式的命名系统，将难于记�
 Kafka：A Distributed Streaming Platform，是一种高吞吐量的分布式发布-订阅消息系统</br>
 K8S：Kubernetes</br>
 Keras：是一款基于Tensorflow、Theano、CNTK为后端的深度学习高级框架</br>
+KG：Knowledge Graph，知识图谱，旨在描述客观世界的概念、实体、事件及其之间的关系。</br>
 Kubernetes：容器集群</br>
 
 ### L
