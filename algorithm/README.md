@@ -83,9 +83,13 @@ Pattern：基于Python，提供了众多工具，可用于数据挖掘、自然�
 MLlib：作为Apache Spark项目的一部分，MLlib是一个机器学习库，承诺性能比MapReduce高100倍。它包括众多算法，用于分类、回归、决策树、推荐、聚类、主题建模、模式挖掘等。</br>
 地址：https://spark.apache.org/mllib/
 
-
+---
+#### 生成对抗网络（GAN）
 StarGAN：是一种可以在同一个模型中进行多个图像领域之间风格转换的对抗生成方法。</br>
 地址：https://github.com/yunjey/StarGAN
+
+the-gan-zoo：每周都有新的GAN（生成对抗网络）论文出来，本项目就是这些GAN论文的跟踪列表。</br>
+地址：https://github.com/hindupuravinash/the-gan-zoo
 
 
 
