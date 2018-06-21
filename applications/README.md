@@ -54,3 +54,10 @@ Moonlight Optical Music Recognition：基于TensorFlow的光学乐谱识别工�
 
 Screenshot-to-code-in-Keras：在这个项目中，基于深度学习，人工智能神经网络可以自动把设计稿变成HTML和CSS代码。</br>
 地址：https://github.com/emilwallner/Screenshot-to-code-in-Keras
+
+
+NVIDIA DALI：是一个GPU加速的数据增强和图像加载库，为优化深度学习框架数据pipeline而设计。</br>
+地址：https://github.com/NVIDIA/dali
+
+NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
+地址：https://developer.nvidia.com/nvjpeg
