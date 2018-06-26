@@ -61,3 +61,6 @@ NVIDIA DALI：是一个GPU加速的数据增强和图像加载库，为优化深
 
 NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 地址：https://developer.nvidia.com/nvjpeg
+
+Protege：是斯坦福大学医学院生物信息研究中心基于Java语言开发的本体编辑和知识获取软件，它提供了本体概念类，关系，属性和实例的构建，并且屏蔽了具体的本体描述语言，用户只需在概念层次上进行领域本体模型的构建。 </br>
+地址：https://github.com/protegeproject/protege
