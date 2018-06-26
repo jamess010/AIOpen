@@ -165,6 +165,7 @@ PyTorch：一个基于Python的深度学习框架</br>
 RBM：Restricted Boltzmann Machines，受限玻尔兹曼机</br>
 RL: Reinforcement Learning，强化学习</br>
 RNN：Recurrent Neural Networks，循环神经网络</br>
+ROS：Robot Operating System，是一个机器人软件平台</br>
 
 ### S
 
