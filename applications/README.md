@@ -64,3 +64,7 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 
 Protege：是斯坦福大学医学院生物信息研究中心基于Java语言开发的本体编辑和知识获取软件，它提供了本体概念类，关系，属性和实例的构建，并且屏蔽了具体的本体描述语言，用户只需在概念层次上进行领域本体模型的构建。 </br>
 地址：https://github.com/protegeproject/protege
+
+
+OpenKE：是一个开源的知识表示学习平台，由 THUNLP 基于 TensorFlow 工具包开发。</br>
+地址：https://github.com/thunlp/OpenKE
