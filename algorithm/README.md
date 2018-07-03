@@ -32,6 +32,12 @@ NLTK，是提到的最广泛的NLP库。</br>
 地址：https://github.com/nltk/nltk
 
 ---
+#### 语音处理
+
+List of speech recognition software，列出了几乎所有开源/非开源的语音识别工具，非常全面。</br>
+地址：https://en.wikipedia.org/wiki/List_of_speech_recognition_software
+
+---
 #### 通用人工智能（AGI）
 
 Becca：开源AGI项目。</br>
