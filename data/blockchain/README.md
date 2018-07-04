@@ -6,6 +6,9 @@ bc_ex2.ipynb：6步使用python玩转区块链</br>
 
 # 区块链资源列表
 
+PyCrypto：一个极好的信息安全python库，包括MD5、SHA-1、SHA-2、RIPEMD-160、DES、AES、RSA等。</br>
+地址：https://github.com/dlitz/pycrypto
+
 ipfs：A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.</br>
 地址：https://github.com/ipfs/ipfs
 
