@@ -1,7 +1,7 @@
 # 本地文件说明
 
 bc_ex2.ipynb：6步使用python玩转区块链</br>
-pycrypto：使用docker安装的PyCrypto，包括MD5、SHA-1、SHA-2、RIPEMD-160、DES、AES、RSA等。</br>
+pycrypto：安装了PyCrypto库的docker，包括MD5、SHA-1、SHA-2、RIPEMD-160、DES、AES、RSA等。</br>
 
 ---
 
