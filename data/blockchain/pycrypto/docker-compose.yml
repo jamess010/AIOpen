@@ -1,0 +1,11 @@
+version: '3'
+services:
+  python2:
+    build: .
+    image: python2/python2 
+    restart: unless-stopped
+#    ports:
+#     - "8888:8888"
+    volumes:
+     - ./src:/home/src
+    command: python hello.py 
