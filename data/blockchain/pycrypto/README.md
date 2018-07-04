@@ -1,7 +1,6 @@
 #### 使用方法
 
 <pre><code>
-
 >>> from Crypto.Hash import SHA256 </br>
 >>> hash = SHA256.new() </br>
 >>> hash.update('message') </br>
