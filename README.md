@@ -2,7 +2,7 @@
 * [AIOpen简介](#aiopen简介)
 * [AI三要素](#ai三要素)
 * [AI开源全栈图](#ai开源全栈图)
-* [开源列表](#开源列表)
+* [深度学习流程](#深度学习流程)
 * [目录说明](#目录说明)
 * [术语解释](#术语解释)
 * [参考资料](#参考资料)
@@ -48,29 +48,10 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ---
 
-# 开源列表
+# 深度学习流程
 
-#### 典型人工智能开源软件列表：</br>
-
-<table class="table table-bordered table-striped table-condensed">
-<thead><tr class="tableizer-firstrow"><th>序号</th><th>名称</th><th>应用领域</th><th>开源软件编程语言</th><th>维护者</th><th>时间</th><th>地域</th><th>License</th></tr></thead>
-<tbody>
- <tr><td>1</td><td>CUDA</td><td>计算平台</td><td>C/C++</td><td>NVIDIA</td><td>2007</td><td>美国</td><td>Custom License</td></tr>
- <tr><td>2</td><td>ROCm</td><td>计算平台</td><td>C/C++</td><td>AMD</td><td>2016</td><td>美国</td><td>Custom License</td></tr>
- <tr><td>3</td><td>OpenCL</td><td>机器学习框架</td><td>C/C++</td><td>APPLE、Intel、NVIDIA、AMD等</td><td>2008</td><td>美国</td><td>Custom License</td></tr>
- <tr><td>4</td><td>Caffe</td><td>机器学习框架</td><td>C/C++</td><td>UCBerkerly</td><td>2014</td><td>美国</td><td>BSD</td></tr>
- <tr><td>5</td><td>Caffe2</td><td>机器学习框架</td><td>C/C++</td><td>facebook</td><td>2017</td><td>加拿大</td><td>Apache-2.0</td></tr>
- <tr><td>6</td><td>TensofFlow</td><td>机器学习框架</td><td>C++</td><td>Goole</td><td>2015</td><td>美国</td><td>Apache-2.0</td></tr>
- <tr><td>7</td><td>CNTK</td><td>机器学习框架</td><td>C++/Python</td><td>Amazon</td><td>2016</td><td>美国</td><td>MIT</td></tr>
- <tr><td>8</td><td>MXNet</td><td>机器学习框架</td><td>C++/Python</td><td>Amazon</td><td>2015</td><td>美国</td><td>Apache-2.0</td></tr>
- <tr><td>9</td><td>Theano</td><td>机器学习框架</td><td>C/Python</td><td>Theano Development Team</td><td>2008</td><td>美国</td><td>BSD</td></tr>
- <tr><td>10</td><td>Torch</td><td>机器学习框架</td><td>C/Lua</td><td>Ronan、Clément、Koray and Soumith</td><td>2007</td><td>美国</td><td>BSD</td></tr>
- <tr><td>11</td><td>PaddlePaddle</td><td>机器学习框架</td><td>C++</td><td>百度</td><td>2016</td><td>中国</td><td>Apache-2.0</td></tr>
- <tr><td>12</td><td>Keras</td><td>机器学习框架</td><td>Python</td><td>Francois Chollet</td><td>2015</td><td>美国</td><td>MIT</td></tr>
- <tr><td>13</td><td>Scikit-learn</td><td>机器学习框架</td><td>Python</td><td>Andreas CMüller</td><td>2007</td><td>美国</td><td>BSD</td></tr>
- <tr><td>14</td><td>Mahout</td><td>机器学习框架</td><td>Java</td><td>Apache Software Foundation</td><td>2009</td><td>美国</td><td>Apache-2.0</td></tr>
-</tbody>
-</table>
+#### 下图是一个基于监督学习的深度学习例子：</br>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
 
 
