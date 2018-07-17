@@ -1,7 +1,9 @@
 # 本地文件说明
 
 bc_ex2.ipynb：6步使用python玩转区块链</br>
+encrypt.ipynb：使用PyCrypto库实现的MD5、SHA-256、SHA-512、RIPEMD160.
 pycrypto：安装了PyCrypto库的docker，包括MD5、SHA-1、SHA-2、RIPEMD-160、DES、AES、RSA等。</br>
+CryptoJS：javascript实现的前端哈希算法，包括：MD5、SHA-256、SHA-512、RIPEMD167.</br>
 
 ---
 
