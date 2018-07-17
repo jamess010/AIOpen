@@ -10,6 +10,10 @@ pycrypto：安装了PyCrypto库的docker，包括MD5、SHA-1、SHA-2、RIPEMD-16
 PyCrypto：一个极好的信息安全python库，包括MD5、SHA-1、SHA-2、RIPEMD-160、DES、AES、RSA等。</br>
 地址：https://github.com/dlitz/pycrypto
 
+CryptoJS：一个javascript前端加密库，包括：MD5、SHA2、SHA3、RIPEMD160等。</br>
+地址：https://code.google.com/archive/p/crypto-js/downloads
+
+
 ipfs：A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.</br>
 地址：https://github.com/ipfs/ipfs
 
