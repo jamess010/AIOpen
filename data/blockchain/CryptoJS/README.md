@@ -10,4 +10,7 @@
 npm install crypto-js
 
 引用：<br>
-import CryptoJS from 'crypto-js/crypto-js'
+var CryptoJS = require("crypto-js");
+
+MD5例子：<br>
+var valueMD5 = CryptoJS.MD5('1').toString();
