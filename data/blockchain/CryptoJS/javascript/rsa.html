@@ -32,19 +32,21 @@
 
        <div class="row">
          <div class="panel panel-default">
-           <div class="panel-heading"><h1>Online RSA Key Generator</h1></div>
+           <div class="panel-heading"><h1>在线 RSA Key 生成器</h1></div>
            <div class="panel-body">
              <div class="row col-lg-12">
                <div class="well">
-                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                 <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
                  <!-- frontpage banner -->
-                 <ins class="adsbygoogle"
+                 <!-- <ins class="adsbygoogle"
                       style="display:inline-block;width:728px;height:90px"
                       data-ad-client="ca-pub-1902035200208763"
                       data-ad-slot="9043467163"></ins>
                  <script>
                    (adsbygoogle = window.adsbygoogle || []).push({});
-                 </script>
+                 </script> -->
+                <h4>RSA加密算法是一种非对称加密算法。在公开密钥加密和电子商业中RSA被广泛使用。RSA是1977年由罗纳德·李维斯特（Ron Rivest）、阿迪·萨莫尔（Adi Shamir）和伦纳德·阿德曼（Leonard Adleman）一起提出的。当时他们三人都在麻省理工学院工作。RSA就是他们三人姓氏开头字母拼在一起组成的。
+                </h4>
                </div>
              </div>
              <div class="col-lg-2">
@@ -108,6 +110,93 @@
 
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jsencrypt.min.js"></script>
+
+    <script type="text/javascript">
+      $(function () {
+
+        //Change the key size value for new keys
+        $(".change-key-size").each(function (index, value) {
+          var el = $(value);
+          var keySize = el.attr('data-value');
+          el.click(function (e) {
+            var button = $('#key-size');
+            button.attr('data-value', keySize);
+            button.html(keySize + ' bit <span class="caret"></span>');
+            e.preventDefault();
+          });
+        });
+
+        // Execute when they click the button.
+        $('#execute').click(function () {
+
+          // Create the encryption object.
+          var crypt = new JSEncrypt();
+
+          // Set the private.
+          crypt.setPrivateKey($('#privkey').val());
+          //return;
+          // If no public key is set then set it here...
+          var pubkey = $('#pubkey').val();
+          if (!pubkey) {
+            $('#pubkey').val(crypt.getPublicKey());
+          }
+
+          // Get the input and crypted values.
+          var input = $('#input').val();
+          var crypted = $('#crypted').val();
+
+          // Alternate the values.
+          if (input) {
+            $('#crypted').val(crypt.encrypt(input));
+            $('#input').val('');
+          }
+          else if (crypted) {
+            var decrypted = crypt.decrypt(crypted);
+            if (!decrypted)
+              decrypted = 'This is a test!';
+            $('#input').val(decrypted);
+            $('#crypted').val('');
+          }
+        });
+
+        var generateKeys = function () {
+
+          var sKeySize = $('#key-size').attr('data-value');
+          var keySize = parseInt(sKeySize);
+          var crypt = new JSEncrypt({default_key_size: keySize});
+          var async = $('#async-ck').is(':checked');
+          var dt = new Date();
+          var time = -(dt.getTime());
+          if (async) {
+            $('#time-report').text('.');
+            var load = setInterval(function () {
+              var text = $('#time-report').text();
+              $('#time-report').text(text + '.');
+            }, 500);
+            crypt.getKey(function () {
+              clearInterval(load);
+              dt = new Date();
+              time += (dt.getTime());
+              $('#time-report').text('Generated in ' + time + ' ms');
+              $('#privkey').val(crypt.getPrivateKey());
+              $('#pubkey').val(crypt.getPublicKey());
+            });
+            return;
+          }
+          crypt.getKey();
+          dt = new Date();
+          time += (dt.getTime());
+          $('#time-report').text('Generated in ' + time + ' ms');
+          $('#privkey').val(crypt.getPrivateKey());
+          $('#pubkey').val(crypt.getPublicKey());
+        };
+
+        // If they wish to generate new keys.
+        $('#generate').click(generateKeys);
+        generateKeys();
+      });
+    </script>
 
   </body>
 </html>
