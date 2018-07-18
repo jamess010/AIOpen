@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+  </head>
+  <body>
+
+    <div class="container">
+      <nav class="navbar navbar-inverse" role="navigation">
+           <div class="navbar-header">
+               <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+                   <span class="sr-only">Toggle navigation</span>
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+               </button>
+               <a href="#" class="navbar-brand scroll-top logo"><b>Encrypt／Decrypt 加解密算法</b></a>
+           </div>
+           <div id="main-nav" class="collapse navbar-collapse">
+               <ul class="nav navbar-nav" id="mainNav">
+                   <li ><a href="index.html" class="scroll-link">首页</a></li>
+                   <li class="active"><a href="#" class="scroll-link">哈希算法</a></li>
+                   <li><a href="rsa.html" class="scroll-link">非对称加密算法</a></li>
+                   <li><a href="digest.html" class="scroll-link">数字摘要</a></li>
+                   <li><a href="base64.html" class="scroll-link">字符遍／解码</a></li>
+
+               </ul>
+           </div>
+       </nav>
+
+       <div class="row">
+         <div class="panel panel-success">
+           <div class="panel-heading"><h4>该工具提供针对MD5,hash,SHA-1,SHA-2,SHA-256,SHA-512,SHA-3,RIPEMD-160等算法的加密功能，并附带相关加密算法的详尽说明。欢迎需要的朋友使用。</h4></div>
+         </div>
+
+         <div class="panel panel-info">
+           <div class="panel-heading"><h3>MD5哈希加密算法</h3></div>
+           <div class="panel-body">
+             <div class="col-lg-5">
+               <label for="input">文本信息:</label><br/>
+               <textarea id="md5Text" name="input" style="width: 100%" rows="2">www.ContentBC.com</textarea>
+             </div>
+             <div class="col-lg-2">
+               <label>&nbsp;</label><br/>
+               <button id="md5Execute" class="btn btn-primary">MD5哈希转换</button>
+             </div>
+             <div class="col-lg-5">
+               <!-- <label for="crypted">十六进制数字:</label><br/> -->
+               <label class="radio-inline">
+                 <input type="radio" name="MD5InlineRadio" value="option1" checked>十六进制数字
+               </label>
+               <label class="radio-inline">
+                 <input type="radio" name="MD5InlineRadio" value="option2">二进制数字
+               </label>
+               <textarea id="md5Crypted" name="md5Crypted" style="width: 100%" rows="2"></textarea>
+             </div>
+           </div>
+           <div class="panel-bottom">
+             <div class="div">
+               <ul>
+                 <li>MD5即Message-Digest Algorithm 5（信息-摘要算法 5），用于确保信息传输完整一致。是计算机广泛使用的散列算法之一（又译摘要算法、哈希算法），主流编程语言普遍已有MD5实现。 将数据（如汉字）运算为另一固定长度值，是散列算法的基础原理，MD5的前身有MD2、MD3和MD4。</li>
+                 <br>
+                 <li>MD5一度被广泛应用于安全领域。但是由于MD5的弱点被不断发现以及计算机能力不断的提升，现在已经可以构造两个具有相同MD5的信息，使本算法不再适合当前的安全环境。目前，MD5计算广泛应用于错误检查。例如在一些BitTorrent下载中，软件通过计算MD5和检验下载到的碎片的完整性。</li>
+                 <br>
+                 <li>MD5是输入不定长度信息，输出固定长度128-bits的算法。经过程序流程，生成四个32位数据，最后联合起来成为一个128-bits散列。基本方式为，求余、取余、调整长度、与链接变量进行循环运算。得出结果。</li>
+              </ul>
+             </div>
+           </div>
+         </div>
+
+         <div class="panel panel-info">
+           <div class="panel-heading"><h3>SHA-256哈希加密算法</h3></div>
+           <div class="panel-body">
+             <div class="col-lg-5">
+               <label for="input">文本信息:</label><br/>
+               <textarea id="sha256Text" name="input" style="width: 100%" rows="2">www.ContentBC.com</textarea>
+             </div>
+             <div class="col-lg-2">
+               <label>&nbsp;</label><br/>
+               <button id="sha256Execute" class="btn btn-primary">SHA-256哈希转换</button>
+             </div>
+             <div class="col-lg-5">
+               <label class="radio-inline">
+                 <input type="radio" name="sha256InlineRadio" value="option1" checked>十六进制数字
+               </label>
+               <label class="radio-inline">
+                 <input type="radio" name="sha256InlineRadio" value="option2">二进制数字
+               </label>
+               <textarea id="sha256Crypted" name="sha256Crypted" style="width: 100%" rows="2"></textarea>
+             </div>
+           </div>
+           <div class="panel-bottom">
+             <div class="div">
+               <ul>
+                 <li>SHA-224、SHA-256、SHA-384，和SHA-512并称为SHA-2。</li>
+                 <br>
+                 <li>新的散列函数并没有接受像SHA-1一样的公众密码社区做详细的检验，所以它们的密码安全性还不被大家广泛的信任。</li>
+                 <br>
+                 <li>虽然至今尚未出现对SHA-2有效的攻击，它的算法跟SHA-1基本上仍然相似；因此有些人开始发展其他替代的散列算法。</li>
+              </ul>
+             </div>
+           </div>
+         </div>
+
+         <div class="panel panel-info">
+           <div class="panel-heading"><h3>SHA-512哈希加密算法</h3></div>
+           <div class="panel-body">
+             <div class="col-lg-5">
+               <label for="input">文本信息:</label><br/>
+               <textarea id="sha512Text" name="input" style="width: 100%" rows="2">www.ContentBC.com</textarea>
+             </div>
+             <div class="col-lg-2">
+               <label>&nbsp;</label><br/>
+               <button id="sha512Execute" class="btn btn-primary">SHA-512哈希转换</button>
+             </div>
+             <div class="col-lg-5">
+               <label class="radio-inline">
+                 <input type="radio" name="sha512InlineRadio" value="option1" checked>十六进制数字
+               </label>
+               <label class="radio-inline">
+                 <input type="radio" name="sha512InlineRadio" value="option2">二进制数字
+               </label>
+               <textarea id="sha512Crypted" name="sha512Crypted" style="width: 100%" rows="2"></textarea>
+             </div>
+           </div>
+         </div>
+
+         <div class="panel panel-info">
+           <div class="panel-heading"><h3>RIPEMD-160哈希加密算法</h3></div>
+           <div class="panel-body">
+             <div class="col-lg-5">
+               <label for="input">文本信息:</label><br/>
+               <textarea id="ripemd160Text" name="input" style="width: 100%" rows="2">www.ContentBC.com</textarea>
+             </div>
+             <div class="col-lg-2">
+               <label>&nbsp;</label><br/>
+               <button id="ripemd160Execute" class="btn btn-primary">RIPEMD-160哈希转换</button>
+             </div>
+             <div class="col-lg-5">
+               <label class="radio-inline">
+                 <input type="radio" name="ripeMDInlineRadio" value="option1" checked>十六进制数字
+               </label>
+               <label class="radio-inline">
+                 <input type="radio" name="ripeMDInlineRadio" value="option2">二进制数字
+               </label>
+               <textarea id="ripemd160Crypted" name="ripemd160Crypted" style="width: 100%" rows="2"></textarea>
+             </div>
+           </div>
+           <div class="panel-bottom">
+             <div class="div">
+               <ul>
+                 <li>RIPEMD-160 是一个160位（40位16进制数字）加密哈希函数。</li>
+                 <br>
+                 <li>它旨在用于替代 128 位哈希函数 MD4、MD5 和 RIPEMD。</li>
+                 <br>
+                 <li>RIPEMD 是在 EU 项目 RIPE（RACE Integrity Primitives Evaluation，1988-1992）的框架中开发的。</li>
+              </ul>
+             </div>
+           </div>
+         </div>
+
+       </div>
+
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <script src="rollups/md5.js"></script>
+    <script type="text/javascript">
+        $("#md5Execute").click(function(){
+          var text = $("#md5Text").val();
+          var hash = CryptoJS.MD5(text);
+          $("#md5Crypted").val(hash);
+        });
+    </script>
+
+    <script src="rollups/sha256.js"></script>
+    <script type="text/javascript">
+        $("#sha256Execute").click(function(){
+          var text = $("#sha256Text").val();
+          var hash = CryptoJS.SHA256(text);
+          $("#sha256Crypted").val(hash);
+      });
+    </script>
+
+    <script src="rollups/sha512.js"></script>
+    <script type="text/javascript">
+        $("#sha512Execute").click(function(){
+          var text = $("#sha512Text").val();
+          var hash = CryptoJS.SHA512(text);
+          $("#sha512Crypted").val(hash);
+      });
+    </script>
+
+    <script src="rollups/ripemd160.js"></script>
+    <script type="text/javascript">
+        $("#ripemd160Execute").click(function(){
+          var text = $("#ripemd160Text").val();
+          var hash = CryptoJS.RIPEMD160(text);
+          $("#ripemd160Crypted").val(hash);
+      });
+    </script>
+
+  </body>
+</html>
