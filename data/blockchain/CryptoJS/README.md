@@ -9,7 +9,7 @@ components目录下的所有文件都会对应一个压缩文件，比如 compon
 rollups目录下的所有文件都已经压缩完毕，每个文件都可以单独调用。</br>
 
 ### nodejs目录：
-使用CryptoJS实现的nodejs加密。
+使用CryptoJS和node-nsa实现的nodejs加密。
 
 首先使用npm安装CryptoJS：<br>
 npm install crypto-js
