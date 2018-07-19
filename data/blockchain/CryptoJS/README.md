@@ -1,16 +1,16 @@
-### javascript
+### javascript目录：
 
 使用CryptoJS实现的前端加密：
 [http://www.ContentBC.com](http://www.contentbc.com)
 
 CryptoJS下载地址：https://pan.baidu.com/s/1eH05ByIW1TUauf_r8-YmUg
 
-#### 说明：
+#### 备注：
 components目录下的所有文件都会对应一个压缩文件，比如 components/aes.js 同时会有一个 components/aes-min.js 文件。</br>
 
 rollups目录下的所有文件都已经压缩完毕，每个文件都可以单独调用。</br>
 
-### nodejs
+### nodejs目录：
 使用CryptoJS实现的nodejs加密。
 
 首先使用npm安装CryptoJS：<br>
