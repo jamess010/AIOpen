@@ -5,9 +5,7 @@
 
 CryptoJS下载地址：https://pan.baidu.com/s/1eH05ByIW1TUauf_r8-YmUg
 
-#### 备注：
 components目录下的所有文件都会对应一个压缩文件，比如 components/aes.js 同时会有一个 components/aes-min.js 文件。</br>
-
 rollups目录下的所有文件都已经压缩完毕，每个文件都可以单独调用。</br>
 
 ### nodejs目录：
