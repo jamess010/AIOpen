@@ -58,16 +58,14 @@ var words = CryptoJS.enc.Utf16LE.parse(‘Hello, World!’);
 var utf16 = CryptoJS.enc.Utf16LE.stringify(words);
 ```
 
-RSA使用bigint库：
-地址：https://github.com/eschnou/node-bignumber
+RSA安装node-rsa：
 
-npm安装bigint：
-
-npm install bigint
+npm install node-rsa
 
 引用：
 
-var var rsa = require("bigint");
-
+```javascript
+var NodeRSA = require("node-rsa");
+```
 
 
