@@ -16,23 +16,201 @@
                    <span class="icon-bar"></span>
                    <span class="icon-bar"></span>
                </button>
-               <a href="#" class="navbar-brand scroll-top logo"><b>Encrypt／Decrypt 加解密算法</b></a>
+               <a href="#" class="navbar-brand scroll-top logo"><b>ContentBC 区块链技术</b></a>
            </div>
            <div id="main-nav" class="collapse navbar-collapse">
                <ul class="nav navbar-nav" id="mainNav">
                    <li><a href="index.html" class="scroll-link">首页</a></li>
                    <li><a href="hash.html" class="scroll-link">哈希算法</a></li>
                    <li><a href="rsa.html" class="scroll-link">非对称加密算法</a></li>
-                   <li class="active"><a href="#" class="scroll-link">数字摘要</a></li>
+                   <li class="active"><a href="#" class="scroll-link">数字签名</a></li>
                    <li><a href="base64.html" class="scroll-link">字符遍／解码</a></li>
 
                </ul>
            </div>
        </nav>
+
+       <div class="row">
+         <div class="panel panel-default">
+           <div class="panel-heading"><h1>在线签名和验签</h1></div>
+           <div class="panel-body">
+             <div class="row col-lg-12">
+               <div class="well">
+                 <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+                 <!-- frontpage banner -->
+                 <!-- <ins class="adsbygoogle"
+                      style="display:inline-block;width:728px;height:90px"
+                      data-ad-client="ca-pub-1902035200208763"
+                      data-ad-slot="9043467163"></ins>
+                 <script>
+                   (adsbygoogle = window.adsbygoogle || []).push({});
+                 </script> -->
+                <h4>数字签名（又称公钥数字签名、电子签章）是一种类似写在纸上的普通的物理签名，但是使用了公钥加密领域的技术实现，用于鉴别数字信息的方法。一套数字签名通常定义两种互补的运算，一个用于签名，另一个用于验证。
+数字签名，就是只有信息的发送者才能产生的别人无法伪造的一段数字串，这段数字串同时也是对信息的发送者发送信息真实性的一个有效证明。
+数字签名是非对称密钥加密技术与数字摘要技术的应用。
+                </h4>
+               </div>
+             </div>
+             <div class="col-lg-2">
+               <div class="btn-group">
+                 <div class="input-group">
+                   <span class="input-group-addon">Key Size</span>
+                   <button class="btn btn-default dropdown-toggle" id="key-size" type="button" data-value="1024"
+                           data-toggle="dropdown">1024 bit <span class="caret"></span></button>
+                   <ul class="dropdown-menu">
+                     <li><a class="change-key-size" data-value="512" href="#">512 bit</a></li>
+                     <li><a class="change-key-size" data-value="1024" href="#">1024 bit</a></li>
+                     <li><a class="change-key-size" data-value="2048" href="#">2048 bit</a></li>
+                     <li><a class="change-key-size" data-value="4096" href="#">4096 bit</a></li>
+                   </ul>
+                 </div>
+               </div>
+               <br>&nbsp;<br>
+               <button id="generate" class="btn btn-primary">Generate New Keys</button>
+               <br>&nbsp;<br>
+               <span><i><small id="time-report"></small></i></span>
+               <br>&nbsp;<br>
+               <label for="async-ck"><input id="async-ck" type="checkbox"> Async</label>
+             </div>
+             <div class="col-lg-10">
+               <div class="row">
+                 <div class="col-lg-6">
+                   <label for="privkey">Private Key</label><br/>
+                   <small>
+                     <textarea id="privkey" rows="15" style="width:100%"></textarea>
+                   </small>
+                 </div>
+                 <div class="col-lg-6">
+                   <label for="pubkey">Public Key</label><br/>
+                   <small><textarea id="pubkey" rows="15" style="width:100%" readonly="readonly"></textarea></small>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+
+       <div class="row">
+         <div class="panel panel-default">
+           <div class="panel-heading"><h3>签名和验签测试</h3></div>
+           <div class="panel-body">
+             <div class="col-lg-5">
+               <label for="input">Text to signature:</label><br/>
+               <textarea id="input" name="input" style="width: 100%" rows="4">This is a test!</textarea>
+             </div>
+             <div class="col-lg-2">
+               <label>&nbsp;</label><br/>
+               <button id="executeSig" class="btn btn-primary">签名</button>
+               <br>
+               <label>&nbsp;</label><br/>
+               <button id="executeVer" class="btn btn-primary">验签</button>
+             </div>
+             <div class="col-lg-5">
+               <label for="crypted">Signatured:</label><br/>
+               <textarea id="crypted" name="crypted" style="width: 100%" rows="4"></textarea>
+             </div>
+           </div>
+         </div>
+       </div>
+    </div>
+
+
     </div>
 
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jsencrypt.min.js"></script>
+    <script src="js/jsrsasign-all-min.js"></script>
+
+    <script type="text/javascript">
+      $(function () {
+
+
+        //Change the key size value for new keys
+        $(".change-key-size").each(function (index, value) {
+          var el = $(value);
+          var keySize = el.attr('data-value');
+          el.click(function (e) {
+            var button = $('#key-size');
+            button.attr('data-value', keySize);
+            button.html(keySize + ' bit <span class="caret"></span>');
+            e.preventDefault();
+          });
+        });
+
+        $('#executeVer').click(function () {
+
+          var verify = new JSEncrypt();
+          verify.setPublicKey($('#pubkey').val());
+          var signature = $('#crypted').val();
+          var verified = verify.verify($('#input').val(), signature, CryptoJS.SHA256);
+          //alert(verified);
+          alert(verified);
+        });
+
+
+        // Execute when they click the button.
+        $('#executeSig').click(function () {
+
+          //Create the encryption object.
+          var crypt = new JSEncrypt();
+
+          // Set the private.
+          crypt.setPrivateKey($('#privkey').val());
+          //return;
+
+          var prikey = $('#prikey').val();
+
+          if (!prikey) {
+            $('#prikey').val(crypt.getPrivateKey());
+          }
+
+          // Get the input and crypted values.
+          var input = $('#input').val();
+          var sign = new JSEncrypt();
+          sign.setPrivateKey($('#privkey').val());
+          var signature = sign.sign($('#input').val(), CryptoJS.SHA256, "sha256");          // initialize
+          $('#crypted').val(signature);
+        });
+
+
+        var generateKeys = function () {
+
+          var sKeySize = $('#key-size').attr('data-value');
+          var keySize = parseInt(sKeySize);
+          var crypt = new JSEncrypt({default_key_size: keySize});
+          var async = $('#async-ck').is(':checked');
+          var dt = new Date();
+          var time = -(dt.getTime());
+          if (async) {
+            $('#time-report').text('.');
+            var load = setInterval(function () {
+              var text = $('#time-report').text();
+              $('#time-report').text(text + '.');
+            }, 500);
+            crypt.getKey(function () {
+              clearInterval(load);
+              dt = new Date();
+              time += (dt.getTime());
+              $('#time-report').text('Generated in ' + time + ' ms');
+              $('#privkey').val(crypt.getPrivateKey());
+              $('#pubkey').val(crypt.getPublicKey());
+            });
+            return;
+          }
+          crypt.getKey();
+          dt = new Date();
+          time += (dt.getTime());
+          $('#time-report').text('Generated in ' + time + ' ms');
+          $('#privkey').val(crypt.getPrivateKey());
+          $('#pubkey').val(crypt.getPublicKey());
+        };
+
+        // If they wish to generate new keys.
+        $('#generate').click(generateKeys);
+        generateKeys();
+      });
+    </script>
 
 
   </body>
