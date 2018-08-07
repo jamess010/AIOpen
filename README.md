@@ -30,7 +30,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 - #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；数据按来源可以分为三种：
   - 来自政府、大公司（google、BAT等）自上而下的公共数据集，如：MNIST，ImageNet，Kaggle等。
   - 来自企业的非公开数据，属于数据孤岛。
-  - 使用区块链技术的自下而上的数据，如个人病例数据，个人基因数据，小企业数据，如果这方面技术成熟，DataBC（data block chain：数据区块链）将是未来发展的方向。[区块链技术](http://www.ContentBC.net)
+  - 使用区块链技术的自下而上的数据，如个人病例数据，个人基因数据，小企业数据，如果这方面技术成熟，DataBC（data block chain：数据区块链）将是未来发展的方向。[区块链技术](http://www.ContentBC.com)
 
 - #### 算法（algorithm）：包括了深度学习方法（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）、模型（VGG、RestNet等）；
 
