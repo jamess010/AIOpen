@@ -210,7 +210,7 @@ zookeeper：集群管理工具</br>
 
 #### 区块链
 
-[区块链技术]()
+[区块链技术](http://www.ContentBC.com)
 
 [2018中国区块链产业白皮书](https://pan.baidu.com/s/17jGDJVDty0MNS-9o9s6ovA)
 
