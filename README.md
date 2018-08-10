@@ -100,6 +100,10 @@ DNN：Deep Neural Networks，深度神经网络</br>
 Docker：容器</br>
 DPU：Deep learning Processing Unit, 深度学习处理器。</br>
 
+### E
+
+EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、spark集成分布式计算。</br>
+
 ### F
 
 FPGA：Field-Programmable Gate Array，现场可编程门阵列</br>
