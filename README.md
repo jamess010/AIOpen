@@ -102,7 +102,7 @@ DPU：Deep learning Processing Unit, 深度学习处理器。</br>
 
 ### E
 
-EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、spark集成分布式计算。</br>
+EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、hadoop、spark集成分布式计算。</br>
 
 ### F
 
