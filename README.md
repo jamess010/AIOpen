@@ -204,7 +204,7 @@ OpenStack：一个开源的云计算管理平台项目</br>
 
 ### P
 
-PCA 主成分分析</br>
+PCA：主成分分析</br>
 Pandas：Python Data Analysis Library，一个基于Python的数据处理工具</br>
 PySpark：一种基于Python的Spark编程接口</br>
 Python：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
@@ -233,7 +233,7 @@ TPU：Tensor Processing Unit，向量处理器，是google的一款高性能处�
 
 ### Y
 
-Yann：集群管理工具</br>
+Yarn：集群管理工具</br>
 
 ### Z
 
