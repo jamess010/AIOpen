@@ -1,5 +1,8 @@
 # 一些未分类的资源
 
+2018年机器阅读理解技术竞赛模型，国内外1000多支队伍中BLEU-4评分排名第6， ROUGE-L评分排名第14。</br>
+地址：https://github.com/freefuiiismyname/G-Reader/stargazers
+
 awesome-speech：语音相关资源，包括开源库、数据、代码文章、主页等。</br>
 地址：https://github.com/mxer/awesome-speech
 
