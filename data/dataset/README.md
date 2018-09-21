@@ -20,7 +20,7 @@
 MNIST(SCO):最常用的数据集，图像大小为28x28的手写数字，在 MNIST 上性能良好，并不意味着模型本身很好。</br>
 地址：http://yann.lecun.com/exdb/mnist/
 
-CIFAR 10 & CIFAR 100(经典、陈旧)：32x32的彩色图像数据集，虽然已经不常用，但也可以用作完整性检查。</br>
+CIFAR 10 & CIFAR 100(CO)：32x32的彩色图像数据集，虽然已经不常用，但也可以用作完整性检查。</br>
 地址：https://www.cs.toronto.edu/~kriz/cifar.html
 
 ImageNet(USC)：新算法实际上使用的图像数据集，很多图像 API 公司从其 REST 接口获取标签，这些标签被怀疑与 ImageNet 的下一级 WordNet 的 1000 个类很相似。</br>
@@ -46,8 +46,11 @@ Labeled Faces in the Wild(有用、学术、经典、陈旧)：使用名称标�
 
 # 自然语言处理
 
-Chinese Word Vectors： 上百种中文词向量数据集。</br>
+Chinese Word Vectors（US）： 上百种中文词向量数据集。</br>
 地址：https://github.com/Embedding/Chinese-Word-Vectors
+
+Glove.6B（US）：Glove预训练词嵌入数据集。</br>
+地址：https://pan.baidu.com/s/1i6gmTEjngh2HVpPl6AUisA  密码:o40o
 
 Text Classification Datasets(US)：一个文本分类数据集，包含8个可用于文本分类的子数据集，样本大小从120K到3.6M，问题范围从2级到14级，数据来源于 DBPedia、Amazon、Yelp、Yahoo!、Sogou 和 AG。</br>
 地址：http://t.cn/RJDVxr4
