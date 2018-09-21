@@ -58,18 +58,15 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ## 数据
 
-* [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+* [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)</br>
 
-* [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+* [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)</br>
+CDH是Cloudera最成型的发行版本，拥有最多的部署案例。提供强大的部署、管理和监控工具。Cloudera开发并贡献了可实时处理大数据的Impala项目。拥有强大的社区支持，当出现一个问题时，能够通过社区、论坛等网络资源快速获取解决方法。
 
-* [HDP](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+
+* [HDP](https://github.com/jamess010/AIOpen/tree/master/data/CDH) </br>
 HDP是Hortonworks公司的发行版，它使用了100%开源Apache Hadoop（不拥有任何私有、非开源代码）的唯一提供商。Hortonworks是第一家使用了Apache HCatalog的元数据服务特性的提供商。并且，它们的Stinger开创性地极大地优化了Hive项目。Hortonworks为入门提供了一个非常好的，易于使用的沙盒。Hortonworks开发了很多增强特性并提交至核心主干，这使得Apache Hadoop能够在包括Windows Server和Windows Azure在内的Microsft Windows平台上本地运行,相比于CDH只能运行在Linux系统中。
 
-
-
----------------------
-
-本文来自 微信-落落 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/weixin_39027420/article/details/81239661?utm_source=copy 
 
 ## 算法
 
@@ -138,6 +135,7 @@ BOTs：虚拟（聊天）机器人，是一种通过自然语言来模拟人类�
 ### C
 
 Caffe：Convolutional Architecture for Fast Feature Embedding，是一种常用的深度学习框架，在视频、图像处理方面应用较多</br>
+CM：Cloudera Manager， 提供易用特性、易于升级和安装组件等最有价值的功能。CM也可以在几分钟之内建立集群主节点的高可用性（high availability）及其他功能，例如，Hive，Pig，Impala，Flume和Spark等。</br>
 CNN：Convolutional Neural Networks，卷积神经网络</br>
 CNTK：Computational Network Toolkit，微软开发的深度学习商业工具包。</br>
 
@@ -174,6 +172,7 @@ Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展
 
 ### I
 
+Impala：是基于HDFS的SQL工具，cloudera开发，现开源。</br>
 IPFS：InterPlanetary File System，星际文件系统，是永久的、去中心化保存和共享文件的方法，这是一种内容可寻址、版本化、点对点超媒体的分布式协议。</br>
 IPNS：InterPlanetary Name S，是一个分布式的命名系统，将难于记忆的数据哈希值映射为易于记忆的字符串。这可以类比于域名与IP地址的映射关系。</br>
 
