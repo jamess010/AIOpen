@@ -3,7 +3,6 @@
 * [AI三要素](#ai三要素)
 * [AI开源全栈图](#ai开源全栈图)
 * [深度学习流程](#深度学习流程)
-* [典型案例推荐](#典型案例推荐)
 * [目录说明](#目录说明)
 * [术语解释](#术语解释)
 * [参考资料](#参考资料)
@@ -31,7 +30,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 - #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；数据按来源可以分为三种：
   - 来自政府、大公司（google、BAT等）自上而下的公共数据集，如：MNIST，ImageNet，Kaggle等。
   - 来自企业的非公开数据，属于数据孤岛。
-  - 使用区块链技术的自下而上的数据，如个人病例数据，个人基因数据，小企业数据，如果这方面技术成熟，DataBC（data block chain：数据区块链）和区块链智能合约将是未来发展的方向。更多信息请访问：[区块链技术](http://www.ContentBC.com)
+  - 使用区块链技术的自下而上的数据，如个人病例数据，个人基因数据，小企业数据，如果这方面技术成熟，DataBC（data block chain：数据区块链）将是未来发展的方向。[区块链技术](http://www.ContentBC.com)
 
 - #### 算法（algorithm）：包括了深度学习方法（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）、模型（VGG、RestNet等）；
 
@@ -53,48 +52,6 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### 下图是一个基于监督学习的深度学习流程：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
-
-# 典型案例推荐
-
-## 数据
-
-* [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
-
-* [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
-
-* [HDP](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
-
-## 算法
-
-* [Tensorflow on Yarn](https://github.com/linkedin/TonY)
-
-* [Spark on Yarn]
-
-## 算力
-
-* 算力中心：
-  * 硬件：
-    * GPU服务器: 20台高性能的GPU服务器，包含60张GPU卡，1280G内存，95T空间
-    * 服务器机架：500台2U刀片服务器架
-    * 高性能服务器：40台高性能服务器，2304G内存,207T的空间
-    * 交换机：10个以上的万兆交换机
-    
-  * 软件：
-    * 资源池虚拟化软件系统（OpenStack）
-    * 网络管理系统
-    * 监控软件系统
-
-* 家用：
-  * 硬件： 
-    * CPU：3.5 GHz Intel Core i7 
-    * 内存：128 GB HDDR 4 3000 MHz 
-    * 硬盘：3 TB Fusion Drive（1TB SSD + 2TB HDD） 
-    * GPU：4块 GTX 1080Ti 
-  * 软件： 
-    * Ubuntu16.04
-    * anaconda2
-    * tensorflow  
-    * keras
 
 
 
@@ -126,7 +83,7 @@ Auto Encoder：自动编码器，一种无监督学习方法</br>
 ### B
 
 BC：Block Chain，区块链，是一种在多方无需互信的环境下，通过密码学技术让系统所有参与方协作，共同记录和维护一个可靠的、不可撤销的分布式数据块链的技术。</br>
-BDCloud：大数据云平台。https://github.com/bdcloud/readme </br>
+BDCloud：大数据云平台。https://github.com/bdcloud/data-django-kafka-hdfs-spark </br>
 BPU：Brain Processing Unit, 大脑处理器。</br>
 BOTs：虚拟（聊天）机器人，是一种通过自然语言来模拟人类对话的程序。</br>
 
@@ -201,10 +158,15 @@ Numpy：基于Python的基础数据工具</br>
 ### O
 
 OpenStack：一个开源的云计算管理平台项目</br>
+Oozie：提供了对开源Hadoop组件的任务编排、执行的功能。以Java Web应用程序的形式运行在Java servlet容器（如：Tomcat）中，并使用数据库来存储工作流定义、当前运行的工作流实例（含实例的状态和变量）。</br>
+
+---------------------
+
+本文来自 微信-落落 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/weixin_39027420/article/details/81239661?utm_source=copy 
 
 ### P
 
-PCA：主成分分析</br>
+PCA 主成分分析</br>
 Pandas：Python Data Analysis Library，一个基于Python的数据处理工具</br>
 PySpark：一种基于Python的Spark编程接口</br>
 Python：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
@@ -233,7 +195,7 @@ TPU：Tensor Processing Unit，向量处理器，是google的一款高性能处�
 
 ### Y
 
-Yarn：集群管理工具</br>
+Yann：集群管理工具</br>
 
 ### Z
 
