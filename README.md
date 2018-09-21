@@ -66,13 +66,23 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ## 算法
 
-* [Tensorflow on Yarn]()
+* [Tensorflow on Yarn](https://github.com/linkedin/TonY)
 
 * [Spark on Yarn]
 
 ## 算力
 
-* 算力中心：OpenStack
+* 算力中心：
+  * 硬件：
+    * GPU服务器: 20台高性能的GPU服务器，包含60张GPU卡，1280G内存，95T空间
+    * 服务器机架：500台2U刀片服务器架
+    * 高性能服务器：40台高性能服务器，2304G内存,207T的空间
+    * 交换机：10个以上的万兆交换机
+    
+  * 软件：
+    * 资源池虚拟化软件系统（OpenStack）
+    * 网络管理系统
+    * 监控软件系统
 
 * 家用：
   * 硬件： 
