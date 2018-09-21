@@ -9,6 +9,10 @@
 
 * bdcloud: 一个用于收集终端数据的大数据云平台实例
 
+* CDH：Cloudera’s Distribution Including Apache Hadoop，Cloudera发行版
+
+* HDP：Hortonworks Data Platform，Hortonworks发行版
+
 * blockchain：基于区块链的数据共享平台。
 
 ### 其它资源列表
