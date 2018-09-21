@@ -75,6 +75,16 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 * 算力中心：OpenStack
 
 * 家用：
+  * 硬件： 
+    * CPU：3.5 GHz Intel Core i7 
+    * 内存：128 GB HDDR 4 3000 MHz 
+    * 硬盘：3 TB Fusion Drive（1TB SSD + 2TB HDD） 
+    * GPU：4块 GTX 1080Ti 
+  * 软件： 
+    * Ubuntu16.04
+    * anaconda2
+    * tensorflow  
+    * keras
 
 
 
