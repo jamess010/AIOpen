@@ -107,6 +107,7 @@ EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorf
 
 ### F
 
+Flume：一个分布式、可靠和高可用的海量日志聚合系统，支持在系统中定制各类数据发送方，用于收集数据；同时，Flume提供对数据进行简单处理，并写入各种数据接受方（可定制）的能力。</br>
 FPGA：Field-Programmable Gate Array，现场可编程门阵列</br>
 
 ### G
@@ -121,6 +122,7 @@ Hadoop：是一个山寨google的分布式文件系统</br>
 HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
 HMM：隐马尔可夫模型</br>
+Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展示多种组件，目前支持HDFS、YARN、Hive和Solr。</br>
 
 ### I
 
@@ -160,10 +162,6 @@ Numpy：基于Python的基础数据工具</br>
 OpenStack：一个开源的云计算管理平台项目</br>
 Oozie：提供了对开源Hadoop组件的任务编排、执行的功能。以Java Web应用程序的形式运行在Java servlet容器（如：Tomcat）中，并使用数据库来存储工作流定义、当前运行的工作流实例（含实例的状态和变量）。</br>
 
----------------------
-
-本文来自 微信-落落 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/weixin_39027420/article/details/81239661?utm_source=copy 
-
 ### P
 
 PCA 主成分分析</br>
@@ -184,6 +182,7 @@ ROS：Robot Operating System，是一个机器人软件平台</br>
 Scala：一种Spark编程语言</br>
 Slim：Tensorflow的一个辅助工具</br>
 Spark：基于内存的分布式计算引擎</br>
+Solr：一个高性能，基于Lucene的全文检索服务器。Solr对Lucene进行了扩展，提供了比Lucene更为丰富的查询语言，同时实现了可配置、可扩展，并对查询性能进行了优化，并且提供了一个完善的功能管理界面，是一款非常优秀的全文检索引擎。</br>
 Storm：基于流的分布式计算引擎</br>
 
 ### T
