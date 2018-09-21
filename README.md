@@ -3,6 +3,7 @@
 * [AI三要素](#ai三要素)
 * [AI开源全栈图](#ai开源全栈图)
 * [深度学习流程](#深度学习流程)
+* [典型案例推荐](#典型案例推荐)
 * [目录说明](#目录说明)
 * [术语解释](#术语解释)
 * [参考资料](#参考资料)
@@ -53,7 +54,54 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 #### 下图是一个基于监督学习的深度学习流程：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
+# 典型案例推荐
 
+## 数据
+
+* [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+
+* [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+
+* [HDP](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+HDP是Hortonworks公司的发行版，它使用了100%开源Apache Hadoop（不拥有任何私有、非开源代码）的唯一提供商。Hortonworks是第一家使用了Apache HCatalog的元数据服务特性的提供商。并且，它们的Stinger开创性地极大地优化了Hive项目。Hortonworks为入门提供了一个非常好的，易于使用的沙盒。Hortonworks开发了很多增强特性并提交至核心主干，这使得Apache Hadoop能够在包括Windows Server和Windows Azure在内的Microsft Windows平台上本地运行,相比于CDH只能运行在Linux系统中。
+
+
+
+---------------------
+
+本文来自 微信-落落 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/weixin_39027420/article/details/81239661?utm_source=copy 
+
+## 算法
+
+* [Tensorflow on Yarn](https://github.com/linkedin/TonY)
+
+* [Spark on Yarn]
+
+## 算力
+
+* 算力中心：
+  * 硬件：
+    * GPU服务器: 20台高性能的GPU服务器，包含60张GPU卡，1280G内存，95T空间
+    * 服务器机架：500台2U刀片服务器架
+    * 高性能服务器：40台高性能服务器，2304G内存,207T的空间
+    * 交换机：10个以上的万兆交换机
+
+  * 软件：
+    * 资源池虚拟化软件系统（OpenStack）
+    * 网络管理系统
+    * 监控软件系统
+    
+* 家用：
+  * 硬件：
+    * CPU：3.5 GHz Intel Core i7
+    * 内存：128 GB HDDR 4 3000 MHz
+    * 硬盘：3 TB Fusion Drive（1TB SSD + 2TB HDD）
+    * GPU：4块 GTX 1080Ti
+  * 软件：
+    * Ubuntu16.04
+    * anaconda2
+    * tensorflow
+    * keras
 
 ---
 # 目录说明
