@@ -53,6 +53,28 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 #### 下图是一个基于监督学习的深度学习流程：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_supervised.png" /></div>
 
+# 典型案例推荐
+
+## 数据
+
+* [bdcloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+
+* [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+
+* [HDP](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+
+## 算法
+
+* [Tensorflow on Yarn]()
+
+* [Spark on Yarn]
+
+## 算力
+
+* 算力中心：OpenStack
+
+* 家用：
+
 
 
 ---
