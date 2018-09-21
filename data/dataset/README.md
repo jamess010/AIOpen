@@ -46,6 +46,9 @@ Labeled Faces in the Wild(有用、学术、经典、陈旧)：使用名称标�
 
 # 自然语言处理
 
+Chinese Word Vectors： 上百种中文词向量数据集。</br>
+地址：https://github.com/Embedding/Chinese-Word-Vectors
+
 Text Classification Datasets(US)：一个文本分类数据集，包含8个可用于文本分类的子数据集，样本大小从120K到3.6M，问题范围从2级到14级，数据来源于 DBPedia、Amazon、Yelp、Yahoo!、Sogou 和 AG。</br>
 地址：http://t.cn/RJDVxr4
 
