@@ -58,7 +58,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ## 数据
 
-* [bdcloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+* [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
 
 * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
 
