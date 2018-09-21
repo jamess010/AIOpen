@@ -178,7 +178,7 @@ Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展
 
 Impala：是基于HDFS的SQL工具，cloudera开发，现开源。</br>
 IPFS：InterPlanetary File System，星际文件系统，是永久的、去中心化保存和共享文件的方法，这是一种内容可寻址、版本化、点对点超媒体的分布式协议。</br>
-IPNS：InterPlanetary Name S，是一个分布式的命名系统，将难于记忆的数据哈希值映射为易于记忆的字符串。这可以类比于域名与IP地址的映射关系。</br>
+IPNS：InterPlanetary Named System，是一个分布式的命名系统，将难于记忆的数据哈希值映射为易于记忆的字符串。这可以类比于域名与IP地址的映射关系。</br>
 
 
 ### K
