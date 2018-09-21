@@ -59,6 +59,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ## 数据
 
 * [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)</br>
+BDCloud是使用Docker实现的Hadoop集群技术，其宗旨是实现对终端设备的监控信息进行采集、处理、存储、分析。其流程是终端采集信息->django处理信息->Kafka->Flume->HDFS->Spark分析信息。
 
 * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)</br>
 CDH是Cloudera最成型的发行版本，拥有最多的部署案例。提供强大的部署、管理和监控工具。Cloudera开发并贡献了可实时处理大数据的Impala项目。拥有强大的社区支持，当出现一个问题时，能够通过社区、论坛等网络资源快速获取解决方法。
