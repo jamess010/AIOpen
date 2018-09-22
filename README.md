@@ -76,7 +76,7 @@ HDP是Hortonworks公司的发行版，它使用了100%开源Apache Hadoop（不�
 * [Tensorflow on Yarn](https://github.com/linkedin/TonY)</br>
 TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点或大型 Hadoop 集群上构建基于 YARN 的 TensorFlow 应用程序解决方案。 TonY 的工作方式就像在 Hadoop 中的 MapReduce，执行 Pig 和 Hive 脚本的方法类似，为 TensorFlow 任务提供第一级支持。 TonY 由三个主要组件组成，客户端，ApplicationMaster 和 TaskExecutor。 它提供了 GPU 调度，精确资源请求，TensorBoard 支持和容错的四个主要功能。
 
-* [Spark on Yarn](http://spark.apache.org/)
+* [Spark on Yarn](http://spark.apache.org/)</br>
 一般的Spark部署模式是Spark的standalone运行模式。在Spark的生产环境中，主要部署在Hadoop集群中，是以Spark On YARN模式运行，依靠yarn来调度Spark，比默认的Spark运行模式性能要好的多。 Spark on Yarn分为client和cluster两种模式。
 
 
