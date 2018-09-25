@@ -111,7 +111,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 
 ---
 # 目录说明
-- #### data：数据：数据集、数据区块链、Hadoop、Spark等。
+- #### data：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
 
 - #### algorithm：算法：深度学习算法、训练框架、模型等。
 
