@@ -106,8 +106,8 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
   * 软件：
     * Ubuntu16.04
     * anaconda2
-    * tensorflow
-    * keras
+    * tensorflow（1.3。0）
+    * keras（2.1.4）
 
 ---
 # 目录说明
