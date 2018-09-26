@@ -175,6 +175,7 @@ GPU：Graphics Processing Unit，图形处理器</br>
 
 Hadoop：是一个山寨google的分布式文件系统</br>
 HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
+HDFS：Hadoop分布式文件系统（Hadoop Distributed File System），提供高吞吐量的数据访问，适合大规模数据集方面的应用。</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
 HMM：隐马尔可夫模型</br>
 Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展示多种组件，目前支持HDFS、YARN、Hive和Solr。</br>
@@ -200,6 +201,7 @@ LSTM：Long Short-Term Memory，长短期记忆网络</br>
 
 ### M
 
+MapReduce：提供快速并行处理大量数据的能力，是一种分布式数据处理模式和执行环境。</br>
 Matplotlib：基于Python的数据可视化工具</br>
 MFCC：梅尔倒谱系数</br>
 ML：Machine Learning，机器学习</br>
@@ -250,11 +252,11 @@ TPU：Tensor Processing Unit，向量处理器，是google的一款高性能处�
 
 ### Y
 
-Yann：集群管理工具</br>
+Yann：资源管理系统，它是一个通用的资源模块，可以为各类应用程序进行资源管理和调度。</br>
 
 ### Z
 
-zookeeper：集群管理工具</br>
+zookeeper：提供分布式、高可用性的协调服务能力。 帮助系统避免单点故障，从而建立可靠的应用程序。</br>
 
 ---
 # 参考资料
