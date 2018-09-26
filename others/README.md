@@ -36,6 +36,8 @@ Sonar：是一个用于调试 iOS 和 Android 移动应用的平台，通过一�
 
 李宏毅【深度学习教程】：https://pan.baidu.com/s/1NpjdimyUYX93pZiPm6Y2oA
 
+100天学会机器学习：https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
 ### 区块链
 
 区块链知识体系总结：https://github.com/guanchao/blockchain_learn
