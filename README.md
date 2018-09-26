@@ -222,7 +222,7 @@ Oozie：提供了对开源Hadoop组件的任务编排、执行的功能。以Jav
 
 ### P
 
-PCA 主成分分析</br>
+PCA：主成分分析</br>
 Pandas：Python Data Analysis Library，一个基于Python的数据处理工具</br>
 PySpark：一种基于Python的Spark编程接口</br>
 Python：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
