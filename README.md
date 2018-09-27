@@ -129,6 +129,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 AGI：Artificial General Intelligence，通用人工智能。</br>
 AI：Artificial Intelligence，人工智能。</br>
 Algorithm：人工智能算法,目前最主流的是深度学习。</br>
+Ambari：Apache Ambari是一个基于Web的工具，支持HDFS、MapReduce、Hive、Pig、Hbase、Zookeepr、Sqoop和Hcatalog等的集中管理。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
 APU：Accelerated Processing Unit，加速处理器，是把CPU和GPU做到一块硅芯上。</br>
 Awesome：在Github上寻找好资源的关键字。比如：awesome deep learning, awesome blockchain等。
