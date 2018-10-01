@@ -34,6 +34,9 @@ Sonar：是一个用于调试 iOS 和 Android 移动应用的平台，通过一�
 # 学习资源
 ### 人工智能
 
+fastai：一个 Deep Learning 的公开教程。</br>
+地址：https://github.com/fastai/fastai
+
 李宏毅【深度学习教程】：https://pan.baidu.com/s/1NpjdimyUYX93pZiPm6Y2oA
 
 100天学会机器学习：https://github.com/Avik-Jain/100-Days-Of-ML-Code </br>
