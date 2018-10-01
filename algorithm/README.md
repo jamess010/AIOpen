@@ -10,6 +10,12 @@
 ### 其它资源列表
 #### 自然语言处理（NLP）
 
+Patten：作为 web 挖掘模块提供服务的，因此，它也支持 NLP 任务。</br>
+地址：https://github.com/clips/pattern
+
+gensim：用于话题空间建模、向量空间建模和文档相似度的工具包。</br>
+地址：https://github.com/RaRe-Technologies/gensim
+
 Intel推出NLP开源库：NLP Architect </br>
 地址：https://github.com/NervanaSystems/nlp-architect
 
@@ -30,6 +36,9 @@ SpaCy，为性能而建的一个工业强度的NLP库。</br>
 
 NLTK，是提到的最广泛的NLP库。</br>
 地址：https://github.com/nltk/nltk
+
+polyglot：用于 NLP 的 Python 包。它不是很流行，但也可以用于大量 NLP 任务。</br>
+地址：https://github.com/aboSamoor/polyglot
 
 ---
 #### 语音处理
