@@ -16,7 +16,7 @@ Patten：作为 web 挖掘模块提供服务的，因此，它也支持 NLP 任�
 gensim：用于话题空间建模、向量空间建模和文档相似度的工具包。</br>
 地址：https://github.com/RaRe-Technologies/gensim
 
-Intel推出NLP开源库：NLP Architect </br>
+NLP Architect：Intel推出NLP开源库。 </br>
 地址：https://github.com/NervanaSystems/nlp-architect
 
 Synonyms：一个开源的中文近义词工具包。</br>
@@ -31,10 +31,10 @@ CoreNLP：Stanford基于Java的自然语言处理软件。</br>
 OpenNLP：Apache项目，执行自然语言处理任务，比如标记化、句子分割、词性标注、命名实体提取、分块、解析、语言检测和共指消解。</br>
 地址：https://opennlp.apache.org/
 
-SpaCy，为性能而建的一个工业强度的NLP库。</br>
+SpaCy：为性能而建的一个工业强度的NLP库。</br>
 地址：https://github.com/explosion/spaCy
 
-NLTK，是提到的最广泛的NLP库。</br>
+NLTK：是提到的最广泛的NLP库。</br>
 地址：https://github.com/nltk/nltk
 
 polyglot：用于 NLP 的 Python 包。它不是很流行，但也可以用于大量 NLP 任务。</br>
