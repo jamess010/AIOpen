@@ -145,6 +145,7 @@ BOTs：虚拟（聊天）机器人，是一种通过自然语言来模拟人类�
 ### C
 
 Caffe：Convolutional Architecture for Fast Feature Embedding，是一种常用的深度学习框架，在视频、图像处理方面应用较多</br>
+Cassandra：是一套开源分布式NoSQL数据库系统。 它最初由Facebook开发，用于储存收件箱等简单格式数据。</br>
 CM：Cloudera Manager， 提供易用特性、易于升级和安装组件等最有价值的功能。CM也可以在几分钟之内建立集群主节点的高可用性（high availability）及其他功能，例如，Hive，Pig，Impala，Flume和Spark等。</br>
 CNN：Convolutional Neural Networks，卷积神经网络</br>
 CNTK：Computational Network Toolkit，微软开发的深度学习商业工具包。</br>
@@ -160,6 +161,7 @@ DPU：Deep learning Processing Unit, 深度学习处理器。</br>
 ### E
 
 EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、hadoop、spark集成分布式计算。</br>
+ElasticSearch：是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。</br>
 
 ### F
 
