@@ -177,6 +177,7 @@ GPU：Graphics Processing Unit，图形处理器</br>
 ### H
 
 Hadoop：是一个山寨google的分布式文件系统</br>
+Hazelcast：是一个高度可扩展的数据分发和集群的开源平台，提供了高效的、可扩展的分布式数据存储、数据缓存。 在分布式技术方面，Hazelcast提供了十分友好的接口供开发者选择，如Map，Queue，ExecutorService, Lock和Jcache。</br>
 HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 HDFS：Hadoop分布式文件系统（Hadoop Distributed File System），提供高吞吐量的数据访问，适合大规模数据集方面的应用。</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
