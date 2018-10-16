@@ -211,6 +211,7 @@ ML：Machine Learning，机器学习</br>
 MLP：多层感知器</br>
 MongoDB：NoSQL数据库</br>
 MSE：均方误差</br>
+MXNet：是亚马逊（Amazon）的深度学习库。</br>
 
 ### N
 
