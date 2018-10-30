@@ -108,6 +108,9 @@ AudioSet(U)：google大规模音频数据集。</br>
 2000 HUB5 English(SO)：仅包含英语的语音数据集，百度最近的论文《深度语音：扩展端对端语音识别》使用的是这个数据集。</br>
 地址：https://catalog.ldc.upenn.edu/LDC2002T43
 
+OpenSLR：Open Speech and Langurage Resources。</br>
+地址：http://www.openslr.org/resources.php
+
 LibriSpeech(S)：包含文本和语音的有声读物数据集，由近500小时的多人朗读的清晰音频组成，且包含书籍的章节结构。</br>
 地址：http://www.openslr.org/12/
 
@@ -122,6 +125,14 @@ CHIME(U)：包含环境噪音的语音识别挑战赛数据集。该数据集包
 
 TED-LIUM：TED Talk 的音频数据集，包含1495个TED演讲的录音及全文的文字稿。</br>
 地址：http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus
+
+Yesno：Sixty recordings of one individual saying yes or no in Hebrew; each recording is eight words long。</br>
+地址：http://www.openslr.org/1/
+
+Vystadial：English and Czech data, mirrored from the Vystadial project。</br>
+地址：http://www.openslr.org/6/
+
+
 
 # 推荐和排序系统
 
