@@ -14,6 +14,18 @@ ApolloAuto，是百度的开源自动驾驶平台。</br>
 ---
 #### 人脸识别
 
+Rekognition：亚马逊的API产品。</br>
+地址：https://aws.amazon.com/cn/rekognition/?nc2=h_mo
+
+Vision API：谷歌的云API。</br>
+地址：https://www.programmableweb.com/api/google-cloud-vision
+
+Visual Recognition：IBM 沃森的API产品。</br>
+地址：https://www.ibm.com/watson/services/visual-recognition/
+
+Face API：微软的API。</br>
+地址：https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/
+
 face_recognition：简单易用的python人脸开源识别库。</br>
 地址：https://github.com/ageitgey/face_recognition
 
