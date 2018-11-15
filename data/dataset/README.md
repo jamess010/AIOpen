@@ -17,6 +17,9 @@
 
 # 计算机视觉
 
+Open Images(U)：是谷歌开源的一个大型数据集，包含大约 900 万张图像，这些图像用图像级别的标签和目标边界框进行了标注。</br>
+地址：https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F06mf6
+
 MNIST(SCO):最常用的数据集，图像大小为28x28的手写数字，在 MNIST 上性能良好，并不意味着模型本身很好。</br>
 地址：http://yann.lecun.com/exdb/mnist/
 
