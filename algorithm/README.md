@@ -10,6 +10,9 @@
 ### 其它资源列表
 #### 自然语言处理（NLP）
 
+BERT：Bidirectional Encoder Representations from Transformers，是谷歌将Transformer（一种流行的注意力模型）的双向训练应用于语言建模。</br>
+地址：https://github.com/google-research/bert#fine-tuning-with-bert
+
 Patten：作为 web 挖掘模块提供服务的，因此，它也支持 NLP 任务。</br>
 地址：https://github.com/clips/pattern
 
