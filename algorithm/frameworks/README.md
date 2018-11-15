@@ -10,3 +10,5 @@
 #### 包含主流deep learning框架deepo。</br>
 地址：https://github.com/ufoym/deepo
 
+### AdaNet： Google 对基于 TensorFlow 的轻量级框架的开源架构，这一框架只需要少量的专家干预便能自动学习高质量模型。AdaNet 在 Google 最近的强化学习和基于进化的 AutoML 成果的基础上构建，在提供学习保证的同时也能保持快速、灵活。重点是，AdaNet 提供了一种通用框架，不仅能够学习神经网络架构，还能学习集成从而获得更佳的模型。</br>
+地址：https://github.com/tensorflow/adanet
