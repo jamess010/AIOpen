@@ -1,6 +1,6 @@
 # 本分支主要汇总AI训练架构
 
-### 主流框架
+### 主流框架：
 
 Tensorflow：是 google 的一个开源系统，基于数据流编程（dataflow programming）的符号数学系统，被广泛应用于各类机器学习（machine learning）算法的编程实现。TensorFlow 是世界上最受欢迎的开源机器学习框架，它具有快速、灵活并适合产品级大规模应用等特点，让每个开发者和研究者都能方便地使用人工智能来解决多样化的挑战。
 地址：https://github.com/tensorflow/tensorflow
