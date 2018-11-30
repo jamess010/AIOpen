@@ -2,9 +2,9 @@
 
 ### 本分支主要汇总AI开源算法相关项目，包括模型方法、模型训练架构等。
 
-* networks：深度学习网络。
+* networks：深度学习网络，包括：DNN、LSTM、RL（强化学习）、TL（迁移学习）、GAN（生成对抗网络）等。
 
-* frameworks: 训练框架
+* frameworks: 训练框架，包括Tensorflow、Adanet、keras、cntk、theano、pytorch等。
 ---
 
 ### 其它资源列表
