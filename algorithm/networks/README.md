@@ -1,10 +1,10 @@
-# 目录：
+# 本分支主要汇总深度学习相关模型
 
 ### DNN：Deep Neural Networks，深度神经网络。
 
 ### LSTM：Long Short-Term Memory，长短期记忆网络。
 
-### RL：Reinforce Learning，强化学习。
+### RL：Reinforcement Learning，强化学习。
 
 ### TL：Transfer Learning，迁移学习。
 
