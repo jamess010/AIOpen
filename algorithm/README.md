@@ -64,13 +64,6 @@ penCog：开源的人工智能通用平台。</br>
 TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。</br>
 地址：https://github.com/EpistasisLab/tpot
 
----
-#### 生成对抗网络（GAN）
-StarGAN：是一种可以在同一个模型中进行多个图像领域之间风格转换的对抗生成方法。</br>
-地址：https://github.com/yunjey/StarGAN
-
-the-gan-zoo：每周都有新的GAN（生成对抗网络）论文出来，本项目就是这些GAN论文的跟踪列表。</br>
-地址：https://github.com/hindupuravinash/the-gan-zoo
 
 ---
 #### 其它
