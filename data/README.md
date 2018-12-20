@@ -17,6 +17,27 @@
 
 ### 其它资源列表
 
+github数据集列表。</br>
+地址：https://github.com/caesar0301/awesome-public-datasets
+
+万得数据，被誉为中国的Bloomberg，在金融业有着全面的数据覆盖，更新非常快。</br>
+地址：http://www.wind.com.cn/
+
+国家数据，来源于中国国家统计局，包含了我国经济民生等多个方面的数据，并且在月度、季度、年度都有覆盖，较为全面和权威。</br>
+地址：http://data.stats.gov.cn/index.htm
+
+CEIC，最完整的一套超过128个国家的经济数据，能够精确查找GDP, CPI, 进口，出口，外资直接投资，零售，销售，以及国际利率等深度数据。</br>
+地址：http://www.ceicdata.com/zh-hans
+
+亚马逊，跨科学云数据平台，包含化学、生物、经济等多个领域的数据集。</br>
+地址：http://aws.amazon.com/cn/datasets/?nc1=h_ls
+
+数据堂，专注于互联网综合数据交易，提供数据交易、处理和数据API服务，包含语音识别、医疗健康、交通地理、电子商务、社交网络、图像识别等方面的数据。</br>
+地址：http://www.datatang.com/
+
+艾瑞咨询。</br>
+地址：http://www.iresearch.com.cn/
+
 开放的中文知识图谱。</br>
 地址：http://openkg.cn
 
