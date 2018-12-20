@@ -8,6 +8,13 @@ Tensorflow：是 google 的一个开源系统，基于数据流编程（dataflow
 AdaNet： Google 对基于 TensorFlow 的轻量级框架的开源架构，这一框架只需要少量的专家干预便能自动学习高质量模型。AdaNet 在 Google 最近的强化学习和基于进化的 AutoML 成果的基础上构建，在提供学习保证的同时也能保持快速、灵活。重点是，AdaNet 提供了一种通用框架，不仅能够学习神经网络架构，还能学习集成从而获得更佳的模型。</br>
 地址：https://github.com/tensorflow/adanet
 
+MMdnn：可在Caffe，Keras，MXNet，Tensorflow，CNTK和PyTorch等框架之间实现模型的转换。</br>
+地址：https://github.com/Microsoft/MMdnn
+
+
+caffe-tensorflow：将Caffe模型转换到TensorFlow的工具。</br>
+地址：https://github.com/ethereon/caffe-tensorflow
+
 
 ### 多个包含主流Deep Learning框架的比较：</br>
 ![](https://github.com/jamess010/AIOpen/blob/master/pic/model-docker.png)
