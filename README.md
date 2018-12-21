@@ -33,7 +33,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
   - 来自企业的非公开数据，属于数据孤岛。
   - 使用区块链技术的自下而上的数据，如个人病例数据，个人基因数据，小企业数据，如果这方面技术成熟，DataBC（data block chain：数据区块链）将是未来发展的方向。更多内容请访问：[区块链技术](http://www.ContentBC.com)
 
-- #### 算法（algorithm）：包括了深度学习方法（DNN、CNN、RNN、LSTM、GAN等）、工具（TensorFlow、Theano、Keras、Caffe、Touch等）、模型（VGG、RestNet等）；
+- #### 算法（algorithm）：包括了深度学习方法（DNN、CNN、RNN、LSTM、GAN、联邦学习、迁移学习、强化学习等）、训练框架（TensorFlow、Theano、Keras、Caffe、Touch等）、模型（VGG、RestNet等）；
 
 - #### 算力（computing power）：包括了基础设施（GPU、FPGA）、容器技术（Dockker、Kubernetes）、Openstack等；
 
@@ -117,7 +117,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 
 - #### power：算力：GPU、TPU、OpenStack、K8S、docker等。
 
-- #### applications：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理等。
+- #### applications：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱等。
 
 - #### others：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 ---
