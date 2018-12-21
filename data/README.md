@@ -17,7 +17,7 @@
 
 ### 其它资源列表
 
-github数据集列表。</br>
+公共数据集列表。</br>
 地址：https://github.com/caesar0301/awesome-public-datasets
 
 万得数据，被誉为中国的Bloomberg，在金融业有着全面的数据覆盖，更新非常快。</br>
