@@ -2,7 +2,7 @@
 
 ### DNN：Deep Neural Networks，深度神经网络。
 
-### FL：Federal Learning。
+### FL：Federal Learning，联邦学习。
 
 ### LSTM：Long Short-Term Memory，长短期记忆网络。
 
