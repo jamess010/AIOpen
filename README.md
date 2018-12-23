@@ -162,6 +162,7 @@ DPU：Deep learning Processing Unit, 深度学习处理器。</br>
 
 EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、hadoop、spark集成分布式计算。</br>
 ElasticSearch：是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。</br>
+EEG：Event Evolutionary Graph，事理图谱，是一个事理逻辑知识库，描述事件之间的演化规律和模式。</br>
 
 ### F
 
