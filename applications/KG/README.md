@@ -9,6 +9,9 @@
 知识图谱构建。</br>
 地址：https://blog.csdn.net/Leohfan/article/details/82630573
 
+实战构建知识图谱。</br>
+https://blog.csdn.net/omnispace/article/details/80267160
+
 六篇知识图谱好文。</br>
 https://blog.csdn.net/omnispace/article/details/80267111
 
