@@ -199,6 +199,7 @@ IPNS：InterPlanetary Named System，是一个分布式的命名系统，将难�
 Kafka：A Distributed Streaming Platform，是一种高吞吐量的分布式发布-订阅消息系统</br>
 K8S：Kubernetes</br>
 Keras：是一款基于Tensorflow、Theano、CNTK为后端的深度学习高级框架</br>
+Kettle：是一个ETL工具集，它允许你管理来自不同数据库的数据，通过提供一个图形化的用户环境来描述你想做什么，而不是你想怎么做。作为Pentaho的一个重要组成部分，现在在国内项目应用上逐渐增多。其数据抽取高效稳定。</br>
 KG：Knowledge Graph，知识图谱，旨在描述客观世界的概念、实体、事件及其之间的关系。</br>
 Kubernetes：容器集群</br>
 
@@ -249,6 +250,7 @@ Scala：是一门多范式的编程语言，设计初衷是实现可伸缩的语
 Slim：Tensorflow的一个辅助工具</br>
 Spark：基于内存的分布式计算引擎</br>
 Solr：一个高性能，基于Lucene的全文检索服务器。Solr对Lucene进行了扩展，提供了比Lucene更为丰富的查询语言，同时实现了可配置、可扩展，并对查询性能进行了优化，并且提供了一个完善的功能管理界面，是一款非常优秀的全文检索引擎。</br>
+Sqoop：是一个用于在Hadoop和关系数据库服务器之间传输数据的工具。它用于从关系数据库（如MySQL，Oracle）导入数据到Hadoop HDFS，并从Hadoop文件系统导出到关系数据库,学习使用Sqoop对关系型数据库数据和Hadoop之间的导入有很大的帮助。</br>
 Storm：基于流的分布式计算引擎</br>
 
 ### T
