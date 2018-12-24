@@ -117,7 +117,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 
 - #### power：算力：GPU、TPU、OpenStack、K8S、docker等。
 
-- #### applications：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱等。
+- #### applications：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
 
 - #### others：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 ---
