@@ -59,7 +59,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ## 数据
 
 * 下图是大数据平台常见开源工具：</br>
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bdtools.pnp" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bdtools.png" /></div>
 
 * [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)</br>
 BDCloud是使用Docker实现的Hadoop集群技术，目的是实现对终端设备的监控信息进行采集、处理、存储、分析。其流程是终端采集信息->django处理信息->Kafka->Flume->HDFS->Spark分析信息。
