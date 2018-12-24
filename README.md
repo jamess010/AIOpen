@@ -30,7 +30,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 - #### 数据（data）：包括了数据集、数据获取（数据爬虫、数据区块链等）、数据存储、数据集群等；数据按来源可以分为三种：
   - 来自政府、大公司（google、BAT等）自上而下的公共数据集，如：MNIST，ImageNet，Kaggle等。
-  - 来自企业的非公开数据，属于数据孤岛。
+  - 来自企业的非公开数据，属于数据孤岛。[联邦学习](https://github.com/jamess010/AIOpen/tree/master/algorithm/networks/FL)可以使企业间数据不出库地训练模型，解决数据共享问题。
   - 使用区块链技术的自下而上的数据，如个人病例数据，个人基因数据，小企业数据，如果这方面技术成熟，DataBC（data block chain：数据区块链）将是未来发展的方向。更多内容请访问：[区块链技术](http://www.ContentBC.com)
 
 - #### 算法（algorithm）：包括了深度学习方法（DNN、CNN、RNN、LSTM、GAN、联邦学习、迁移学习、强化学习等）、训练框架（TensorFlow、Theano、Keras、Caffe、Touch等）、模型（VGG、RestNet等）；
@@ -188,6 +188,7 @@ HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 HDFS：Hadoop分布式文件系统（Hadoop Distributed File System），提供高吞吐量的数据访问，适合大规模数据集方面的应用。</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
 HMM：隐马尔可夫模型</br>
+Homomorphic Encryption：同态加密，是基于数学难题的计算复杂性理论的密码学技术。</br>
 Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展示多种组件，目前支持HDFS、YARN、Hive和Solr。</br>
 
 ### I
