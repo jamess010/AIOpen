@@ -2,11 +2,11 @@
 
 ### 本分支主要汇总AI开源应用项目。
 
-[EEG：事理图谱。](https://github.com/jamess010/AIOpen/edit/master/applications/EGG)
+[EEG](https://github.com/jamess010/AIOpen/edit/master/applications/EGG)：事理图谱。
 
-[KG：知识图谱。](https://github.com/jamess010/AIOpen/edit/master/applications/KG)
+[KG](https://github.com/jamess010/AIOpen/edit/master/applications/KG)：知识图谱。
 
-[NLP：自然语言处理。](https://github.com/jamess010/AIOpen/edit/master/applications/NLP)
+[NLP](https://github.com/jamess010/AIOpen/edit/master/applications/NLP)：自然语言处理。
 
 ---
 
