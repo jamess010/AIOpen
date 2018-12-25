@@ -1,4 +1,4 @@
-# applications
+# applications（人工智能应用）
 
 ### 本分支主要汇总AI开源应用项目。
 
