@@ -5,15 +5,15 @@
 
 ### 目录说明：
 
-* dataset：数据集列表。
+* [dataset](https://github.com/jamess010/AIOpen/edit/master/data/dataset)：数据集列表。
 
-* bdcloud: 一个用于收集终端数据的大数据云平台实例
+* [bdcloud](https://github.com/jamess010/AIOpen/edit/master/data/bdcloud): 一个用于收集终端数据的大数据云平台实例
 
-* CDH：Cloudera’s Distribution Including Apache Hadoop，Cloudera发行版
+* [CDH](https://github.com/jamess010/AIOpen/edit/master/data/CDH)：Cloudera’s Distribution Including Apache Hadoop，Cloudera发行版
 
-* HDP：Hortonworks Data Platform，Hortonworks发行版
+* [HDP](https://github.com/jamess010/AIOpen/edit/master/data/HDP)：Hortonworks Data Platform，Hortonworks发行版
 
-* blockchain：基于区块链的数据共享平台。
+* [blockchain](https://github.com/jamess010/AIOpen/edit/master/data/blockchain)：基于区块链的数据共享平台。
 
 ### 其它资源列表
 
