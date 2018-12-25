@@ -10,8 +10,7 @@
 地址：https://blog.csdn.net/Leohfan/article/details/82630573
 
 实战构建知识图谱。</br>
-https://blog.csdn.net/omnispace/article/details/80267160
-
+https://blog.csdn.net/omnispace/article/details/80267160</br>
 https://mp.weixin.qq.com/s/cL1aKdu8ig8-ocOPirXk2w
 
 六篇知识图谱好文。</br>
