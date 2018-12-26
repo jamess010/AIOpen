@@ -56,7 +56,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 # 典型案例分享
 
-## 数据
+## 1）数据
 
 下图是大数据平台常见开源工具：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bdtools.png" /></div>
@@ -74,7 +74,7 @@ HDP是Hortonworks公司的发行版，它使用了100%开源Apache Hadoop（不�
 下图是CDH和HDP的特性比较：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/cdh-hdp.png" /></div>
 
-## 算法
+## 2）算法
 
 * [EcoSystem](https://github.com/tensorflow/ecosystem)</br>
 EcoSystem是Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、hadoop、spark集成分布式计算。
@@ -86,7 +86,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 一般的Spark部署模式是Spark的standalone运行模式。在Spark的生产环境中，主要部署在Hadoop集群中，是以Spark On YARN模式运行，依靠yarn来调度Spark，比默认的Spark运行模式性能要好的多。 Spark on Yarn分为client和cluster两种模式。
 
 
-## 算力
+## 3）算力
 
 * 算力中心：
   * 硬件：
@@ -112,7 +112,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
     * tensorflow（1.3.0）
     * keras（2.1.4）
 
-## 应用
+## 4）应用
 * 知识图谱
 下图是知识图谱技术总览（包括AI技术）：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/kg-all.png" /></div>
