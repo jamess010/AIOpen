@@ -1,4 +1,7 @@
-# 一些未分类的资源
+# 其它资源
+
+HElib：同态加密库。</br>
+地址：https://github.com/shaih/HElib
 
 2018年机器阅读理解技术竞赛模型，国内外1000多支队伍中BLEU-4评分排名第6， ROUGE-L评分排名第14。</br>
 地址：https://github.com/freefuiiismyname/G-Reader/stargazers
