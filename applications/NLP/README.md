@@ -33,3 +33,6 @@ NLTK：是提到的最广泛的NLP库。</br>
 
 polyglot：用于 NLP 的 Python 包。它不是很流行，但也可以用于大量 NLP 任务。</br>
 地址：https://github.com/aboSamoor/polyglot
+
+自然语言处理理论与实战。</br>
+地址：https://github.com/bainingchao/NLP-ML
