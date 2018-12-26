@@ -58,7 +58,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 ## 数据
 
-* 下图是大数据平台常见开源工具：</br>
+下图是大数据平台常见开源工具：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bdtools.png" /></div>
 
 * [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)</br>
@@ -112,6 +112,10 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
     * tensorflow（1.3.0）
     * keras（2.1.4）
 
+## 应用
+* 知识图谱
+下图是知识图谱技术总览（包括AI技术）：</br>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/kg-all.png" /></div>
 ---
 # 目录说明
 - #### data：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
