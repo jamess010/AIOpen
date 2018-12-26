@@ -113,7 +113,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
     * keras（2.1.4）
 
 ## 4）应用
-* 知识图谱
+* 知识图谱</br>
 下图是知识图谱技术总览（包括AI技术）：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/kg-all.png" /></div>
 
