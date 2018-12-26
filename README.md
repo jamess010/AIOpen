@@ -43,7 +43,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 
 #### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
 
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all.png" width="600" height="520" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_all_1.png" width="600" height="520" /></div>
 
 </br>
 
@@ -59,7 +59,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ## 1）数据
 
 下图是大数据平台常见开源工具：</br>
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bdtools.png" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/bdtools.png" width="600" height="520"/></div>
 
 * [BDCloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)</br>
 BDCloud是使用Docker实现的Hadoop集群技术，目的是实现对终端设备的监控信息进行采集、处理、存储、分析。其流程是终端采集信息->django处理信息->Kafka->Flume->HDFS->Spark分析信息。
@@ -115,7 +115,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 ## 4）应用
 * 知识图谱</br>
 下图是知识图谱技术总览（包括AI技术）：</br>
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/kg-all.png" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/kg-all.png" width="600" height="520"/></div>
 
 ---
 # 目录说明
