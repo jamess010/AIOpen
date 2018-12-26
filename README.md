@@ -191,9 +191,9 @@ Hadoop：是一个山寨google的分布式文件系统</br>
 Hazelcast：是一个高度可扩展的数据分发和集群的开源平台，提供了高效的、可扩展的分布式数据存储、数据缓存。 在分布式技术方面，Hazelcast提供了十分友好的接口供开发者选择，如Map，Queue，ExecutorService, Lock和Jcache。</br>
 HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 HDFS：Hadoop分布式文件系统（Hadoop Distributed File System），提供高吞吐量的数据访问，适合大规模数据集方面的应用。</br>
+HE：Homomorphic Encryption（同态加密），是一种加密形式，它允许对密文进行特定的代数运算得到仍然是加密的结果，将其解密所得到的结果与对明文进行同样的运算结果一样。</br>
 Hive：基于Hadoop的一个数据仓库工具</br>
 HMM：隐马尔可夫模型</br>
-Homomorphic Encryption：同态加密，是基于数学难题的计算复杂性理论的密码学技术。</br>
 Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展示多种组件，目前支持HDFS、YARN、Hive和Solr。</br>
 
 ### I
