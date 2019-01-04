@@ -1,0 +1,14 @@
+version: '3'
+services:
+  python3:
+    build: .
+    image: python3/deepo-crawl
+    restart: unless-stopped
+    ports:
+     - "8802:8888"
+     - "8022:22"
+#    volumes:
+#     - /Users/tjian/etc_localtime:/etc/localtime
+#     - ./src:/home/src
+#    command: jupyter notebook --allow-root
+    command: /run.sh
