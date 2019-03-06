@@ -282,6 +282,8 @@ zookeeper：提供分布式、高可用性的协调服务能力。 帮助系统�
 
 #### 人工智能
 
+[使用 Pycharm + Docker，打造深度学习的炼丹炉](https://github.com/jamess010/AIOpen/blob/master/algorithm/frameworks/deepo/pycharm_docker.pdf)
+
 [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
 [Guide to Open Source AI: Projects, Insights, and Trends](https://pan.baidu.com/s/19vu8pzbop9C9ORjkismE5A)
