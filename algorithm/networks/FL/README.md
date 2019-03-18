@@ -2,6 +2,9 @@
 
 ### 相关资源
 ---
+
+https://github.com/WeBankFinTech/FATE
+
 https://github.com/roxanneluo/Federated-Learning
 
 https://github.com/gingsmith/fmtl
