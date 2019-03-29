@@ -17,6 +17,9 @@
 
 ### 其它资源列表
 
+深度学习开发数据集。</br>
+地址：https://deeplearning4j.org/cn/opendata
+
 公共数据集列表。</br>
 地址：https://github.com/caesar0301/awesome-public-datasets
 
