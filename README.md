@@ -52,7 +52,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 # 深度学习流程
 
 #### 下图是深度学习工作流程：</br>
-<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl_1.png" /></div>
+<div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl_2.png" /></div>
 
 # 典型案例分享
 
