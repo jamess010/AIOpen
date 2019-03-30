@@ -21,6 +21,9 @@ ApolloAuto，是百度的开源自动驾驶平台。</br>
 ---
 #### 人脸识别
 
+Face Recognition：是一个强大、简单、易上手的人脸识别开源项目。</br>
+地址：https://github.com/ageitgey/face_recognition
+
 Keras 实现基于MSCNN的人群计数。</br>
 地址：https://github.com/xiaochus/MSCNN
 
