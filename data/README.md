@@ -17,6 +17,9 @@
 
 ### 其它资源列表
 
+Google 开放数据集。</br>
+地址：https://github.com/tensorflow/datasets
+
 Google 30万超难自然问题问答数据集。</br>
 地址：https://github.com/google-research-datasets/natural-questions
 
