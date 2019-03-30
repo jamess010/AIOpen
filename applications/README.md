@@ -21,6 +21,9 @@ ApolloAuto，是百度的开源自动驾驶平台。</br>
 ---
 #### 人脸识别
 
+Keras 实现基于MSCNN的人群计数。</br>
+地址：https://github.com/xiaochus/MSCNN
+
 Rekognition：亚马逊的API产品。</br>
 地址：https://aws.amazon.com/cn/rekognition/?nc2=h_mo
 
