@@ -13,6 +13,18 @@
 ### 其它资源列表
 
 ---
+
+#### 音频处理
+
+英伟达的 WaveGlow：是一个基于流的网络，能够生成高质量的音频。本质上，它是一个面向语音合成的单网络。这个开源项目包括 WaveGlow 的 PyTorch 实现。</br>
+地址：https://github.com/NVIDIA/waveglow
+
+使用深度学习开始进行音频数据分析（附案例研究）。</br>
+地址：https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+
+10 个音频处理任务让你开始深度学习应用（附案例研究）。 </br>
+地址：https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/
+
 #### 无人驾驶
 
 ApolloAuto，是百度的开源自动驾驶平台。</br>
