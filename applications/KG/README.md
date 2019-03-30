@@ -32,3 +32,5 @@ https://blog.csdn.net/omnispace/article/details/80267111
 NLP、知识图谱的相关资源。</br>
 https://blog.csdn.net/guleileo/article/details/81140179
 
+Python3 异步爬虫代理池。</br>
+https://github.com/chenjiandongx/async-proxy-pool
