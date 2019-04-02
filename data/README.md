@@ -23,7 +23,7 @@ UrbanSound8K：城市声音数据集（Urban Sound），声音包括：冷气机
 UrbanSound：更多的城市声音数据集（Urban Sound）。</br>
 地址：https://pan.baidu.com/s/1ccouza4xTc_EhLA_DszP7g
 
-DataSet 很全的数据集列表：</br>
+DataSet List：很全的数据集列表：</br>
 地址：https://www.datasetlist.com
 
 Google 开放数据集。</br>
