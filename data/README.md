@@ -17,6 +17,15 @@
 
 ### 其它资源列表
 
+UrbanSound8K：城市声音数据集，声音包括：冷气机，汽车喇叭，儿童玩耍，狗吠声，钻孔，发动机空转，枪射击，手持式凿岩机，警笛，街头音乐。</br>
+地址：https://pan.baidu.com/s/1X8L70ZBuDsifthnGW7MBJw
+
+UrbanSound：更多的城市声音数据集。</br>
+地址：https://pan.baidu.com/s/1ccouza4xTc_EhLA_DszP7g
+
+DataSet 列表：</br>
+地址：https://www.datasetlist.com
+
 Google 开放数据集。</br>
 地址：https://github.com/tensorflow/datasets
 
