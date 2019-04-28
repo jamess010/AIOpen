@@ -280,6 +280,8 @@ zookeeper：提供分布式、高可用性的协调服务能力。 帮助系统�
 ---
 # 参考资料
 
+[优秀资源参考](https://github.com/bayandin/awesome-awesomeness)
+
 #### 人工智能
 
 [Building Deep Learning Applications for Big Data](https://pan.baidu.com/s/1nJk8iBFNfZR9VLt3BC12wA)
