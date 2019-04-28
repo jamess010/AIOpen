@@ -16,7 +16,8 @@
 
 #### 音频处理及语音识别
 
-[优秀语音处理资源](https://github.com/mxer/awesome-speech)
+awesome speech：优秀的语音处理资源。</br>
+地址： https://github.com/mxer/awesome-speech
 
 Open Assistant：提供Siri、Cortana和Google Now之外的一种开源选择。目的是创建一种能够进行交谈的完全可定制的AI。</br>
 地址：http://openassistant.org
