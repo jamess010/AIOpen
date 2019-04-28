@@ -15,7 +15,7 @@
 
 * [blockchain](https://github.com/jamess010/AIOpen/edit/master/data/blockchain)：基于区块链的数据共享平台。
 
-### 其它资源列表
+### 其它数据集列表
 
 UrbanSound8K：城市声音数据集（Urban Sound），声音包括：冷气机，汽车喇叭，儿童玩耍，狗吠声，钻孔，发动机空转，枪射击，手持式凿岩机，警笛，街头音乐。</br>
 地址：https://pan.baidu.com/s/1X8L70ZBuDsifthnGW7MBJw
@@ -81,3 +81,9 @@ Fashion-MNIST：是一个替代MNIST手写数字集的图像数据集。 它是�
 
 Accelerator：eBay 开源数据处理框架，该框架可以用于处理像事物日志、事件日志和数据库转储这样的日志文件。</br>
 地址：https://github.com/eBay/accelerator
+
+### 大数据
+
+awesome big data：大数据资源。</br>
+地址：https://github.com/onurakpolat/awesome-bigdata
+
