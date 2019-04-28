@@ -17,6 +17,9 @@
 
 ### 其它数据集列表
 
+Awesome public datasets：公共数据集。</br>
+地址：https://github.com/awesomedata/awesome-public-datasets
+
 UrbanSound8K：城市声音数据集（Urban Sound），声音包括：冷气机，汽车喇叭，儿童玩耍，狗吠声，钻孔，发动机空转，枪射击，手持式凿岩机，警笛，街头音乐。</br>
 地址：https://pan.baidu.com/s/1X8L70ZBuDsifthnGW7MBJw
 
