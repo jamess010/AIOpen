@@ -4,6 +4,9 @@
 知识图谱资料。</br>
 地址：https://github.com/husthuke/awesome-knowledge-graph
 
+一个毕业设计的知识图谱。</br>
+地址：https://github.com/SangYuhiter/Knowledge-Map-and-Question-Answer
+
 Protege：是斯坦福大学医学院生物信息研究中心基于Java语言开发的本体编辑和知识获取软件，它提供了本体概念类，关系，属性和实例的构建，并且屏蔽了具体的本体描述语言，用户只需在概念层次上进行领域本体模型的构建。</br> 
 地址：https://github.com/protegeproject/protege
 
