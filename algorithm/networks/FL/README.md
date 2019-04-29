@@ -3,6 +3,8 @@
 ### 相关资源
 ---
 
+[联邦学习资源之一](https://github.com/timmers/awesome-federated-learning)
+
 https://github.com/WeBankFinTech/FATE
 
 https://github.com/roxanneluo/Federated-Learning
