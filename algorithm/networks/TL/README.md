@@ -2,6 +2,9 @@
 
 ### 资源列表
 ---
+
+[极好的迁移学习资源](https://github.com/artix41/awesome-transfer-learning)
+
 迁移学习资料。</br>
 地址：https://blog.csdn.net/qq_27009517/article/details/84975337
 
