@@ -134,18 +134,18 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 
 ### A
 
-AGI：Artificial General Intelligence，通用人工智能。</br>
+[AGI](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence)：Artificial General Intelligence，通用人工智能。</br>
 AI：Artificial Intelligence，人工智能。</br>
 Algorithm：人工智能算法,目前最主流的是深度学习。</br>
 Ambari：Apache Ambari是一个基于Web的工具，支持HDFS、MapReduce、Hive、Pig、Hbase、Zookeepr、Sqoop和Hcatalog等的集中管理。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
 APU：Accelerated Processing Unit，加速处理器，是把CPU和GPU做到一块硅芯上。</br>
-Awesome：在Github上寻找好资源的关键字。比如：awesome deep learning, awesome blockchain等。
+[Awesome](https://github.com/topics/awesome)：在Github上寻找好资源的关键字。比如：awesome deep learning, awesome blockchain等。
 Auto Encoder：自动编码器，一种无监督学习方法</br>
 
 ### B
 
-BC：Block Chain，区块链，是一种在多方无需互信的环境下，通过密码学技术让系统所有参与方协作，共同记录和维护一个可靠的、不可撤销的分布式数据块链的技术。</br>
+[BC](https://github.com/chaozh/awesome-blockchain-cn)：Block Chain，区块链，是一种在多方无需互信的环境下，通过密码学技术让系统所有参与方协作，共同记录和维护一个可靠的、不可撤销的分布式数据块链的技术。</br>
 BDCloud：大数据云平台。https://github.com/bdcloud </br>
 BPU：Brain Processing Unit, 大脑处理器。</br>
 BOTs：虚拟（聊天）机器人，是一种通过自然语言来模拟人类对话的程序。</br>
@@ -161,16 +161,16 @@ CNTK：Computational Network Toolkit，微软开发的深度学习商业工具�
 ### D
 
 DBN：Deep Belief Networks，深度置信网络</br>
-DL：Deep Learnging，深度学习</br>
+[DL](https://github.com/ChristosChristofidis/awesome-deep-learning)：Deep Learnging，深度学习</br>
 DNN：Deep Neural Networks，深度神经网络</br>
-Docker：容器</br>
+[Docker](https://github.com/veggiemonk/awesome-docker)：容器</br>
 DPU：Deep learning Processing Unit, 深度学习处理器。</br>
 
 ### E
 
-EcoSystem：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、hadoop、spark集成分布式计算。</br>
+EcoSystem(tensorflow)：Tensorflow的生态系统，通过ecosystem可以方便地使tensorflow与docker、hadoop、spark集成分布式计算。</br>
 ElasticSearch：是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。</br>
-EEG：Event Evolutionary Graph，事理图谱，是一个事理逻辑知识库，描述事件之间的演化规律和模式。</br>
+[EEG](https://github.com/PandaQQ/awesome-neuroscience-analysis-eeg)：Event Evolutionary Graph，事理图谱，是一个事理逻辑知识库，描述事件之间的演化规律和模式。</br>
 
 ### F
 
@@ -180,14 +180,14 @@ FPGA：Field-Programmable Gate Array，现场可编程门阵列</br>
 
 ### G
 
-GAN：Generative Adversarial Networks，生成式对抗网络，一种最具前景的无监督学习方法</br>
+[GAN](https://github.com/nightrome/really-awesome-gan)：Generative Adversarial Networks，生成式对抗网络，一种最具前景的无监督学习方法</br>
 GDPR：General Data Protection Regulation，通用数据保护条例。</br>
 GMM：混合高斯模型</br>
-GPU：Graphics Processing Unit，图形处理器</br>
+[GPU](https://github.com/Erkaman/Awesome-CUDA)：Graphics Processing Unit，图形处理器</br>
 
 ### H
 
-Hadoop：是一个山寨google的分布式文件系统</br>
+[Hadoop](https://github.com/youngwookim/awesome-hadoop)：是一个山寨google的分布式文件系统</br>
 Hazelcast：是一个高度可扩展的数据分发和集群的开源平台，提供了高效的、可扩展的分布式数据存储、数据缓存。 在分布式技术方面，Hazelcast提供了十分友好的接口供开发者选择，如Map，Queue，ExecutorService, Lock和Jcache。</br>
 HBase：建立在Hadoop文件系统之上的分布式面向列的数据库</br>
 HDFS：Hadoop分布式文件系统（Hadoop Distributed File System），提供高吞吐量的数据访问，适合大规模数据集方面的应用。</br>
@@ -199,18 +199,18 @@ Hue：提供了Fusion Insight HD应用的图形化用户Web界面。Hue支持展
 ### I
 
 Impala：是基于HDFS的SQL工具，cloudera开发，现开源。</br>
-IPFS：InterPlanetary File System，星际文件系统，是永久的、去中心化保存和共享文件的方法，这是一种内容可寻址、版本化、点对点超媒体的分布式协议。</br>
+[IPFS](https://github.com/ipfs/awesome-ipfs)：InterPlanetary File System，星际文件系统，是永久的、去中心化保存和共享文件的方法，这是一种内容可寻址、版本化、点对点超媒体的分布式协议。</br>
 IPNS：InterPlanetary Named System，是一个分布式的命名系统，将难于记忆的数据哈希值映射为易于记忆的字符串。这可以类比于域名与IP地址的映射关系。</br>
 
 
 ### K
 
 Kafka：A Distributed Streaming Platform，是一种高吞吐量的分布式发布-订阅消息系统</br>
-K8S：Kubernetes</br>
+[K8S](https://github.com/ramitsurana/awesome-kubernetes)：Kubernetes</br>
 Keras：是一款基于Tensorflow、Theano、CNTK为后端的深度学习高级框架</br>
 Kettle：是一个ETL工具集，它允许你管理来自不同数据库的数据，通过提供一个图形化的用户环境来描述你想做什么，而不是你想怎么做。作为Pentaho的一个重要组成部分，现在在国内项目应用上逐渐增多。其数据抽取高效稳定。</br>
 KG：Knowledge Graph，知识图谱，旨在描述客观世界的概念、实体、事件及其之间的关系。</br>
-Kubernetes：容器集群</br>
+[Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)：容器集群</br>
 
 ### L
 
@@ -229,7 +229,7 @@ MXNet：是亚马逊（Amazon）的深度学习库。</br>
 
 ### N
 
-NLP： Natural Language Processing，自然语言处理，是人工智能(AI)的一个子领域。</br>
+[NLP](https://github.com/keon/awesome-nlp)： Natural Language Processing，自然语言处理，是人工智能(AI)的一个子领域。</br>
 NPU：Neural network Processing Unit，神经网络处理器。</br>
 Numpy：基于Python的基础数据工具</br>
 
