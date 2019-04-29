@@ -11,3 +11,5 @@
 [TL](https://github.com/jamess010/AIOpen/edit/master/algorithm/networks/TL)：Transfer Learning，迁移学习。
 
 [GAN](https://github.com/jamess010/AIOpen/edit/master/algorithm/networks/GAN)：Generative Adversarial Networks，生成式对抗网络。
+
+[CNN 资源](https://github.com/ddlee-cn/awesome_cnn)
