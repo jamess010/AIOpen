@@ -241,22 +241,22 @@ Oozie：提供了对开源Hadoop组件的任务编排、执行的功能。以Jav
 ### P
 
 PCA：Principal Component Analysis，主成分分析</br>
-Pandas：Python Data Analysis Library，一个基于Python的数据处理工具</br>
-PySpark：一种基于Python的Spark编程接口</br>
-Python：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
-PyTorch：一个基于Python的深度学习框架</br>
+[Pandas](https://github.com/tommyod/awesome-pandas)：Python Data Analysis Library，一个基于Python的数据处理工具</br>
+[PySpark](https://github.com/awesome-spark/awesome-spark)：一种基于Python的Spark编程接口</br>
+[Python](https://github.com/vinta/awesome-python)：一种解释型、面向对象、动态数据类型的高级程序设计语言</br>
+[PyTorch](https://github.com/bharathgs/Awesome-pytorch-list)：一个基于Python的深度学习框架</br>
 
 ### R
 
 RBM：Restricted Boltzmann Machines，受限玻尔兹曼机</br>
-RL: Reinforcement Learning，强化学习</br>
-RNN：Recurrent Neural Networks，循环神经网络</br>
+[RL](https://github.com/aikorea/awesome-rl): Reinforcement Learning，强化学习</br>
+[RNN](https://github.com/kjw0612/awesome-rnn)：Recurrent Neural Networks，循环神经网络</br>
 ROS：Robot Operating System，是一个机器人软件平台</br>
 
 ### S
 
 Scala：是一门多范式的编程语言，设计初衷是实现可伸缩的语言、并集成面向对象编程和函数式编程的各种特性。</br>
-Slim：Tensorflow的一个辅助工具</br>
+[Slim](https://github.com/xssc/awesome-slim)：Tensorflow的一个辅助工具</br>
 Spark：基于内存的分布式计算引擎</br>
 Solr：一个高性能，基于Lucene的全文检索服务器。Solr对Lucene进行了扩展，提供了比Lucene更为丰富的查询语言，同时实现了可配置、可扩展，并对查询性能进行了优化，并且提供了一个完善的功能管理界面，是一款非常优秀的全文检索引擎。</br>
 Sqoop：是一个用于在Hadoop和关系数据库服务器之间传输数据的工具。它用于从关系数据库（如MySQL，Oracle）导入数据到Hadoop HDFS，并从Hadoop文件系统导出到关系数据库,学习使用Sqoop对关系型数据库数据和Hadoop之间的导入有很大的帮助。</br>
@@ -264,9 +264,10 @@ Storm：基于流的分布式计算引擎</br>
 
 ### T
 
-TF-Slim：Tensorflow的一个辅助工具</br>
+[TF-Slim](https://github.com/xssc/awesome-slim)：Tensorflow的一个辅助工具</br>
 Theano：用于深度学习的框架，基于Python</br>
-Tensorflow：Google的一款用于深度学习的框架，基于Python</br>
+[Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+：Google的一款用于深度学习的框架，基于Python</br>
 TPU：Tensor Processing Unit，向量处理器，是google的一款高性能处理器</br>
 
 ### Y
