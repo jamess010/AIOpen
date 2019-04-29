@@ -12,4 +12,4 @@
 
 [GAN](https://github.com/jamess010/AIOpen/edit/master/algorithm/networks/GAN)：Generative Adversarial Networks，生成式对抗网络。
 
-[CNN 资源](https://github.com/ddlee-cn/awesome_cnn)
+[CNN: Convolutional Neural Network，卷积神经网络 资源](https://github.com/ddlee-cn/awesome_cnn)
