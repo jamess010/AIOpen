@@ -60,6 +60,8 @@ ApolloAuto，是百度的开源自动驾驶平台。</br>
 ---
 #### 人脸识别
 
+[人脸识别资源](https://github.com/L706077/DNN-Face-Recognition-Papers)
+
 Face Recognition：是一个强大、简单、易上手的人脸识别开源项目。</br>
 地址：https://github.com/ageitgey/face_recognition
 
