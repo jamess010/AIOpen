@@ -6,6 +6,8 @@
 1.[音频数据扩展方法:SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf) [[SpecAugment实现方法之一](https://github.com/shelling203/SpecAugment)]
  [[SpecAugment实现方法之二](https://github.com/zcaceres/spec_augment)]
 
+2.[Kapre]()
+
 ### 相关资源
 ---
 
@@ -14,6 +16,9 @@ awesome speech：优秀的语音处理资源。</br>
 
 awesome audio:语音资源。</br>
 地址：https://github.com/faroit/awesome-python-scientific-audio
+
+kapre：keras处理audio。</br>
+地址：https://github.com/keunwoochoi/kapre
 
 Open Assistant：提供Siri、Cortana和Google Now之外的一种开源选择。目的是创建一种能够进行交谈的完全可定制的AI。</br>
 地址：http://openassistant.org
