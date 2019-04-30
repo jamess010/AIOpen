@@ -20,6 +20,9 @@ awesome audio:语音资源。</br>
 kapre：keras处理audio。</br>
 地址：https://github.com/keunwoochoi/kapre
 
+kaldi：音频处理工具。</br>
+地址：https://github.com/kaldi-asr/kaldi
+
 Open Assistant：提供Siri、Cortana和Google Now之外的一种开源选择。目的是创建一种能够进行交谈的完全可定制的AI。</br>
 地址：http://openassistant.org
 
