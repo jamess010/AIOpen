@@ -31,6 +31,12 @@ SpaCy：为性能而建的一个工业强度的NLP库。</br>
 NLTK：是提到的最广泛的NLP库。</br>
 地址：https://github.com/nltk/nltk
 
+PyHanLP：是汉语言处理包HanLP的Python接口，支持自动下载与升级 HanLP，兼容 py2 和 py3。HanLP 可提供中文分词、词性标注、命名实体识别、关键词提取、文本推荐、依存句法分析、文本分类、word2vec 和语料库工具等功能。
+地址：http://www.hankcs.com/nlp/hanlp.html
+
+Moonlight Optical Music Recognition：基于TensorFlow的光学乐谱识别工具。
+地址：https://github.com/tensorflow/moonlight
+
 polyglot：用于 NLP 的 Python 包。它不是很流行，但也可以用于大量 NLP 任务。</br>
 地址：https://github.com/aboSamoor/polyglot
 
