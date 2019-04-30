@@ -2,7 +2,7 @@
 
 ### 文章
 
-[音频数据扩展方法：SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf)
+[音频数据扩展方法：SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf)   [实现方法](https://github.com/shelling203/SpecAugment)
 
 ### 相关资源
 
