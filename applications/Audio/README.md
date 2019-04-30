@@ -4,7 +4,9 @@
 
 [音频数据扩展方法:SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf)   
 
-[github实现方法](https://github.com/shelling203/SpecAugment)
+[SpecAugment实现方法之一](https://github.com/shelling203/SpecAugment)
+
+[SpecAugment实现方法之二](https://github.com/zcaceres/spec_augment)
 
 ### 相关资源
 
