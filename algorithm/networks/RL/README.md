@@ -14,3 +14,5 @@ Awesome Reinforcement Learning</br>
 
 强化学习60天 </br>
 地址：https://github.com/jamess010/60_Days_RL_Challenge
+
+[python强化学习实践](https://pan.baidu.com/s/1LtAL9Oy0bQioM__5qCyEeQ)
