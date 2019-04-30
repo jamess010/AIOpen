@@ -49,17 +49,6 @@ InsightFace 是DeepInsight实验室对其论文《ArcFace: Additive Angular Marg
 地址：https://github.com/deepinsight/insightface
 
 ---
-
-#### NLP
-
-PyHanLP：是汉语言处理包HanLP的Python接口，支持自动下载与升级 HanLP，兼容 py2 和 py3。HanLP 可提供中文分词、词性标注、命名实体识别、关键词提取、文本推荐、依存句法分析、文本分类、word2vec 和语料库工具等功能。</br>
-地址：http://www.hankcs.com/nlp/hanlp.html
-
-
-Moonlight Optical Music Recognition：基于TensorFlow的光学乐谱识别工具。</br>
-地址：https://github.com/tensorflow/moonlight
-
----
 #### 硬件相关
 
 Screenshot-to-code-in-Keras：在这个项目中，基于深度学习，人工智能神经网络可以自动把设计稿变成HTML和CSS代码。</br>
@@ -73,7 +62,7 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 
 
 ---
-
+#### 其它
 
 Personae：是基于TensorFlow和PyTorch对深度强化学习、监督学习算法和论文进行实现，并尝试将其应用于金融市场（股市）。该项目已实现的算法包含 DDPG，Policy Gradient 和 DualAttnRNN。</br>
 地址：https://github.com/ceruleanacg/Personae
