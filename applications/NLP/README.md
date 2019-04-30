@@ -4,7 +4,7 @@
 ---
 1.[迁移学习在自然语言处理领域的应用](https://github.com/jamess010/AIOpen/blob/master/applications/NLP/CodeInHand.pdf)
 
-2.[NeuronBlocks](https://github.com/jamess010/AIOpen/blob/master/applications/NLP/1904.09535.pdf)
+2.[NeuronBlocks](https://github.com/jamess010/AIOpen/blob/master/applications/NLP/1904.09535.pdf) [github地址](https://github.com/Microsoft/NeuronBlock)
 
 ### 相关资源
 ---
