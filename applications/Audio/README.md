@@ -23,6 +23,9 @@ kapre：keras处理audio。</br>
 kaldi：音频处理工具。</br>
 地址：https://github.com/kaldi-asr/kaldi
 
+voice-web：web、android、ios声音收集。</br>
+地址：https://github.com/mozilla/voice-web
+
 Open Assistant：提供Siri、Cortana和Google Now之外的一种开源选择。目的是创建一种能够进行交谈的完全可定制的AI。</br>
 地址：http://openassistant.org
 
