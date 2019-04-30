@@ -8,6 +8,8 @@
 
 2.[Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1706.05781.pdf)
 
+3.[Sound Source Localization using Deep Residual Learning](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/Fujipress_JRM-29-1-4.pdf) [[实现方法](https://github.com/jamess010/jrm_ssl)]
+
 ### 相关资源
 ---
 
