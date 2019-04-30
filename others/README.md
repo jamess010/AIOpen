@@ -59,6 +59,8 @@ Node.js区块链开发：https://github.com/imfly/bitcoin-on-nodejs
 
 ### 编程语言
 
+神经网络与深度学习：https://nndl.github.io/
+
 一起学Node.js：https://github.com/nswbmw/N-blog
 
 Go 语言学习资料索引：https://github.com/Unknwon/go-study-index
