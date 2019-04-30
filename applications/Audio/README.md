@@ -1,11 +1,13 @@
 # 音频处理
 
-### 论文
+### 文章
+---
 
-[音频数据扩展方法:SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf) [[SpecAugment实现方法之一](https://github.com/shelling203/SpecAugment)]
+1.[音频数据扩展方法:SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf) [[SpecAugment实现方法之一](https://github.com/shelling203/SpecAugment)]
  [[SpecAugment实现方法之二](https://github.com/zcaceres/spec_augment)]
 
 ### 相关资源
+---
 
 awesome speech：优秀的语音处理资源。</br>
 地址： https://github.com/mxer/awesome-speech
