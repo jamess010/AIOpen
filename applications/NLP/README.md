@@ -1,4 +1,9 @@
 # 自然语言处理（NLP）
+
+### 文章
+---
+1.[迁移学习在自然语言处理领域的应用](https://github.com/jamess010/AIOpen/blob/master/applications/NLP/CodeInHand.pdf)
+
 ### 相关资源
 ---
 BERT：Bidirectional Encoder Representations from Transformers，是谷歌将Transformer（一种流行的注意力模型）的双向训练应用于语言建模。</br>
