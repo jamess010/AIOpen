@@ -64,6 +64,9 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 ---
 #### 其它
 
+计算机视觉论文笔记。</br>
+地址：https://github.com/ahong007007/Awesome_Computer_Vision
+
 Personae：是基于TensorFlow和PyTorch对深度强化学习、监督学习算法和论文进行实现，并尝试将其应用于金融市场（股市）。该项目已实现的算法包含 DDPG，Policy Gradient 和 DualAttnRNN。</br>
 地址：https://github.com/ceruleanacg/Personae
 
