@@ -37,6 +37,8 @@ Sonar：是一个用于调试 iOS 和 Android 移动应用的平台，通过一�
 # 学习资源
 ### 人工智能
 
+神经网络与深度学习：https://nndl.github.io/
+
 fastai：一个 Deep Learning 的公开教程。</br>
 地址：https://github.com/fastai/fastai
 
@@ -58,8 +60,6 @@ Node.js区块链开发：https://github.com/imfly/bitcoin-on-nodejs
 
 
 ### 编程语言
-
-神经网络与深度学习：https://nndl.github.io/
 
 一起学Node.js：https://github.com/nswbmw/N-blog
 
