@@ -11,7 +11,7 @@
 BERT：Bidirectional Encoder Representations from Transformers，是谷歌将Transformer（一种流行的注意力模型）的双向训练应用于语言建模。</br>
 地址：https://github.com/google-research/bert#fine-tuning-with-bert
 
-NeuronBlocks：是一个NLP深度学习建模工具包。</br>
+NeuronBlocks：是微软的一个NLP深度学习建模工具包，可帮助工程师构建用于NLP任务的神经网络模型训练的端到端管道。该工具包的主要目标是将NLP深度神经网络模型构建的开发成本降到最低，包括训练阶段和推理阶段。</br>
 地址：https://github.com/Microsoft/NeuronBlock
 
 Patten：作为 web 挖掘模块提供服务的，因此，它也支持 NLP 任务。</br>
