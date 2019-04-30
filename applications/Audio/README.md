@@ -14,6 +14,8 @@
 
 3.[Sound Source Localization using Deep Residual Learning](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/Fujipress_JRM-29-1-4.pdf) [[实现方法](https://github.com/jamess010/jrm_ssl)]
 
+4.[Dataset for Environmental Sound Classification](https://github.com/karoldvl/ESC-50)
+
 ### 相关资源
 ---
 
