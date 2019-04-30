@@ -20,4 +20,4 @@
 英伟达迁移学习工具包 </br>
 地址：https://developer.nvidia.com/transfer-learning-toolkit
 
-迁移学习：https://zhuanlan.zhihu.com/p/47706063
+如何用 Python 和 fast.ai 做图像深度迁移学习？：https://zhuanlan.zhihu.com/p/47706063
