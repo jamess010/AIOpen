@@ -64,6 +64,9 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 ---
 #### 其它
 
+股票预测模型资源。</br>
+地址：https://github.com/huseinzol05/Stock-Prediction-Models
+
 Gathers how to deploy tensorflow models using nginx, hadoop, kafka, flask, gunicorn, socketio, docker swarm, luigi spotify, airflow, celery and so much more! </br>
 地址：https://github.com/huseinzol05/Gather-Tensorflow-Serving
 
