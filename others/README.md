@@ -18,6 +18,9 @@ python学习简图（numpy、pandas、matplotlib、pyspark，tensorflow，keras�
 Python 资源大全中文版：</br>
 地址：https://github.com/jobbole/awesome-python-cn
 
+Python 100天：从新手到大师。</br>
+地址：https://github.com/jackfrued/Python-100-Days
+
 
 区块链教程：黑马程序员120天全栈区块链开发，开源教程。</br>
 地址：https://github.com/itheima1/BlockChain
