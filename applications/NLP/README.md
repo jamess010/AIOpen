@@ -6,10 +6,13 @@
 
 2.[NeuronBlocks](https://github.com/jamess010/AIOpen/blob/master/applications/NLP/1904.09535.pdf) [github地址](https://github.com/Microsoft/NeuronBlock)
 
-3.[Tensorflow实现的NLP资源](https://github.com/huseinzol05/NLP-Models-Tensorflow)
 
 ### 相关资源
 ---
+
+Tensorflow实现的NLP资源。</br>
+地址：https://github.com/huseinzol05/NLP-Models-Tensorflow
+
 BERT：Bidirectional Encoder Representations from Transformers，是谷歌将Transformer（一种流行的注意力模型）的双向训练应用于语言建模。</br>
 地址：https://github.com/google-research/bert#fine-tuning-with-bert
 
