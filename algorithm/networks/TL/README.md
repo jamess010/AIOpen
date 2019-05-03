@@ -3,11 +3,7 @@
 ### 资源列表
 ---
 
-[迁移学习资源之一](https://github.com/artix41/awesome-transfer-learning)
-
-[迁移学习资源之二](https://github.com/sun254/awesome-transfer-learning)
-
-[迁移学习资源之三](https://github.com/yanqi1811/awesome-transfer-learning)
+迁移学习资源：[资源一](https://github.com/artix41/awesome-transfer-learning)|[资源二](https://github.com/sun254/awesome-transfer-learning)[资源三](https://github.com/yanqi1811/awesome-transfer-learning)
 
 [Awesome BERT & Transfer Learning in NLP](https://github.com/cedrickchee/awesome-bert-nlp)
 
