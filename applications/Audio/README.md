@@ -16,7 +16,7 @@
 
 4.[Dataset for Environmental Sound Classification](https://github.com/karoldvl/ESC-50)
 
-5.[Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals]() | [实现方法](https://github.com/soerenab/AudioMNIST)
+5.[Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1807.03418.pdf) | [实现方法](https://github.com/soerenab/AudioMNIST)
 
 ### 相关资源
 ---
