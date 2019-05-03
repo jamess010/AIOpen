@@ -174,7 +174,7 @@ EcoSystem(tensorflow)：Tensorflow的生态系统，通过ecosystem可以方便�
 
 ### F
 
-Federated Learning：联邦学习，通过该技术算法加密建造的模型，能够在较高程度保持数据完整性的同时，保障数据隐私。</br>
+[Federated Learning](https://github.com/timmers/awesome-federated-learning)：联邦学习，通过该技术算法加密建造的模型，能够在较高程度保持数据完整性的同时，保障数据隐私。</br>
 Flume：一个分布式、可靠和高可用的海量日志聚合系统，支持在系统中定制各类数据发送方，用于收集数据；同时，Flume提供对数据进行简单处理，并写入各种数据接受方（可定制）的能力。</br>
 FPGA：Field-Programmable Gate Array，现场可编程门阵列</br>
 
