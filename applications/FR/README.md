@@ -1,6 +1,6 @@
 # 人脸识别
 
-### 资源列表
+### 相关资源
 ---
 
 人脸识别资源：[资源一](https://github.com/L706077/DNN-Face-Recognition-Papers)
