@@ -27,6 +27,9 @@ awesome speech：优秀的语音处理资源。</br>
 awesome audio:语音资源。</br>
 地址：https://github.com/faroit/awesome-python-scientific-audio
 
+audiomate：Audiomate是一个可以轻松访问音频数据集的库。它提供了以通用方式访问/加载不同数据集的数据结构。这应该可以简化音频数据集的使用，例如用于机器学习任务。</br>
+地址：https://github.com/ynop/audiomate
+
 kapre：keras处理audio。</br>
 地址：https://github.com/keunwoochoi/kapre
 
