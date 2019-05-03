@@ -6,7 +6,7 @@
 
 [EEG](https://github.com/jamess010/AIOpen/edit/master/applications/EGG)：事理图谱。
 
-[FR]((https://github.com/jamess010/AIOpen/edit/master/applications/FR)：人脸识别。
+[FR](https://github.com/jamess010/AIOpen/edit/master/applications/FR)：人脸识别。
 
 [KG](https://github.com/jamess010/AIOpen/edit/master/applications/KG)：知识图谱。
 
