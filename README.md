@@ -140,7 +140,7 @@ Algorithm：人工智能算法,目前最主流的是深度学习。</br>
 Ambari：Apache Ambari是一个基于Web的工具，支持HDFS、MapReduce、Hive、Pig、Hbase、Zookeepr、Sqoop和Hcatalog等的集中管理。</br>
 ANN：Artificial Neural Networks，人工神经网络</br>
 APU：Accelerated Processing Unit，加速处理器，是把CPU和GPU做到一块硅芯上。</br>
-[Awesome](https://github.com/topics/awesome)：在Github上寻找好资源的关键字。比如：awesome deep learning, awesome blockchain等。
+[Awesome](https://github.com/topics/awesome)：在Github上寻找好资源的关键字。比如：awesome deep learning, awesome blockchain等。</br>
 Auto Encoder：自动编码器，一种无监督学习方法</br>
 
 ### B
