@@ -257,6 +257,7 @@ ROS：Robot Operating System，是一个机器人软件平台</br>
 
 Scala：是一门多范式的编程语言，设计初衷是实现可伸缩的语言、并集成面向对象编程和函数式编程的各种特性。</br>
 [Slim](https://github.com/xssc/awesome-slim)：Tensorflow的一个辅助工具</br>
+[SNN](https://github.com/Shikhargupta/Spiking-Neural-Network)：Spiking Neural Networks，尖峰神经网络/脉冲神经网络，是三代神经网络模型，属于计算神经科学，动物的神经网络大多是脉冲神经网络。</br>
 Spark：基于内存的分布式计算引擎</br>
 Solr：一个高性能，基于Lucene的全文检索服务器。Solr对Lucene进行了扩展，提供了比Lucene更为丰富的查询语言，同时实现了可配置、可扩展，并对查询性能进行了优化，并且提供了一个完善的功能管理界面，是一款非常优秀的全文检索引擎。</br>
 Sqoop：是一个用于在Hadoop和关系数据库服务器之间传输数据的工具。它用于从关系数据库（如MySQL，Oracle）导入数据到Hadoop HDFS，并从Hadoop文件系统导出到关系数据库,学习使用Sqoop对关系型数据库数据和Hadoop之间的导入有很大的帮助。</br>
