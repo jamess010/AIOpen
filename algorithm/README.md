@@ -5,11 +5,11 @@
 ---
 ### 本分支主要汇总AI开源算法相关项目，包括模型方法、模型训练架构等。
 
-* [UL]((https://github.com/jamess010/AIOpen/tree/master/algorithm/UL)：无监督学习。
+* [UL](https://github.com/jamess010/AIOpen/tree/master/algorithm/UL)：无监督学习。
 
-* [SL]((https://github.com/jamess010/AIOpen/tree/master/algorithm/SL)：监督学习。
+* [SL](https://github.com/jamess010/AIOpen/tree/master/algorithm/SL)：监督学习。
 
-* [RL]((https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)：强化学习。
+* [RL](https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)：强化学习。
 
 * [networks](https://github.com/jamess010/AIOpen/tree/master/algorithm/networks)：深度学习网络，包括：DNN、LSTM、）、TL（迁移学习）、GAN（生成对抗网络）等。
 
