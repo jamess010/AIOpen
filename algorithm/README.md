@@ -11,7 +11,7 @@
 
 * [RL](https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)：强化学习。
 
-* [networks](https://github.com/jamess010/AIOpen/tree/master/algorithm/networks)：深度学习网络，包括：DNN、LSTM、）、TL（迁移学习）、GAN（生成对抗网络）等。
+* [networks](https://github.com/jamess010/AIOpen/tree/master/algorithm/networks)：深度学习网络，包括：DNN、LSTM、TL（迁移学习）、GAN（生成对抗网络）等。
 
 * [frameworks](https://github.com/jamess010/AIOpen/tree/master/algorithm/frameworks): 训练框架，包括Tensorflow、Adanet、keras、cntk、theano、pytorch等。
 ---
