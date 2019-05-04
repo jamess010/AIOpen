@@ -18,6 +18,7 @@
 
 5.[Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1807.03418.pdf) | [实现方法](https://github.com/soerenab/AudioMNIST)
 
+6.[librosa：用于音频和音乐分析的Python库]() | [librosa](https://github.com/librosa/librosa) | [librosa tutorials](https://github.com/librosa/tutorial) | [Librosa Gallery](https://github.com/librosa/librosa_gallery)
 ### 相关资源
 ---
 
