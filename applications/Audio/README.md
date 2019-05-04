@@ -10,7 +10,7 @@
 1.[音频数据扩展方法:SpecAugment](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1904.08779.pdf) | [实现方法之一](https://github.com/shelling203/SpecAugment) | 
  [实现方法之二](https://github.com/zcaceres/spec_augment)
 
-2.[Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1706.05781.pdf)
+2.[Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1706.05781.pdf) | [实现方法](https://github.com/keunwoochoi/kapre)
 
 3.[Sound Source Localization using Deep Residual Learning](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/Fujipress_JRM-29-1-4.pdf) | [实现方法](https://github.com/jamess010/jrm_ssl)
 
@@ -29,9 +29,6 @@ awesome audio:语音资源。</br>
 
 audiomate：Audiomate是一个可以轻松访问音频数据集的库。它提供了以通用方式访问/加载不同数据集的数据结构。这应该可以简化音频数据集的使用，例如用于机器学习任务。</br>
 地址：https://github.com/ynop/audiomate
-
-kapre：keras处理audio。</br>
-地址：https://github.com/keunwoochoi/kapre
 
 kaldi：音频处理工具。</br>
 地址：https://github.com/kaldi-asr/kaldi
