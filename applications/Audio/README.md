@@ -22,6 +22,8 @@
 
 7.[Python For Audio Signal Processing](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/python_ASR.pdf)
 
+8.[Python for Signal Processing](https://pan.baidu.com/s/1PRDIZPtQWAurE5mAvOHlVg)
+
 ---
 ### 相关资源
 ---
