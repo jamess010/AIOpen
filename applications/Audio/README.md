@@ -20,7 +20,7 @@
 
 6.[Librosa：用于音频和音乐分析的Python库](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/brian_mcfee.pdf) | [Librosa](https://github.com/librosa/librosa) | [Librosa Tutorials](https://github.com/librosa/tutorial) | [Librosa Gallery](https://github.com/librosa/librosa_gallery)
 
-7.[Python For Audio Signal Processing](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/)
+7.[Python For Audio Signal Processing](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/python_ASR.pdf)
 
 ---
 ### 相关资源
