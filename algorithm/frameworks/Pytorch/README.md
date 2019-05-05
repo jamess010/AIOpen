@@ -4,3 +4,4 @@
 
 1. awesome资源：https://github.com/bharathgs/Awesome-pytorch-list
 2. pytorch cnn：https://github.com/ddlee-cn/awesome_cnn
+3. pytorch资源：https://github.com/pytorch
