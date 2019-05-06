@@ -3,6 +3,14 @@
 
 ### 本分支主要汇总AI数据，包括开源数据集、收费数据集、数据获取工具、数据加工工具等。
 
+### 数据处理方法：
+
+通常，当处理图像，文本，音频和视频数据时，可以使用标准的Python包来加载数据到一个numpy数组中，然后再转换为相应的框架中的数据，比如：在pytorch中，把这个数组转换成torch.*Tensor。
+
+1）对于图像,有诸如[Pillow](https://github.com/python-pillow/Pillow),[OpenCV](https://github.com/italojs/awesome-opencv)包.
+2）对于音频,有诸如[scipy](https://github.com/scipy/scipy)和[librosa](https://github.com/librosa/librosa)包
+3）对于文本,原始Python和Cython来加载,或者[NLTK](https://github.com/nltk/nltk)和[SpaCy](https://github.com/explosion/spaCy)是有用的.
+
 ### 目录说明：
 
 * [dataset](https://github.com/jamess010/AIOpen/edit/master/data/dataset)：数据集列表。
