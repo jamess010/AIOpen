@@ -24,6 +24,8 @@
 
 8.[Python for Signal Processing](https://pan.baidu.com/s/1PRDIZPtQWAurE5mAvOHlVg)
 
+9.[Deep Learning for Audio Signal Processing](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/1905.00078.pdf)
+
 ---
 ### 相关资源
 ---
