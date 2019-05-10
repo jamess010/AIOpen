@@ -61,23 +61,7 @@ List of speech recognition software，列出了几乎所有开源/非开源的�
 地址：https://en.wikipedia.org/wiki/List_of_speech_recognition_software
 
 ---
-#### 通用人工智能（AGI）
 
-Becca：开源AGI项目。</br>
-地址：https://github.com/brohrer/becca
-
-一个AGI项目。</br>
-地址：http://tieba.baidu.com/p/4904018512
-
-penCog：开源的人工智能通用平台。</br>
-地址：https://github.com/opencog
-
-TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。</br>
-地址：https://github.com/EpistasisLab/tpot
-
-
----
-#### 其它
 
 目标检测：https://github.com/amusi/awesome-object-detection
 
