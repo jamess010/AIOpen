@@ -8,6 +8,17 @@
 ---
 
 ### 其它资源列表
+
+[Awesom Deep Learning](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
+
+[Deep Learning Paper](https://github.com/terryum/awesome-deep-learning-papers)
+
+[Deep Learning list](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+[Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+[Very Deep Learning](https://github.com/daviddao/awesome-very-deep-learning)
+
 #### 自然语言处理（NLP）
 
 BERT：Bidirectional Encoder Representations from Transformers，是谷歌将Transformer（一种流行的注意力模型）的双向训练应用于语言建模。</br>
@@ -67,6 +78,8 @@ TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工
 
 ---
 #### 其它
+
+视觉资源：https://github.com/kjw0612/awesome-deep-vision
 
 Lucid，一个建立在DeepDream之上的神经网络可视化库。</br>
 地址：https://github.com/tensorflow/lucid
