@@ -79,6 +79,8 @@ TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工
 ---
 #### 其它
 
+目标检测：https://github.com/amusi/awesome-object-detection
+
 视觉资源：https://github.com/kjw0612/awesome-deep-vision
 
 Lucid，一个建立在DeepDream之上的神经网络可视化库。</br>
