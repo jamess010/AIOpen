@@ -61,7 +61,7 @@ List of speech recognition software，列出了几乎所有开源/非开源的�
 地址：https://en.wikipedia.org/wiki/List_of_speech_recognition_software
 
 ---
-
+#### 其它
 
 目标检测：https://github.com/amusi/awesome-object-detection
 
