@@ -1,19 +1,10 @@
-# algorithm（算法，人工智能三要素之一）
-
-###
-机器学习算法分为三种类型，即非监督学习(Unsupervised Learning)、监督学习(Supervised Leaning)和强化学习(Reinforcement Learning)
+# Deep Learning（深度学习）
 ---
-### 本分支主要汇总AI开源算法相关项目，包括模型方法、模型训练架构等。
+### 本分支主要汇总AI深度学习开源算法相关项目，包括模型方法、模型训练架构等。
 
-* [UL](https://github.com/jamess010/AIOpen/tree/master/algorithm/UL)：无监督学习。
+* [networks](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks)：深度学习网络，包括：DNN、LSTM、TL（迁移学习）、GAN（生成对抗网络）等。
 
-* [SL](https://github.com/jamess010/AIOpen/tree/master/algorithm/SL)：监督学习。
-
-* [RL](https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)：强化学习。
-
-* [networks](https://github.com/jamess010/AIOpen/tree/master/algorithm/networks)：深度学习网络，包括：DNN、LSTM、TL（迁移学习）、GAN（生成对抗网络）等。
-
-* [frameworks](https://github.com/jamess010/AIOpen/tree/master/algorithm/frameworks): 训练框架，包括Tensorflow、Adanet、keras、cntk、theano、pytorch等。
+* [frameworks](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks): 训练框架，包括Tensorflow、Adanet、keras、cntk、theano、pytorch等。
 ---
 
 ### 其它资源列表
