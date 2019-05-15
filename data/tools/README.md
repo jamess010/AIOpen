@@ -3,7 +3,7 @@
 
 [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)：
 
-[scipy](https://github.com/jamess010/AIOpen/tree/master/data/tools/scipy)：
+[spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)：
 
 #### 图像处理工具
 
