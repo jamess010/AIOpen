@@ -3,7 +3,6 @@
 
 [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)：
 
-[spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)：
 
 #### 图像处理工具
 
@@ -14,6 +13,9 @@
 #### 文本处理工具
 
 [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)：
+
+[spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)：
+
 
 ### 资源列表
 
