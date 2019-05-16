@@ -1,0 +1,11 @@
+version: '3'
+services:
+  py3-librosa:
+    build: .
+    image: py3/librosa
+    restart: unless-stopped
+    ports:
+     - "8802:8888"
+     - "5000:5000"
+     - "8022:22"
+    command: /run.sh
