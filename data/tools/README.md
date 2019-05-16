@@ -3,6 +3,7 @@
 
 [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)：
 
+[scipy](https://github.com/jamess010/AIOpen/tree/master/data/tools/scipy)：
 
 #### 图像处理工具
 
@@ -20,3 +21,5 @@
 ### 资源列表
 
 数据标注工具合集：https://github.com/jamess010/awesome-data-annotation
+
+Python处理NLP：https://github.com/susanli2016/NLP-with-Python
