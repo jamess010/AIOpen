@@ -8,4 +8,6 @@ services:
      - "8802:8888"
      - "5000:5000"
      - "8022:22"
+    volumes:
+     - ./data:/home/data
     command: /run.sh
