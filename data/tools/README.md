@@ -18,7 +18,9 @@
 [spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)：
 
 
-### 资源列表
+### 其它资源列表
+
+一种用弱监督快速生成训练数据的系统：https://github.com/HazyResearch/snorkel
 
 数据标注工具合集：https://github.com/jamess010/awesome-data-annotation
 
