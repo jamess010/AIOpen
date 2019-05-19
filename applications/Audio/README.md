@@ -4,6 +4,8 @@
 ---
 1.[Car engine sound classification](https://github.com/KaroDievas/car-sound-classification-with-keras)
 
+2.[FFT STFT WaveLet 分析(python)](https://github.com/jamess010/AIOpen/blob/master/applications/Audio/FFT_STFT_wavelet_101.py)
+
 ### 文章
 ---
 
