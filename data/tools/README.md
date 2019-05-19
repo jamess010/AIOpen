@@ -19,11 +19,9 @@
 
 ### 文章
 
-1.[Weak Supervision: A New Programming Paradigm for Machine Learning](https://github.com/jamess010/AIOpen/blob/master/data/tools/Weak%20Supervision:%20A%20New%20Programming%20Paradigm%20for%20Machine%20Learning%20%7C%20SAIL%20Blog.pdf)
+1.[Weak Supervision: A New Programming Paradigm for Machine Learning](https://github.com/jamess010/AIOpen/blob/master/data/tools/Weak%20Supervision:%20A%20New%20Programming%20Paradigm%20for%20Machine%20Learning%20%7C%20SAIL%20Blog.pdf) | 使用弱监督快速生成训练数据的系统：https://github.com/HazyResearch/snorkel
 
 ### 其它资源列表
-
-一种用弱监督快速生成训练数据的系统：https://github.com/HazyResearch/snorkel
 
 数据标注工具合集：https://github.com/jamess010/awesome-data-annotation
 
