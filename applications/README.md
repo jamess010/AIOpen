@@ -34,6 +34,8 @@ NVIDIA DALI：是一个GPU加速的数据增强和图像加载库，为优化深
 NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 地址：https://developer.nvidia.com/nvjpeg
 
+深度学习GPU最全对比。</br>
+地址：http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
 
 ---
 #### 其它
