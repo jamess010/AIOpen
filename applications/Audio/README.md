@@ -35,6 +35,9 @@
 wavenet：语音合成算法。</br>
 地址：https://github.com/ibab/tensorflow-wavenet
 
+Tacotron：TensorFlow中Tacotron语音合成的实现。</br>
+地址：https://github.com/keithito/tacotron
+
 awesome speech：优秀的语音处理资源。</br>
 地址： https://github.com/mxer/awesome-speech
 
