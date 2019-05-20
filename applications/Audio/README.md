@@ -32,6 +32,9 @@
 ### 相关资源
 ---
 
+wavenet：语音合成算法。</br>
+地址：https://github.com/ibab/tensorflow-wavenet
+
 awesome speech：优秀的语音处理资源。</br>
 地址： https://github.com/mxer/awesome-speech
 
