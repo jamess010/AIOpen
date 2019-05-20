@@ -38,6 +38,9 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 ---
 #### 其它
 
+自定义对象检测和分类训练。</br>
+地址：https://github.com/cloud-annotations/training/
+
 SenseTime Research platform：商汤的单个对象跟踪平台。</br>
 地址：https://github.com/STVIR/pysot
 
