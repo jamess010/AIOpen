@@ -38,6 +38,9 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 ---
 #### 其它
 
+SenseTime Research platform：商汤的单个对象跟踪平台。</br>
+地址：https://github.com/STVIR/pysot
+
 使用Numpy实现的机器学习模型资源。</br>
 地址：https://github.com/huseinzol05/Machine-Learning-Numpy
 
