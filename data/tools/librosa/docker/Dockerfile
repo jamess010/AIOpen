@@ -21,4 +21,7 @@ RUN mkdir -p /home/src
 RUN apt install -y tzdata
 RUN cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 RUN pip3 install flask_socketio msgpack_numpy socketIO_client jupytext librosa
+RUN pip3 install jupyter_contrib_nbextensions
+RUN pip3 install ipython prompt_toolkit
+RUN jupyter contrib nbextension install --user --skip-running-check
 #CMD ["/run.sh"]
