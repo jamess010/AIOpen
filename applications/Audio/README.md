@@ -1,5 +1,11 @@
 # 音频处理
 
+### Todo
+---
+1.[TFRecord读取数据集](https://blog.csdn.net/ChaoFeiLi/article/details/86595160)
+
+2.[使用TensorFlow实现音频分类任务](https://www.atyun.com/12541.html)
+
 ### 实战
 ---
 1.[Car engine sound classification](https://github.com/KaroDievas/car-sound-classification-with-keras)
