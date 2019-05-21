@@ -53,7 +53,7 @@ fastai：一个 Deep Learning 的公开教程。</br>
 [自然语言处理理论与实战](https://pan.baidu.com/s/1O9wDOaG0cTRJSzMaAza2Cw) | [源码](https://github.com/bainingchao/NLP-ML)
 
 
-21个项目玩转深度学习-基于TensorFlow的实践详解 | [源码](https://github.com/hzy46/Deep-Learning-21-Examples)
+[21个项目玩转深度学习-基于TensorFlow的实践详解](https://book.douban.com/subject/30179607/) | [源码](https://github.com/hzy46/Deep-Learning-21-Examples)
 
 ### 区块链
 
