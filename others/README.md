@@ -50,11 +50,10 @@ fastai：一个 Deep Learning 的公开教程。</br>
 100天学会机器学习：https://github.com/Avik-Jain/100-Days-Of-ML-Code </br>
 中文翻译地址：https://github.com/MLEveryday/100-Days-Of-ML-Code
 
-[自然语言处理理论与实战](https://pan.baidu.com/s/1O9wDOaG0cTRJSzMaAza2Cw)</br>
-源码地址：https://github.com/bainingchao/NLP-ML
+[自然语言处理理论与实战](https://pan.baidu.com/s/1O9wDOaG0cTRJSzMaAza2Cw) | [源码](https://github.com/bainingchao/NLP-ML)
 
 
-21个项目玩转深度学习-基于TensorFlow的实践详解 | [代码](https://github.com/hzy46/Deep-Learning-21-Examples)
+21个项目玩转深度学习-基于TensorFlow的实践详解 | [源码](https://github.com/hzy46/Deep-Learning-21-Examples)
 
 ### 区块链
 
