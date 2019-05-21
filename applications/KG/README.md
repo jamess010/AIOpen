@@ -1,6 +1,10 @@
 # 知识图谱（Knowledge Graph）
 ### 相关资源
 ---
+
+浙江大学教授陈华钧的知识图谱PPT。</br>
+地址：https://pan.baidu.com/s/15SMbpWjE8DkTRPXe1I5INw
+
 知识图谱资料。</br>
 地址：https://github.com/husthuke/awesome-knowledge-graph
 
