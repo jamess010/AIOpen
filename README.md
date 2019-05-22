@@ -251,7 +251,7 @@ PCA：Principal Component Analysis，主成分分析</br>
 RBM：Restricted Boltzmann Machines，受限玻尔兹曼机</br>
 [RL](https://github.com/aikorea/awesome-rl): Reinforcement Learning，强化学习</br>
 [RNN](https://github.com/kjw0612/awesome-rnn)：Recurrent Neural Networks，循环神经网络</br>
-ROS：Robot Operating System，是一个机器人软件平台</br>
+[ROS](https://github.com/ros/ros)：Robot Operating System，是一个机器人软件平台</br>
 
 ### S
 
