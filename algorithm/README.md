@@ -34,6 +34,12 @@ penCog：开源的人工智能通用平台。
 TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。
 地址：https://github.com/EpistasisLab/tpot
 
+---
+
+#### 其它
+
+Pythia：一个模块化的即插即用框架，Facebook开源，目标是使数据科学家能够快速构建、复制和基准人工智能模型。</br>
+地址：https://github.com/facebookresearch/pythia
 
 
 
