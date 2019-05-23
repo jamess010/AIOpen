@@ -55,7 +55,7 @@ fastai：一个 Deep Learning 的公开教程。</br>
 
 [21个项目玩转深度学习-基于TensorFlow的实践详解](https://book.douban.com/subject/30179607/) | [源码](https://github.com/hzy46/Deep-Learning-21-Examples)
 
-[The Hundred-Page Machine Learning Book](https://www.amazon.com/gp/offer-listing/199957950X/)|[源码](https://github.com/aburkov/theMLbook)
+[The Hundred-Page Machine Learning Book](https://www.amazon.com/gp/offer-listing/199957950X/) | [源码](https://github.com/aburkov/theMLbook)
 
 ### 区块链
 
