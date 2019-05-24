@@ -131,19 +131,20 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 - #### others：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 
 # 目录结构
- * [data（数据）]()
-   * [CDH]()
-   * [HDP]()
-   * [bdcloud]()
-   * [hadoop]()
-   * [spark]()
-   * [blockchain]()
-   * [tools]()
-     * [NLTK]()
-     * [librosa]()
-     * [opencv]()
-     * [pillow]()
-     * [scipy]()
+ * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
+   * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+   * [HDP](https://github.com/jamess010/AIOpen/tree/master/data/HDP)
+   * [bdcloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+   * [hadoop](https://github.com/jamess010/AIOpen/tree/master/data/hadoop)
+   * [spark](https://github.com/jamess010/AIOpen/tree/master/data/spark)
+   * [blockchain](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
+   * [tools](https://github.com/jamess010/AIOpen/tree/master/data/tools)
+     * [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)
+     * [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)
+     * [opencv](https://github.com/jamess010/AIOpen/tree/master/data/tools/opencv)
+     * [pillow](https://github.com/jamess010/AIOpen/tree/master/data/tools/pillow)
+     * [scipy](https://github.com/jamess010/AIOpen/tree/master/data/tools/scipy)
+     * [spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)
 
 
  * [algorithm（算法）]()
