@@ -1,11 +1,71 @@
-# 目录
+```
+   目录导航
+```
+
+ * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
+   * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
+   * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
+   * [HDP](https://github.com/jamess010/AIOpen/tree/master/data/HDP)
+   * [bdcloud（大数据云平台）](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+   * [hadoop](https://github.com/jamess010/AIOpen/tree/master/data/hadoop)
+   * [spark](https://github.com/jamess010/AIOpen/tree/master/data/spark)
+   * [blockchain](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
+   * [tools](https://github.com/jamess010/AIOpen/tree/master/data/tools)
+     * [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)
+     * [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)
+     * [opencv](https://github.com/jamess010/AIOpen/tree/master/data/tools/opencv)
+     * [pillow](https://github.com/jamess010/AIOpen/tree/master/data/tools/pillow)
+     * [scipy](https://github.com/jamess010/AIOpen/tree/master/data/tools/scipy)
+     * [spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)
+
+
+ * [algorithm（算法）](https://github.com/jamess010/AIOpen/tree/master/algorithm)
+   * [SL（监督学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/SL)
+   * [UL（无监督学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/UL)
+   * [DL（深度学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL)
+      * [frameworks（开发框架）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks)
+        * [Pytorch](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks/Pytorch)
+        * [Tensorflow](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks/Tensorflow)
+        * [deepo](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks/deepo)
+      * [models（模型）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/models)
+        * [VGG](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/models/VGG)
+        * [ResNet](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/models/ResNet)
+      * [networks（神经网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks)
+        * [DNN（深度神经网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/DNN)
+        * [GAN（生成对抗网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/GAN)
+        * [FL（联邦学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/FL)
+        * [LSTM（长短期记忆网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/LSTM)
+        * [TL（迁移学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/TL)
+   * [RL（强化学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)
+
+
+ * [power（算力）](https://github.com/jamess010/AIOpen/tree/master/power)
+   * [docker](https://github.com/jamess010/AIOpen/tree/master/power/docker)
+      * [python2](https://github.com/jamess010/AIOpen/tree/master/power/docker/python2)
+      * [python3](https://github.com/jamess010/AIOpen/tree/master/power/docker/python3)
+   * [openstack](https://github.com/jamess010/AIOpen/tree/master/power/openstack)
+   * [spark](https://github.com/jamess010/AIOpen/tree/master/power/spark)
+
+
+ * [applications（应用）](https://github.com/jamess010/AIOpen/tree/master/applications)
+    * [Audio（语音）](https://github.com/jamess010/AIOpen/tree/master/applications/Audio)
+    * [FR（人脸识别）](https://github.com/jamess010/AIOpen/tree/master/applications/FR)
+    * [NLP（自然语言处理）](https://github.com/jamess010/AIOpen/tree/master/applications/NLP)
+    * [EEG（事理图谱）](https://github.com/jamess010/AIOpen/tree/master/applications/EEG)
+    * [KG（知识图谱](https://github.com/jamess010/AIOpen/tree/master/applications/KG)
+
+
+ * [others（其它）](https://github.com/jamess010/AIOpen/tree/master/others)
+
+---
+
+# 内容目录
 * [AIOpen简介](#aiopen简介)
 * [AI三要素](#ai三要素)
 * [AI开源全栈图](#ai开源全栈图)
 * [深度学习流程](#深度学习流程)
 * [典型案例分享](#典型案例分享)
 * [目录说明](#目录说明)
-* [***目录导航***](#目录结构)
 * [术语解释](#术语解释)
 * [参考资料](#参考资料)
 * [联系我们](#联系我们)
@@ -130,61 +190,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 
 - #### [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 
-# 目录结构
- * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
-   * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
-   * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
-   * [HDP](https://github.com/jamess010/AIOpen/tree/master/data/HDP)
-   * [bdcloud（大数据云平台）](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
-   * [hadoop](https://github.com/jamess010/AIOpen/tree/master/data/hadoop)
-   * [spark](https://github.com/jamess010/AIOpen/tree/master/data/spark)
-   * [blockchain](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
-   * [tools](https://github.com/jamess010/AIOpen/tree/master/data/tools)
-     * [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)
-     * [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)
-     * [opencv](https://github.com/jamess010/AIOpen/tree/master/data/tools/opencv)
-     * [pillow](https://github.com/jamess010/AIOpen/tree/master/data/tools/pillow)
-     * [scipy](https://github.com/jamess010/AIOpen/tree/master/data/tools/scipy)
-     * [spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)
 
-
- * [algorithm（算法）](https://github.com/jamess010/AIOpen/tree/master/algorithm)
-   * [SL（监督学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/SL)
-   * [UL（无监督学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/UL)
-   * [DL（深度学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL)
-      * [frameworks（开发框架）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks)
-        * [Pytorch](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks/Pytorch)
-        * [Tensorflow](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks/Tensorflow)
-        * [deepo](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/frameworks/deepo)
-      * [models（模型）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/models)
-        * [VGG](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/models/VGG)
-        * [ResNet](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/models/ResNet)
-      * [networks（神经网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks)
-        * [DNN（深度神经网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/DNN)
-        * [GAN（生成对抗网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/GAN)
-        * [FL（联邦学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/FL)
-        * [LSTM（长短期记忆网络）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/LSTM)
-        * [TL（迁移学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL/networks/TL)
-   * [RL（强化学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)
-
-
- * [power（算力）](https://github.com/jamess010/AIOpen/tree/master/power)
-   * [docker](https://github.com/jamess010/AIOpen/tree/master/power/docker)
-      * [python2](https://github.com/jamess010/AIOpen/tree/master/power/docker/python2)
-      * [python3](https://github.com/jamess010/AIOpen/tree/master/power/docker/python3)
-   * [openstack](https://github.com/jamess010/AIOpen/tree/master/power/openstack)
-   * [spark](https://github.com/jamess010/AIOpen/tree/master/power/spark)
-
-
- * [applications（应用）](https://github.com/jamess010/AIOpen/tree/master/applications)
-    * [Audio（语音）](https://github.com/jamess010/AIOpen/tree/master/applications/Audio)
-    * [FR（人脸识别）](https://github.com/jamess010/AIOpen/tree/master/applications/FR)
-    * [NLP（自然语言处理）](https://github.com/jamess010/AIOpen/tree/master/applications/NLP)
-    * [EEG（事理图谱）](https://github.com/jamess010/AIOpen/tree/master/applications/EEG)
-    * [KG（知识图谱](https://github.com/jamess010/AIOpen/tree/master/applications/KG)
-
-
- * [others（其它）](https://github.com/jamess010/AIOpen/tree/master/others)
 ---
 
 # 术语解释
