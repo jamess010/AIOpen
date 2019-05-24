@@ -1,4 +1,4 @@
- # 项目结构
+ # 目录结构
  * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
    * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
    * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
@@ -53,6 +53,8 @@
 
 
  * [others（其它）](https://github.com/jamess010/AIOpen/tree/master/others)
+---
+
 
 ```
                             _   ___ ___                 
@@ -61,6 +63,7 @@
                          /_/ \_\___\___/| .__/\___|_||_|
                                         |_|             
 ```
+
 
 # 内容目录
 * [AIOpen简介](#aiopen简介)
