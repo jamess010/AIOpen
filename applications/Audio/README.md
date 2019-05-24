@@ -39,7 +39,7 @@
 ### 相关资源
 ---
 
-kapre：kares 音频预处理库。</br>
+kapre：keras 音频预处理库。</br>
 地址：https://github.com/keunwoochoi/kapre
 
 wavenet：语音合成算法。</br>
