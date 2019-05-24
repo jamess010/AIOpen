@@ -27,6 +27,9 @@
 
 ### 其它数据集列表
 
+NLP-Datasets：自然语言处理（NLP）的公共数据集。</br>
+地址：https://github.com/niderhoff/nlp-datasets
+
 Awesome public datasets：公共数据集。</br>
 地址：https://github.com/awesomedata/awesome-public-datasets
 
