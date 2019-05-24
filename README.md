@@ -1,7 +1,7 @@
 ```
                      AIOpen
 ```
-# 目录导航
+# 项目结构
  * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
    * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
    * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
