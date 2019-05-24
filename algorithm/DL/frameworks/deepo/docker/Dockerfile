@@ -10,8 +10,7 @@ RUN pip3 install scrapy
 RUN apt update && \
     apt install -y openssh-server &&\
     apt install -y net-tools &&\
-    apt install -y tzdata
-RUN cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+    apt install -y ffmpeg
 RUN echo 'root:test' | chpasswd
 RUN sed -i 's/PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
 RUN sed 's@session\s*required\s*pam_loginuid.so@session optional pam_loginuid.so@g' -i /etc/pam.d/sshd
@@ -19,4 +18,11 @@ RUN echo "export VISIBLE=now" >> /etc/profile
 ADD run.sh /
 RUN mkdir /var/run/sshd
 RUN mkdir -p /home/src
+RUN apt install -y tzdata
+RUN cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+RUN pip3 install flask_socketio msgpack_numpy socketIO_client jupytext librosa
+RUN pip install jupyter_contrib_nbextensions
+RUN pip uninstall -y ipython prompt_toolkit
+RUN pip install ipython prompt_toolkit
+RUN jupyter contrib nbextension install --user --skip-running-check
 #CMD ["/run.sh"]
