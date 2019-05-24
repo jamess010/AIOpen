@@ -120,15 +120,15 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 
 ---
 # 目录说明
-- #### data：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
+- #### [data](https://github.com/jamess010/AIOpen/tree/master/data)：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
 
-- #### algorithm：算法：深度学习算法、训练框架、模型等。
+- #### [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：深度学习算法、训练框架、模型等。
 
-- #### power：算力：GPU、TPU、OpenStack、K8S、docker等。
+- #### [power](https://github.com/jamess010/AIOpen/tree/master/power)：算力：GPU、TPU、OpenStack、K8S、docker等。
 
-- #### applications：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
+- #### [applications](https://github.com/jamess010/AIOpen/tree/master/applications)：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
 
-- #### others：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
+- #### [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 
 # 目录结构
  * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
@@ -176,7 +176,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
    * [spark](https://github.com/jamess010/AIOpen/tree/master/power/spark)
 
 
- * [application（应用）](https://github.com/jamess010/AIOpen/tree/master/applications)
+ * [applications（应用）](https://github.com/jamess010/AIOpen/tree/master/applications)
     * [Audio（语音）](https://github.com/jamess010/AIOpen/tree/master/applications/Audio)
     * [FR（人脸识别）](https://github.com/jamess010/AIOpen/tree/master/applications/FR)
     * [NLP（自然语言处理）](https://github.com/jamess010/AIOpen/tree/master/applications/NLP)
