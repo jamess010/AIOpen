@@ -1,7 +1,7 @@
 # 目录结构
 - #### [data](https://github.com/jamess010/AIOpen/tree/master/data)：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
 
-- #### [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：深度学习算法、训练框架、模型等。
+- #### [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：包括监督/无监督学习、深度学习、训练框架、模型、迁移学习、联邦学习、强化学习等。
 
 - #### [power](https://github.com/jamess010/AIOpen/tree/master/power)：算力：GPU、TPU、OpenStack、K8S、docker等。
 
@@ -10,7 +10,7 @@
 - #### [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 ---
 # 目录导航
- * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
+ * [data](https://github.com/jamess010/AIOpen/tree/master/data)
    * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
    * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
    * [HDP](https://github.com/jamess010/AIOpen/tree/master/data/HDP)
@@ -27,7 +27,7 @@
      * [spacy](https://github.com/jamess010/AIOpen/tree/master/data/tools/spacy)
 
 
- * [algorithm（算法）](https://github.com/jamess010/AIOpen/tree/master/algorithm)
+ * [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)
    * [SL（监督学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/SL)
    * [UL（无监督学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/UL)
    * [DL（深度学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/DL)
@@ -47,7 +47,7 @@
    * [RL（强化学习）](https://github.com/jamess010/AIOpen/tree/master/algorithm/RL)
 
 
- * [power（算力）](https://github.com/jamess010/AIOpen/tree/master/power)
+ * [power](https://github.com/jamess010/AIOpen/tree/master/power)
    * [docker](https://github.com/jamess010/AIOpen/tree/master/power/docker)
       * [python2](https://github.com/jamess010/AIOpen/tree/master/power/docker/python2)
       * [python3](https://github.com/jamess010/AIOpen/tree/master/power/docker/python3)
@@ -55,7 +55,7 @@
    * [spark](https://github.com/jamess010/AIOpen/tree/master/power/spark)
 
 
- * [applications（应用）](https://github.com/jamess010/AIOpen/tree/master/applications)
+ * [applications](https://github.com/jamess010/AIOpen/tree/master/applications)
     * [Audio（语音）](https://github.com/jamess010/AIOpen/tree/master/applications/Audio)
     * [FR（人脸识别）](https://github.com/jamess010/AIOpen/tree/master/applications/FR)
     * [NLP（自然语言处理）](https://github.com/jamess010/AIOpen/tree/master/applications/NLP)
@@ -63,7 +63,7 @@
     * [KG（知识图谱](https://github.com/jamess010/AIOpen/tree/master/applications/KG)
 
 
- * [others（其它）](https://github.com/jamess010/AIOpen/tree/master/others)
+ * [others](https://github.com/jamess010/AIOpen/tree/master/others)
 ---
 
 
