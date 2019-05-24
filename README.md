@@ -135,7 +135,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
    * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
    * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
    * [HDP](https://github.com/jamess010/AIOpen/tree/master/data/HDP)
-   * [bdcloud](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
+   * [bdcloud（大数据云平台）](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
    * [hadoop](https://github.com/jamess010/AIOpen/tree/master/data/hadoop)
    * [spark](https://github.com/jamess010/AIOpen/tree/master/data/spark)
    * [blockchain](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
