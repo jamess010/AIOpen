@@ -5,6 +5,7 @@
 * [深度学习流程](#深度学习流程)
 * [典型案例分享](#典型案例分享)
 * [目录说明](#目录说明)
+* [目录结构](#目录结构)
 * [术语解释](#术语解释)
 * [参考资料](#参考资料)
 * [联系我们](#联系我们)
@@ -128,6 +129,60 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 - #### applications：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
 
 - #### others：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
+
+# 目录结构
+ * [data（数据）]()
+   * [CDH]()
+   * [HDP]()
+   * [bdcloud]()
+   * [hadoop]()
+   * [spark]()
+   * [blockchain]()
+   * [tools]()
+     * [NLTK]()
+     * [librosa]()
+     * [opencv]()
+     * [pillow]()
+     * [scipy]()
+
+
+ * [algorithm（算法）]()
+   * [SL（监督学习）]()
+   * [UL（无监督学习）]()
+   * [DL（深度学习）]()
+      * [frameworks（开发框架）]()
+        * [Pytorch]()
+        * [Tensorflow]()
+        * [deepo]()
+      * [models（模型）]()
+        * [VGG]()
+        * [ResNet]()
+      * [networks（神经网络）]()
+        * [DNN（深度神经网络）]()
+        * [GAN（生成对抗网络）]()
+        * [FL（联邦学习）]()
+        * [LSTM（长短期记忆网络）]()
+        * [TL（迁移学习）]()
+   * [RL（强化学习）]()
+
+
+ * [power（算力）]()
+   * [docker]()
+      * [python2]()
+      * [python3]()
+   * [openstack]()
+   * [spark]()
+
+
+ * [application（应用）]()
+    * [Audio（语音）]()
+    * [FR（人脸识别）]()
+    * [NLP（自然语言处理）]()
+    * [EEG（事理图谱）]()
+    * [KG（知识图谱]()
+
+
+ * [others（其它）]()
 ---
 
 # 术语解释
