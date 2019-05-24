@@ -1,4 +1,15 @@
- # 目录结构
+# 目录结构
+- #### [data](https://github.com/jamess010/AIOpen/tree/master/data)：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
+
+- #### [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：深度学习算法、训练框架、模型等。
+
+- #### [power](https://github.com/jamess010/AIOpen/tree/master/power)：算力：GPU、TPU、OpenStack、K8S、docker等。
+
+- #### [applications](https://github.com/jamess010/AIOpen/tree/master/applications)：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
+
+- #### [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
+---
+# 目录导航
  * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
    * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
    * [CDH](https://github.com/jamess010/AIOpen/tree/master/data/CDH)
@@ -71,7 +82,6 @@
 * [AI开源全栈图](#ai开源全栈图)
 * [深度学习流程](#深度学习流程)
 * [典型案例分享](#典型案例分享)
-* [目录说明](#目录说明)
 * [术语解释](#术语解释)
 * [参考资料](#参考资料)
 * [联系我们](#联系我们)
@@ -183,19 +193,6 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 * 知识图谱</br>
 下图是知识图谱技术总览（包括AI技术）：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/kg-all.png" width="600" height="520"/></div>
-
----
-# 目录说明
-- #### [data](https://github.com/jamess010/AIOpen/tree/master/data)：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
-
-- #### [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：深度学习算法、训练框架、模型等。
-
-- #### [power](https://github.com/jamess010/AIOpen/tree/master/power)：算力：GPU、TPU、OpenStack、K8S、docker等。
-
-- #### [applications](https://github.com/jamess010/AIOpen/tree/master/applications)：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
-
-- #### [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
-
 
 ---
 
