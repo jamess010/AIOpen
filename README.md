@@ -1,6 +1,15 @@
 ```
-                     AIOpen
+                             _                            
+                            (_)                           
+                       __ _  _   ___   _ __    ___  _ __  
+                      / _` || | / _ \ | '_ \  / _ \| '_ \ 
+                     | (_| || || (_) || |_) ||  __/| | | |
+                      \__,_||_| \___/ | .__/  \___||_| |_|
+                                      | |                 
+                                      |_|                                                       
+                                      
 ```
+                                      
 # 项目结构
  * [data（数据）](https://github.com/jamess010/AIOpen/tree/master/data)
    * [dataset（数据集列表）](https://github.com/jamess010/AIOpen/tree/master/data/dataset)
