@@ -40,6 +40,8 @@ Sonar：是一个用于调试 iOS 和 Android 移动应用的平台，通过一�
 # 学习资源
 ### 人工智能
 
+使用notebook进行数据科学：https://github.com/donnemartin/data-science-ipython-notebooks
+
 神经网络与深度学习：https://nndl.github.io/
 
 fastai：一个 Deep Learning 的公开教程。</br>
