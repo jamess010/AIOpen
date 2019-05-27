@@ -30,5 +30,5 @@
 模拟联邦设置并运行差异私有联合学习。</br>
 地址：https://github.com/sapmlresearch/DiffPrivate_FedLearning
 
-无线网络的联合学习。</br>
+无线网络的联邦学习。</br>
 地址：https://github.com/nhatminh/OnDevAI
