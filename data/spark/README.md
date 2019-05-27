@@ -11,3 +11,14 @@ BigDL：Apache Spark的分布式深度学习库。</br>
 
 Apache Spark的深度学习管道。</br>
 地址：https://github.com/databricks/spark-deep-learning
+
+使用Keras和Spark进行分布式深度学习。</br>
+地址：https://github.com/maxpumperla/elephas
+
+caffe在Hadoop和Spark集群上进行分布式深度学习。</br>
+地址：https://github.com/yahoo/CaffeOnSpark
+
+分布式深度学习，使用Keras和Apache Spark，专注于分布式训练。</br>
+地址：https://github.com/cerndb/dist-keras
+
+
