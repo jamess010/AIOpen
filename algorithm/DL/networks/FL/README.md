@@ -5,6 +5,8 @@
 
 联邦学习资源：[资源一](https://github.com/tushar-semwal/awesome-federated-computing) | [资源二](https://github.com/timmers/awesome-federated-learning)
 
+https://github.com/ZeroWangZY/federated-learning
+
 https://github.com/shaoxiongji/federated-learning
 
 https://github.com/WeBankFinTech/FATE
