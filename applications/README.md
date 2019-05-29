@@ -64,6 +64,9 @@ SenseTime Research platform：商汤的单个对象跟踪平台。</br>
 股票预测模型资源。</br>
 地址：https://github.com/huseinzol05/Stock-Prediction-Models
 
+使用无监督和监督学习来预测股票。</br>
+地址：https://github.com/VivekPa/AIAlpha
+
 Gathers how to deploy tensorflow models using nginx, hadoop, kafka, flask, gunicorn, socketio, docker swarm, luigi spotify, airflow, celery and so much more! </br>
 地址：https://github.com/huseinzol05/Gather-Tensorflow-Serving
 
