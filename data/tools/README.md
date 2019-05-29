@@ -46,3 +46,5 @@ https://github.com/fidler-lab/curve-gcn
 数据标注工具合集：https://github.com/jamess010/awesome-data-annotation
 
 Python处理NLP：https://github.com/susanli2016/NLP-with-Python
+
+使用notebook进行数据科学: https://github.com/donnemartin/data-science-ipython-notebooks
