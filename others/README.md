@@ -6,11 +6,6 @@ HElib：同态加密库。</br>
 2018年机器阅读理解技术竞赛模型，国内外1000多支队伍中BLEU-4评分排名第6， ROUGE-L评分排名第14。</br>
 地址：https://github.com/freefuiiismyname/G-Reader/stargazers
 
-awesome-speech：语音相关资源，包括开源库、数据、代码文章、主页等。</br>
-地址：https://github.com/mxer/awesome-speech
-
-知乎文章，关于数据集，开源库等。</br>
-地址：https://zhuanlan.zhihu.com/p/25138563
 
 python学习简图（numpy、pandas、matplotlib、pyspark，tensorflow，keras）。</br>
 地址：https://github.com/kailashahirwar/cheatsheets-ai
@@ -39,8 +34,6 @@ Sonar：是一个用于调试 iOS 和 Android 移动应用的平台，通过一�
 
 # 学习资源
 ### 人工智能
-
-使用notebook进行数据科学：https://github.com/donnemartin/data-science-ipython-notebooks
 
 神经网络与深度学习：https://nndl.github.io/
 
