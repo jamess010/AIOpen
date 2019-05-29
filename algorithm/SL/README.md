@@ -1,4 +1,4 @@
-# 监督学习
+# 监督学习（Supervised Leaning）
 
 ### 文章
 
