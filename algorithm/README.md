@@ -22,16 +22,13 @@
 
 #### 通用人工智能（AGI）
 
-Becca：开源AGI项目。
+Becca：开源AGI项目。</br>
 地址：https://github.com/brohrer/becca
 
-一个AGI项目。
-地址：http://tieba.baidu.com/p/4904018512
-
-penCog：开源的人工智能通用平台。
+penCog：开源的人工智能通用平台。</br>
 地址：https://github.com/opencog
 
-TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。
+TPOT：由兰迪·奥尔森（Randy Olson）开发的开源通用人工智能工具。</br>
 地址：https://github.com/EpistasisLab/tpot
 
 ---
