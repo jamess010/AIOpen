@@ -11,6 +11,9 @@
 
 联邦学习资源：[资源一](https://github.com/tushar-semwal/awesome-federated-computing) | [资源二](https://github.com/timmers/awesome-federated-learning)
 
+一个实现联合学习的框架。</br>
+地址：https://github.com/tensorflow/federated
+
 关于联邦学习的资料，包括：介绍、综述文章、最新文章、代表工作及其代码、数据集、论文等等。</br>
 地址：https://github.com/ZeroWangZY/federated-learning
 
