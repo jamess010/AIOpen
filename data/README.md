@@ -98,8 +98,15 @@ Fashion-MNIST：是一个替代MNIST手写数字集的图像数据集。 它是�
 Accelerator：eBay 开源数据处理框架，该框架可以用于处理像事物日志、事件日志和数据库转储这样的日志文件。</br>
 地址：https://github.com/eBay/accelerator
 
+知乎文章，关于数据集，开源库等。</br>
+地址：https://zhuanlan.zhihu.com/p/25138563
+
 ### 大数据
 
 awesome big data：大数据资源。</br>
 地址：https://github.com/onurakpolat/awesome-bigdata
+
+使用notebook进行数据科学。</br>
+地址：https://github.com/donnemartin/data-science-ipython-notebooks
+
 
