@@ -39,6 +39,9 @@
 ### 相关资源
 ---
 
+该库为ASR提供常见的语音功能，包括MFCC和滤波器组能量。</br>
+地址：https://github.com/jameslyons/python_speech_features
+
 awesome-speech：语音相关资源，包括开源库、数据、代码文章、主页等。</br>
 地址：https://github.com/mxer/awesome-speech
 
