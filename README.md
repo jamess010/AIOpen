@@ -69,7 +69,7 @@
     * [FR（人脸识别）](https://github.com/jamess010/AIOpen/tree/master/applications/FR)
     * [NLP（自然语言处理）](https://github.com/jamess010/AIOpen/tree/master/applications/NLP)
     * [EEG（事理图谱）](https://github.com/jamess010/AIOpen/tree/master/applications/EEG)
-    * [KG（知识图谱](https://github.com/jamess010/AIOpen/tree/master/applications/KG)
+    * [KG（知识图谱）](https://github.com/jamess010/AIOpen/tree/master/applications/KG)
 
 
  * [others](https://github.com/jamess010/AIOpen/tree/master/others)
