@@ -3,6 +3,9 @@
 
 ### 资源列表
 
+PySpark提供的基本算法。</br>
+地址：https://github.com/mahmoudparsian/pyspark-tutorial
+
 TensorFlowOnSpark将TensorFlow程序引入Apache Spark集群。</br>
 地址：https://github.com/yahoo/TensorFlowOnSpark
 
