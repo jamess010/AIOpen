@@ -1,9 +1,13 @@
 # Librosa
 
-### docker 目录
-deepo docker：包含 librosa、python3.6、tensorflow、pytorch等。
+### 目录
+#### docker
+使用 deepo 实现的 docker，包含 librosa、python3.6、tensorflow、pytorch等。
 
-### Tips
+#### mfcc-fbank
+使用Librosa、python_speech_features 和 python 实现对语音提取MFCC, FBank特征。
+
+### Tips：
 
 1. 机器学习第一步是特征提取，语音领域也不例外。目前使用最多的是FBank（Filter banks）和MFCC，两者整体相似，MFCC多了一步DCT（离散余弦变换）。 
 
@@ -12,5 +16,3 @@ deepo docker：包含 librosa、python3.6、tensorflow、pytorch等。
 3. FBank 适用于深度学习。因为，深度神经网络强大的特征提取能力使得我们只需要将信息更加丰富的Mel谱（或功率谱）信息直接送入神经网络进行训练，让神经网络提取更加鲁棒的特征。
 
 4. MFCC 配合 GMM，HMM 声学模型比较合适。
-
-5. 
