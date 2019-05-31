@@ -12,3 +12,5 @@ deepo docker：包含 librosa、python3.6、tensorflow、pytorch等。
 3. FBank 适用于深度学习。因为，深度神经网络强大的特征提取能力使得我们只需要将信息更加丰富的Mel谱（或功率谱）信息直接送入神经网络进行训练，让神经网络提取更加鲁棒的特征。
 
 4. MFCC 配合 GMM，HMM 声学模型比较合适。
+
+5. 
