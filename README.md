@@ -232,7 +232,7 @@ BOTs：虚拟（聊天）机器人，是一种通过自然语言来模拟人类�
 CM：Cloudera Manager， 提供易用特性、易于升级和安装组件等最有价值的功能。CM也可以在几分钟之内建立集群主节点的高可用性（high availability）及其他功能，例如，Hive，Pig，Impala，Flume和Spark等。</br>
 CNN：Convolutional Neural Networks，卷积神经网络</br>
 CNTK：Computational Network Toolkit，微软开发的深度学习商业工具包。</br>
-[CTC](https://github.com/igormq/ctc_tensorflow_example)：Connectionist Temporal Classification。这个算法是用来解决时序类数据的分类问题。
+[CTC](https://xiaodu.io/ctc-explained/)：Connectionist Temporal Classification。这个算法是用来解决时序类数据的分类问题。
 
 ### D
 
