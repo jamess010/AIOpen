@@ -7,6 +7,7 @@
 #### mfcc-fbank
 使用Librosa、python_speech_features 和 python 实现对语音提取MFCC, FBank特征。
 
+---
 ### Tips：
 
 1. 机器学习第一步是特征提取，语音领域也不例外。目前使用最多的是FBank（Filter banks）和MFCC，两者整体相似，MFCC多了一步DCT（离散余弦变换）。 
