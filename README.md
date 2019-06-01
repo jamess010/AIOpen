@@ -109,6 +109,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ----
 
 # AI三要素
+([返回目录](#内容目录))
 
 人工智能的三要素：数据（data）、算法（algorithm）和算力（computing power）；三者之间的关系如下图：</br>
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_3key.png" width="460" height="230"/></div>
@@ -126,6 +127,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 ---
 
 # AI开源全栈图
+([返回目录](#内容目录))
 
 #### 下图是AI开源全栈图，本项目依据此图进行分类，每个分类均有对此分类的说明，请仔细阅读。</br>
 
@@ -141,6 +143,7 @@ AI（人工智能）包括目前比较热门的深度学习、机器学习和与
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/ai_dl_2.png" /></div>
 
 # 典型案例分享
+([返回目录](#内容目录))
 
 ## 1）数据
 
@@ -206,6 +209,7 @@ TonY(Tensorflow on Yarn)是LinkedIn的开源项目，允许用户在单个节点
 ---
 
 # 术语解释
+([返回目录](#内容目录))
 
 ### A
 
@@ -357,6 +361,7 @@ zookeeper：提供分布式、高可用性的协调服务能力。 帮助系统�
 
 ---
 # 参考资料
+([返回目录](#内容目录))
 
 [优秀的全栈资源列表（有关 Deep Learning、Blockchain、BigData、Datasets、Python 等）](https://github.com/bayandin/awesome-awesomeness)
 
@@ -412,6 +417,7 @@ zookeeper：提供分布式、高可用性的协调服务能力。 帮助系统�
 ---
 
 # 联系我们
+([返回目录](#内容目录))
 
 ### 欢迎任何反馈、建议和贡献
 - #### Website：http://www.aiopens.net
