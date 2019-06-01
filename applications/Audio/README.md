@@ -51,6 +51,9 @@ kapre：keras 音频预处理库。</br>
 wavenet：语音合成算法。</br>
 地址：https://github.com/ibab/tensorflow-wavenet
 
+Wavenet_vocoder：语音合成技术。</br>
+地址：https://github.com/r9y9/wavenet_vocoder/
+
 Tacotron：TensorFlow中Tacotron语音合成的实现。</br>
 地址：https://github.com/keithito/tacotron
 
