@@ -30,6 +30,8 @@
    * [tools](https://github.com/jamess010/AIOpen/tree/master/data/tools)
      * [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)
      * [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)
+        * [audioset](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa/audioset)
+        * [mfcc-fbank](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa/mfcc-fbank)
      * [opencv](https://github.com/jamess010/AIOpen/tree/master/data/tools/opencv)
      * [pillow](https://github.com/jamess010/AIOpen/tree/master/data/tools/pillow)
      * [scipy](https://github.com/jamess010/AIOpen/tree/master/data/tools/scipy)
