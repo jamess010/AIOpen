@@ -9,7 +9,7 @@
 
 [pillow](https://github.com/jamess010/AIOpen/tree/master/data/tools/pillow)：
 
-[opencs](https://github.com/jamess010/AIOpen/tree/master/data/tools/opencv)：
+[opencv](https://github.com/jamess010/AIOpen/tree/master/data/tools/opencv)：
 
 #### 文本处理工具
 
