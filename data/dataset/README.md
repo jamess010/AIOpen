@@ -1,27 +1,27 @@
 # 目录
 
-download_youtube_convert2wav：从youtub上下载声音文件，并转换为 wav 文件
+download_youtube_convert2wav： 从Audioset分类的527个标签中选定声音标签，然后从youtub上下载声音文件，并转换为 wav 文件
 
 ---
 
 # 数据集列表
 
-### (经典，C)
+#### (经典，C)
 这些是在 AI 领域中非常著名、众所周知的数据集。很少有研究者或工程师没有听说过它们。
 
-### (有用，U) 
+#### (有用，U) 
 这些是更加接近现实世界的、精心设计的数据集。而且，这些数据集通常在产品和研发两方面都有用。
 
-### (学术，S) 
+#### (学术，S) 
 这些是在机器学习和 AI 的学术研究中通常作为基准或基线使用的数据集。无论好坏，研究人员都使用这些数据集来验证算法。
 
-### (陈旧，O) 
+#### (陈旧，O) 
 这些数据集，无论是否实用，已经有相当长历史了。
 
-### (收费，F)
+#### (收费，F)
 这些是收费数据集，用户可以根据情况决定是否购买使用。
 
-# 计算机视觉
+### 计算机视觉
 
 Open Images(U)：是谷歌开源的一个大型数据集，包含大约 900 万张图像，这些图像用图像级别的标签和目标边界框进行了标注。</br>
 地址：https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F06mf6
@@ -53,7 +53,7 @@ Visual Genome(U)：非常详细的视觉知识数据集，包含约100K图像的
 Labeled Faces in the Wild(有用、学术、经典、陈旧)：使用名称标识符标记的面部区域数据集，常用于训练面部识别系统。</br>
 地址：http://vis-www.cs.umass.edu/lfw/
 
-# 自然语言处理
+### 自然语言处理
 
 Chinese Word Vectors（US）： 上百种中文词向量数据集。</br>
 地址：https://github.com/Embedding/Chinese-Word-Vectors
@@ -107,7 +107,7 @@ UCI’s Spambase(CO)：这是一个年代较久远的、经典的垃圾电子邮
 地址：https://archive.ics.uci.edu/ml/datasets/Spambase
 
 
-# 语音
+### 语音
 
 大多数语音识别数据集是专有的，因为这些数据对于创建该数据集的公司来说具有很大价值。因此，这部分的可用公开数据集多数比较陈旧。</br>
 
@@ -143,7 +143,7 @@ Vystadial：English and Czech data, mirrored from the Vystadial project。</br>
 
 
 
-# 推荐和排序系统
+### 推荐和排序系统
 
 Netflix Challenge(CO)：第一个主要的 Kaggle 挑战赛数据集，但由于隐私问题，只有非正式的数据集提供。</br>
 地址：http://www.netflixprize.com/
@@ -158,7 +158,7 @@ Last.fm(U)：可访问底层社交网络及其他元数据的音乐推荐数据�
 地址：http://grouplens.org/datasets/hetrec-2011/
 
 
-# 网络和图表
+### 网络和图表
 
 Amazon Co-Purchasing and Amazon Reviews(S)：亚马逊网站的“买了该产品的用户也买了......”板块的数据，以及相关产品的亚马逊评论数据。适合用于推荐系统。</br>
 地址：http://snap.stanford.edu/data/amazon-meta.html
@@ -167,7 +167,7 @@ Friendster Social Network Dataset：包含103,750,348个 Friendster 用户的好
 地址：https://archive.org/details/friendster-dataset-201107
 
 
-# 地理空间数据
+### 地理空间数据
 
 城市数据派数据(FU)：中国城市小区数据等。</br>
 地址：https://www.udparty.com/index.php/lists/data?page=0
