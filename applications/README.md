@@ -18,6 +18,11 @@
 
 ---
 
+#### 
+ 
+在不同行业中应用机器学习和数据科学的精选列表。</br>
+地址：https://github.com/firmai/industry-machine-learning
+
 #### 机器人
 
 Doggo：一个名为 Stanford Doggo 的四足机器人，这个机器人的成本降到了 3000 美元以下，而且设计团队开源了该机器人的设计图、代码以及材料清单。任何感兴趣的人都能够通过这些材料打造属于自己的 Doggo 机器人。</br>
