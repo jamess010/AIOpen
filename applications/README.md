@@ -19,7 +19,7 @@
 ---
  
  
-#### 在不同行业中应用机器学习和数据科学的精选列表。
+#### 机器学习和数据科学在不同行业中应用的精选列表。
 地址：https://github.com/firmai/industry-machine-learning
 
 #### 机器人
