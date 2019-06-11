@@ -25,6 +25,9 @@
 #### Python中使用金融机器学习（FinML）工具和应用程序的精选列表。
 地址：https://github.com/firmai/financial-machine-learning
 
+#### 用于会计的实用商业机器学习（BML）和商业数据科学（BDS）应用程序的精选列表。
+地址：https://github.com/firmai/business-machine-learning
+
 #### 机器人
 
 Doggo：一个名为 Stanford Doggo 的四足机器人，这个机器人的成本降到了 3000 美元以下，而且设计团队开源了该机器人的设计图、代码以及材料清单。任何感兴趣的人都能够通过这些材料打造属于自己的 Doggo 机器人。</br>
