@@ -18,15 +18,6 @@
 
 ---
  
- 
-#### 机器学习和数据科学在不同行业中应用的精选列表。
-地址：https://github.com/firmai/industry-machine-learning
-
-#### Python中使用金融机器学习（FinML）工具和应用程序的精选列表。
-地址：https://github.com/firmai/financial-machine-learning
-
-#### 用于会计的实用商业机器学习（BML）和商业数据科学（BDS）应用程序的精选列表。
-地址：https://github.com/firmai/business-machine-learning
 
 #### 机器人
 
