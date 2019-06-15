@@ -2,6 +2,9 @@
 ### 相关资源
 ---
 
+知识图谱列表：</br>
+地址：https://github.com/BrambleXu/knowledge-graph-learning
+
 浙江大学教授陈华钧的知识图谱PPT。</br>
 地址：https://pan.baidu.com/s/15SMbpWjE8DkTRPXe1I5INw
 
