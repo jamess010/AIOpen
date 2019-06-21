@@ -5,6 +5,9 @@
 
 ### 其它资源列表
 
+stm32lib：stm32的例子。</br>
+地址：https://github.com/petewarden/stm32_bare_lib
+
 NVIDIA DALI：是一个GPU加速的数据增强和图像加载库，为优化深度学习框架数据pipeline而设计。</br>
 地址：https://github.com/NVIDIA/dali
 
