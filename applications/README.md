@@ -55,6 +55,9 @@ NVIDIA nvJPEG：是用于JPEG解码的高性能GPU加速库。</br>
 ---
 #### 其它
 
+BentoML：数据打包、部署工具。</br>
+地址：https://github.com/bentoml/BentoML
+
 自定义对象检测和分类训练。</br>
 地址：https://github.com/cloud-annotations/training/
 
