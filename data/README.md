@@ -27,6 +27,9 @@
 
 ### 其它数据集列表
 
+Open Images v5：Google发布了Open Images v5，这是一个包含350个类别的280万个对象的分段掩码的大量带注释图像
+地址：https://storage.googleapis.com/openimages/web/download.html
+
 ODSC：25个优秀的机器学习开放数据集。</br>
 地址：https://opendatascience.com/25-excellent-machine-learning-open-datasets/
 
