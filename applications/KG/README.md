@@ -2,6 +2,9 @@
 ### 相关资源
 ---
 
+知识图谱库。</br>
+地址：https://github.com/graknlabs/kglib
+
 知识图谱列表：</br>
 地址：https://github.com/BrambleXu/knowledge-graph-learning
 
