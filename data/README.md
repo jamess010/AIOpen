@@ -27,7 +27,7 @@
 
 ### 其它数据集列表
 
-FSD：25个优秀的机器学习开放数据集。</br>
+ODSC：25个优秀的机器学习开放数据集。</br>
 地址：https://opendatascience.com/25-excellent-machine-learning-open-datasets/
 
 NLP-Datasets：自然语言处理（NLP）的公共数据集。</br>
