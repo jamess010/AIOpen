@@ -2,6 +2,9 @@
 ### 相关资源
 ---
 
+KGCN：使用TensorFlow进行知识图表的机器学习。</br>
+地址：https://dzone.com/articles/kgcns-machine-learning-over-knowledge-graphs-with
+
 知识图谱库。</br>
 地址：https://github.com/graknlabs/kglib
 
