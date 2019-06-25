@@ -4,7 +4,7 @@
 
 [Audio](https://github.com/jamess010/AIOpen/edit/master/applications/Audio)：音频处理
 
-[EEG](https://github.com/jamess010/AIOpen/edit/master/applications/EGG)：事理图谱。
+[EEG](https://github.com/jamess010/AIOpen/edit/master/applications/EEG)：事理图谱。
 
 [FR](https://github.com/jamess010/AIOpen/edit/master/applications/FR)：人脸识别。
 
