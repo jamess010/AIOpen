@@ -1,5 +1,8 @@
 # 其它资源
 
+terraform：是一种安全有效地构建、更改和版本控制基础设施的工具(基础架构自动化的编排工具)。</br>
+地址：https://github.com/hashicorp/terraform
+
 HElib：同态加密库。</br>
 地址：https://github.com/shaih/HElib
 
