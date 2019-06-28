@@ -2,6 +2,8 @@
 
 ### 文章
 
+[PySyft:联邦学习教程](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%201%20-%20The%20Basic%20Tools%20of%20Private%20Deep%20Learning.ipynb)
+
 [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) | [源码](https://github.com/roxanneluo/Federated-Learning)
 
 
