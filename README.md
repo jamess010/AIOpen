@@ -8,15 +8,15 @@
 
 
 # 目录结构
-- #### [data](https://github.com/jamess010/AIOpen/tree/master/data)：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
+- [data](https://github.com/jamess010/AIOpen/tree/master/data)：数据：数据集、数据区块链、数据采集方法（Hadoop、Spark等）。
 
-- #### [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：包括监督/无监督学习、深度学习、训练框架、模型、迁移学习、联邦学习、强化学习等。
+- [algorithm](https://github.com/jamess010/AIOpen/tree/master/algorithm)：算法：包括监督/无监督学习、深度学习、训练框架、模型、迁移学习、联邦学习、强化学习等。
 
-- #### [power](https://github.com/jamess010/AIOpen/tree/master/power)：算力：GPU、TPU、OpenStack、K8S、docker等。
+- [power](https://github.com/jamess010/AIOpen/tree/master/power)：算力：GPU、TPU、OpenStack、K8S、docker等。
 
-- #### [applications](https://github.com/jamess010/AIOpen/tree/master/applications)：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
+- [applications](https://github.com/jamess010/AIOpen/tree/master/applications)：AI应用：各行业应用，如自动驾驶、人脸识别、声纹提取和识别、语音处理、知识图谱、自然语言处理（NLP）等。
 
-- #### [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
+- [others](https://github.com/jamess010/AIOpen/tree/master/others)：一些未分类的资源，学习资源（包括深度学习、区块链、node.js、go、python编程语言等）。
 ---
 # 目录导航
  * [data](https://github.com/jamess010/AIOpen/tree/master/data)
