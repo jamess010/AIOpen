@@ -1,5 +1,11 @@
 # 联邦学习（Federated Learning）
 
+### 为什么联邦学习
+
+1. GDPR，保护用户私有数据，使用联邦学习可以将模型下发到用户侧进行训练。
+2. 解决数据孤岛问题，如：互联网企业、银行间数据不可能共享，模型使用联邦学习可以在各家企业、银行的私有数据上进行训练。
+3. 分散数据的聚合分析，如：一个用户在多家银行借贷，但是多家银行数据不通，通过联邦学习的聚合分析可以分析出用户是否在多家银行借贷，从而避免风险。
+
 ### 文章
 
 [PySyft:联邦学习教程](https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%201%20-%20The%20Basic%20Tools%20of%20Private%20Deep%20Learning.ipynb)
