@@ -11,6 +11,8 @@
 
 ### 相关资源
 
+tensorflow 联邦学习：https://www.tensorflow.org/federated
+
 联邦学习资源：[资源一](https://github.com/tushar-semwal/awesome-federated-computing) | [资源二](https://github.com/timmers/awesome-federated-learning)
 
 一个实现联合学习的框架。</br>
