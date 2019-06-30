@@ -351,6 +351,7 @@ Storm：基于流的分布式计算引擎</br>
 
 ### T
 
+[TFF](https://www.tensorflow.org/federated)：TensorFlow_Federated，tensorflow联邦学习。</br>
 [TF-Slim](https://github.com/xssc/awesome-slim)：Tensorflow的一个辅助工具</br>
 Theano：用于深度学习的框架，基于Python</br>
 [Tensorflow](https://github.com/jtoy/awesome-tensorflow)
