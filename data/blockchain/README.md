@@ -45,6 +45,15 @@ Hyperledger 源码分析之 Fabric。</br>
 cello：Blockchain Management Platform。区块链管理平台。</br>
 地址：https://github.com/hyperledger/cello
 
+区块链开发和应用的精选资源清单：https://github.com/yjjnls/awesome-blockchain
+
+非金融区块链：https://github.com/machinomy/awesome-non-financial-blockchain
+
+区块链文章汇集：https://github.com/hylinux1024/awesome-blockchain-articles
+
+区块链+AI：https://github.com/steven2358/awesome-blockchain-ai
+
+
 ## 主流区块链技术
 
 #### 区块链1.0
@@ -122,13 +131,6 @@ AI+区块链写码全过程。</br>
 超块链：是一种区块链技术，支持多币多账本，无基础币，不依赖特定账本，对跨链交易、非金融业务有更好的支持。 </br>
 地址：https://github.com/HyperBlockChain
 
-区块链开发和应用的精选资源清单：https://github.com/yjjnls/awesome-blockchain
-
-非金融区块链：https://github.com/machinomy/awesome-non-financial-blockchain
-
-区块链文章汇集：https://github.com/hylinux1024/awesome-blockchain-articles
-
-区块链+AI：https://github.com/steven2358/awesome-blockchain-ai
 
 ----
 #### 几大主流开源技术的比较：
