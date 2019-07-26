@@ -107,3 +107,6 @@ Voice Activity Detection Toolkit：语音端点检测工具包。是论文 Voice
 
 10 个音频处理任务让你开始深度学习应用（附案例研究）。 </br>
 地址：https://www.analyticsvidhya.com/blog/2018/01/10-audio-processing-projects-applications/
+
+语音合成技术：https://github.com/lbqin/SpeechSynthesis
+
