@@ -27,7 +27,7 @@
    * [bdcloud（大数据云平台）](https://github.com/jamess010/AIOpen/tree/master/data/bdcloud)
    * [hadoop](https://github.com/jamess010/AIOpen/tree/master/data/hadoop)
    * [spark](https://github.com/jamess010/AIOpen/tree/master/data/spark)
-   * [blockchain](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
+   * [blockchain（区块链技术）](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
    * [tools](https://github.com/jamess010/AIOpen/tree/master/data/tools)
      * [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)
      * [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)
