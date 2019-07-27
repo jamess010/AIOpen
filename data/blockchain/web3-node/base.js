@@ -1,3 +1,7 @@
+1) 启动 ganache
+2）配置端口
+3）将server hostname 设置为 0.0.0.0-All Interface
+
 // 定义 web3 库
 
 var Web3 = require('web3');
