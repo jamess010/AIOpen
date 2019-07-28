@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="author" content="Kenneth Hu">
+    <title>Web3js</title>
+
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <script src="js/web3.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+
+        <h1>Web3.js</h1>
+
+        <label for="name" class="col-lg-2 control-label"><h3>NodeInfo</h3></label>
+        <input id="NodeInfo" type="text">
+
+		<hr>
+
+        <label for="name" class="col-lg-2 control-label"><h3>Balance</h3></label>
+		<p>Account : <input id="Account" type="text"> </p>
+        <p>Balance : <input id="Balance" type="text"></p>
+		 <button id="checkBalance">Check Balance</button>
+
+		<hr>
+		<label for="name" class="col-lg-2 control-label"><h3>Transfer</h3></label>
+		<p>From : &nbsp &nbsp &nbsp <input id="From" type="text"> </p>
+		<p>To : &nbsp &nbsp &nbsp &nbsp &nbsp <input id="To" type="text"> </p>
+        <p>Amount : &nbsp <input id="Amount" type="text"></p>
+        <button id="Transfer">Transfer</button>
+        <p>Transaction Hash : &nbsp  <span id="Tx"></span></p>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+
+    <script>
+
+		$( document ).ready(function() {
+			console.log( "ready!" );
+
+			if (typeof web3 !== 'undefined') {
+				web3 = new Web3(web3.currentProvider);
+			} else {
+					// set the provider you want from Web3.providers
+				web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545"));
+			}
+			web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8989"));
+			/* Get Node Info */
+			web3.eth.getNodeInfo(function(error, result){
+				if(error){
+					console.log( "error" ,error);
+				}
+				else{
+					console.log( "result",result );
+					$('#NodeInfo').val(result);
+				}
+			});
+
+			/*Get Balance */
+			web3.eth.getAccounts(function(error, accounts) {
+				if(error) {
+					console.log(error);
+				}
+				$('#Account').val(accounts[0]);
+				web3.eth.getBalance(accounts[0]).then(function(result){
+					console.log( "Balance : " ,web3.utils.fromWei(result, 'ether'));
+					$('#Balance').val(web3.utils.fromWei(result, 'ether'));
+				});
+			});
+
+			$('#checkBalance').click(function() {
+			    var _account = $('#Account').val();
+				web3.eth.getBalance(_account).then(function(result){
+					console.log( "Balance : " ,web3.utils.fromWei(result, 'ether'));
+					$('#Balance').val(web3.utils.fromWei(result, 'ether'));
+				});
+			});
+
+
+			/* Transfer */
+			$('#Transfer').click(function() {
+				$('#Tx').text('');
+				var _from = $('#From').val();
+			    var _to = $('#To').val();
+				var _Amount = $('#Amount').val();
+				var txnObject = {
+					"from":_from,
+					"to": _to,
+					"value": web3.utils.toWei(_Amount,'ether'),
+					// "gas": 21000,         (optional)
+					// "gasPrice": 4500000,  (optional)
+					// "data": 'For testing' (optional)
+					// "nonce": 10           (optional)
+				}
+
+				web3.eth.sendTransaction(txnObject, function(error, result){
+					if(error){
+						console.log( "Transaction error" ,error);
+					}
+					else{
+						var txn_hash = result; //Get transaction hash
+						$('#Tx').text(txn_hash);
+					}
+				});
+
+			});
+
+
+		});
+
+    </script>
+
+</body>
+</html>
