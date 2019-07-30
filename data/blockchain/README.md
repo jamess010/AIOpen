@@ -1,6 +1,6 @@
 # 本地文件说明
 [ethereum-explorer](https://github.com/jamess010/ethereum-explorer)：一个docker实现的ehereum私有链，并通过浏览器查看区块链</br>
-[docker-truffle)](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-truffle)：truffle 的 Docker 实现</br>
+[docker-truffle](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-truffle)：truffle 的 Docker 实现</br>
 [docker-web3-nodejs](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-web3-nodejs)：node，web3 的 Docker 实现</br>
 [docker-web3-python](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-web3-python)：一个 Docker实现的 web3 python</br>
 [truffle-react](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/truffle-react)：truffle react 实现的简单智能合约，带前端和后端</br>
