@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web3-notebook:
+    build: .
+    image: web3py/notebook
+    environment:
+      PARITY_VERSION: v2.3.5
+    volumes:
+      - .:/code
+    ports:
+      - "8828:8888"

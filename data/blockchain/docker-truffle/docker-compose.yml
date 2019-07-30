@@ -1,0 +1,11 @@
+version: '3'
+services:
+  truffle:
+    build: .
+    image: web3/truffle
+    volumes:
+      - .:/home
+    ports:
+      - "9645:9545"
+      - "8645:8545"
+    command: tail -f > /dev/null

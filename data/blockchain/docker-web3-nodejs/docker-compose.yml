@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web3-node:
+    build: .
+    image: node/web3
+    volumes:
+      - .:/home
+    command: tail -f > /dev/null
