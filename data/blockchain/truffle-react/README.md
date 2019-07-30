@@ -6,7 +6,7 @@
 6) compile
 7) migrate (--reset)
 8) cd client, npm start
-9) config metamask wallet to private chain on http://localhost:8545
+9) config metamask wallet , and connet to private chain on http://localhost:8545
 10) visit http://localhost:3000
 11) input nuber in input box, then click "Update" button
 12) in wallet , click comfirm button
