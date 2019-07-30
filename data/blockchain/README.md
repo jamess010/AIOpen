@@ -4,6 +4,9 @@
 [docker-web3-nodejs](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-web3-nodejs)：node，web3 的 Docker 实现</br>
 [docker-web3-python](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/docker-web3-python)：一个 Docker实现的 web3 python</br>
 [truffle-react](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/truffle-react)：truffle react 实现的简单智能合约，带前端和后端</br>
+[web3-nodejs](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/web3-nodejs)：node javascript web3 代码</br>
+[web3-python](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/web3-python)：python web3 代码</br>
+[web3js](https://github.com/jamess010/AIOpen/tree/master/data/blockchain/web3js)：web3 前端代码 </br>
 
 bc_ex2.ipynb：6步使用python玩转区块链</br>
 encrypt.ipynb：使用PyCrypto库实现的MD5、SHA-256、SHA-512、RIPEMD160.
