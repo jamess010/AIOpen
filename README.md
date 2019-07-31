@@ -28,7 +28,7 @@
    * [hadoop](https://github.com/jamess010/AIOpen/tree/master/data/hadoop)
    * [spark](https://github.com/jamess010/AIOpen/tree/master/data/spark)
    * [blockchain（区块链技术）](https://github.com/jamess010/AIOpen/tree/master/data/blockchain)
-     * [AIOnChain（区块链+IPFS构建的联邦学习](https://github.com/jamess010/AIonChain)
+     * [AIOnChain（区块链+IPFS构建的联邦学习）](https://github.com/jamess010/AIonChain)
    * [tools](https://github.com/jamess010/AIOpen/tree/master/data/tools)
      * [NLTK](https://github.com/jamess010/AIOpen/tree/master/data/tools/NLTK)
      * [librosa](https://github.com/jamess010/AIOpen/tree/master/data/tools/librosa)
