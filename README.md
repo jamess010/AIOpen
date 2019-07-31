@@ -431,5 +431,6 @@ zookeeper：提供分布式、高可用性的协调服务能力。 帮助系统�
 ### 欢迎任何反馈、建议和贡献
 - #### Website：http://www.aiopens.net
 - #### E-mail：jamess@126.com
+- #### 我的博客：https://www.aifirm.org
 - #### 微信扫描下方二维码，关注“AIOpens”公众号
 <div align=center><img src="https://github.com/jamess010/AIOpen/blob/master/pic/aiopens_weixin.jpg" /></div>
