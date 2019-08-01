@@ -1,8 +1,7 @@
 version: '3'
 services:
-  web3-notebook:
-    build: .
-    image: web3py/notebook
+  web3py-notebook:
+    image: jamess010/web3py-notebook
     environment:
       PARITY_VERSION: v2.3.5
     volumes:
