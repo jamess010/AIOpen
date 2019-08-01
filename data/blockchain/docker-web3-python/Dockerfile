@@ -7,18 +7,23 @@ WORKDIR /usr/src/app
 # Install Linux dependencies
 RUN apt-get update && apt-get install -y libssl-dev
 
-COPY web3 ./web3/
-COPY tests ./tests/
-COPY ens ./ens/
+# git clone https://github.com/ethereum/web3.py
 
-COPY setup.py .
-COPY README.md .
+COPY ./web3.py/web3 ./web3/
+COPY ./web3.py/tests ./tests/
+COPY ./web3.py/ens ./ens/
+COPY ./web3.py/setup.py .
+COPY ./web3.py/README.md .
 
 RUN pip install -e .[dev]
 
 RUN pip3 install jupyter
 RUN jupyter notebook --generate-config
 COPY jupyter_notebook_config.py /root/.jupyter/.
+
+RUN python -m solc.install v0.4.25
+
+RUN ln -s /root/.py-solc/solc-v0.4.25/bin/solc /usr/local/bin/solc
 
 WORKDIR /code
 
