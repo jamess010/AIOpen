@@ -7,7 +7,7 @@
 
 awesome-deepfakes：https://github.com/aerophile/awesome-deepfakes
 
-Faceai：一款入门级的人脸、视频、文字检测以及识别的项目.
+Faceai：一款入门级的人脸、视频、文字检测以及识别的项目.</br>
 地址：https://github.com/vipstone/faceai
 
 Face Recognition：是一个强大、简单、易上手的人脸识别开源项目。</br>
